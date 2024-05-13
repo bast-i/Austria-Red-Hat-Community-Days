@@ -24,6 +24,8 @@
 | 5.-9. Mai | [Red Hat Summit and AnsibleFest]([url](https://www.redhat.com/en/summit)) Denver, US | Aufzeichnungen und Highlights auf Red Hat TV, YouTube und im Red Hat Summit Newsroom |
 
 
+| Mehr Community und Entwickler Quellen |
+| ------------- |
   
   <div class="w3-container w3-blue">
     <h5>Mehr Community und Entwickler Quellen</h5> 
