@@ -25,7 +25,7 @@
 
 
 | Mehr Community und Entwickler Quellen |
-| ------------- |
+| -------------------------------------------| 
 | [Red Hat]([url](https://www.redhat.com/)) |
 | [Try out Red Hat Developer]([url](https://developers.redhat.com/)) |
 | [Open Practice Library - DevOps and product development practices for running workshops and learning about the discovery and delivery of software]([url](https://openpracticelibrary.com/)) |
