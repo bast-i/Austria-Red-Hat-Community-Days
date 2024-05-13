@@ -1,6 +1,4 @@
 # Austria Red Hat 2024 Community Days
-testing the Github site feature
-
 |  Datum  |  Veranstaltung  |  Hinweise  |
 | ------------- | ------------- |
 | 3. od. 4. Do. im Monat | Red Hat Austria & Friends | Einladung / Organisation Stephan Kraft |
