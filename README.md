@@ -1,6 +1,6 @@
 # Austria Red Hat 2024 Community Days
 
-|  Datum  |  Veranstaltung  |  Hinweise  |
+| Datum | Veranstaltung | Hinweise |
 | ------------- | ------------- |
 | 3. od. 4. Do. im Monat | Red Hat Austria & Friends | Einladung / Organisation Stephan Kraft |
 | 16. Mai | [Platform Engineering Community] (https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20240516-Austrian-Plattform-Engineering-Community.html) @BRZ |  |
