@@ -1,7 +1,7 @@
 # Austria Red Hat 2024 Community Days
 
-| Datum | Veranstaltung | Hinweise |
-| ------------- | ------------- |
+| Datum | Veranstaltung | Hinweise | 
+| ------------- | ------------- | 
 | 3. od. 4. Do. im Monat | Red Hat Austria & Friends | Einladung / Organisation Stephan Kraft |
 | 16. Mai | [Platform Engineering Community @BRZ]([url](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20240516-Austrian-Plattform-Engineering-Community.html)) |  |
 | 6. Juni | [OpenShift Virtualization - Hands-on Workshop]([url](https://forms.gle/LizKrbWG6ZUzgn1S6)) Red Hat Wien | 13:30 - 17:00, Tech Requirements: Bring Your Own Device, Nur Browser erforderlich (keine lokale Installation!) |
@@ -12,8 +12,8 @@
 | 8.-10. Okt. | [Kubernetes & Cloud Native community]([url](https://kcdaustria.at/)) Vienna, Austria | Call for proposals bis 22. Juni |
 
 
-| Datum | Vergangenge Veranstaltungen | Hinweise |
-| ------------- | ------------- |
+| Datum | Vergangenge Veranstaltungen | Hinweise | 
+| ------------- | ------------- | 
 | 28. Februar | [5. Ansible Anwendertreffen]([url](https://www.ansible-anwender.de/)) Frankfurt am Main, Deutschland |  |
 | 7. März | FIWARE Community Treffen [Anmeldung und Details über die Wirtschaftsagentur Wien]([url](https://wirtschaftsagentur.at/termine-events-workshops/fiware-community-treffen/)) FH Technikum, Wien | Kontakt David Hanacek |
 | 19. März | Das ist das erste Meetup der [Keycloak User Group Austria]([url](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/297881850/)) Millennium Tower, Wien | Kontakt Stephan Kraft |
@@ -24,7 +24,7 @@
 | 5.-9. Mai | [Red Hat Summit and AnsibleFest]([url](https://www.redhat.com/en/summit)) Denver, US | Aufzeichnungen und Highlights auf Red Hat TV, YouTube und im Red Hat Summit Newsroom |
 
 
-| Mehr Community und Entwickler Quellen |
+| Mehr Community und Entwickler Quellen | 
 | -------------------------------------------| 
 | [Red Hat]([url](https://www.redhat.com/)) |
 | Try out [Red Hat Developer]([url](https://developers.redhat.com/)) |
