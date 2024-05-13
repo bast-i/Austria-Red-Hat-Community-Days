@@ -40,30 +40,8 @@
 
 | Euer Red Hat Austria Community Team |  
 | :---: | 
-| <img src="images/image5.jpg" width="120"> <h3>Robert Baumgartner</h3>, <h4>Senior Specialist Solution Architect</h4> | 
-
-
-  <div class="w3-third">
-    <div class="w3-card">
-        <img src="images/image5.jpg" alt="Robert Baumgartner" title=""style="width:50%">
-        <div class="w3-container">
-          <h3>Robert Baumgartner</h3>
-          Senior Specialist Solution Architect<br>
-        </div>
-    </div>
-    <p></p>
-  </div>
-
-  <div class="w3-third">
-    <div class="w3-card">
-        <img src="images/image3.jpg" alt="David Hanacek" title=""style="width:50%">
-        <div class="w3-container">
-          <h3>David Hanacek</h3>
-          Senior Solution Architect<br>
-        </div>
-    </div>
-    <p></p>
-  </div>
+| <img src="images/image5.jpg" width="120"> <h3>Robert Baumgartner</h3><h4>Senior Specialist Solution Architect</h4> | 
+| <img src="images/image3.jpg" width="120"> <h3>David Hanacek</h3><h4>Senior Solution Architect</h4> | 
 
   <div class="w3-third">
     <div class="w3-card">
