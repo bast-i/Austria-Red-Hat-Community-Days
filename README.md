@@ -1,4 +1,5 @@
 # Austria Red Hat 2024 Community Days
+
 |  Datum  |  Veranstaltung  |  Hinweise  |
 | ------------- | ------------- |
 | 3. od. 4. Do. im Monat | Red Hat Austria & Friends | Einladung / Organisation Stephan Kraft |
