@@ -42,31 +42,5 @@
 | :---: | 
 | <img src="images/image5.jpg" width="120"> <h3>Robert Baumgartner</h3><h4>Senior Specialist Solution Architect</h4> | 
 | <img src="images/image3.jpg" width="120"> <h3>David Hanacek</h3><h4>Senior Solution Architect</h4> | 
-
-  <div class="w3-third">
-    <div class="w3-card">
-        <img src="images/image6.jpg" alt="Stephan Kraft" title=""style="width:50%">
-        <div class="w3-container">
-          <h3>Stephan Kraft</h3>
-          Software Developer Advocate<br>
-        </div>
-    </div>
-    <p></p>
-  </div>
-</div>
-
-<div class="w3-row-padding w3-section w3-center">
-
-  <div class="w3-third">
-    <div class="w3-card">
-        <img src="images/image4.jpg" alt="Stephan Neubauer" title=""style="width:50%">
-        <div class="w3-container">
-          <h3>Stephan Neubauer</h3>
-          Sales Account Manager<br>
-        </div>
-    </div>
-    <p></p>
-  </div>
-
-</body>
-</html>
+| <img src="images/image6.jpg" width="120"> <h3>Stephan Kraft</h3><h4>Software Developer Advocate</h4> | 
+| <img src="images/image4.jpg" width="120"> <h3>Stephan Neubauer</h3><h4>Sales Account Manager</h4> |
