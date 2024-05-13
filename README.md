@@ -26,26 +26,18 @@
 
 | Mehr Community und Entwickler Quellen |
 | ------------- |
+| [Red Hat]([url](https://www.redhat.com/)) |
+| [Try out Red Hat Developer]([url](https://developers.redhat.com/)) |
+| [Open Practice Library - DevOps and product development practices for running workshops and learning about the discovery and delivery of software]([url](https://openpracticelibrary.com/)) |
+| [Red Hat interactive labs - Red Hat Enterprise Linux, Openshift and Ansible Automation Platform labs]([url](https://www.redhat.com/en/interactive-labs)) |
+| [Red Hat OpenShift Library - single, easily-accessible repository to access prescribed assets and offers at every stage of the product life cycle]([url](https://access.redhat.com/articles/7052429)) |
+| [learn.openshift.com - Guided demos of new features on a real cluster]([url](https://learn.openshift.com)) |
+| [try.openshift.com - OpenShift info, documentation and more]([url](https://try.openshift.com)) |
+| [What's new in Red Hat OpenShift - Join our Red Hat OpenShift product managers for in-depth overviews of Red Hat OpenShift releases.]([url](https://www.redhat.com/en/whats-new-red-hat-openshift)) |
+| [Weitere OpenShift-Livestream-Events über Google Kalender (bitte auf Zeitzone achten)]([url](https://calendar.google.com/calendar/u/0/embed?src=redhatstreaming@gmail.com)) |
+| [commons.openshift.org - OpenShift Commons: Where users, partners, and contributors come together]([url](https://commons.openshift.org)) |
   
-  <div class="w3-container w3-blue">
-    <h5>Mehr Community und Entwickler Quellen</h5> 
-  </div>  
-
-  <div class="w3-container">
-    <ul>
-      <li><a href="https://www.redhat.com/">Red Hat</a></li>
-      <li>Try out <a href="https://developers.redhat.com/">Red Hat Developer</a></li>
-      <li><a href="https://openpracticelibrary.com/" target="_blank">Open Practice Library</a> - DevOps and product development practices for running workshops and learning about the discovery and delivery of software</li>
-      <li><a href="https://www.redhat.com/en/interactive-labs" target="_blank">Red Hat interactive labs</a> - Red Hat Enterprise Linux, Openshift and Ansible Automation Platform labs</li>
-      <li><a href="https://access.redhat.com/articles/7052429" target="_blank">Red Hat OpenShift Library</a> - single, easily-accessible repository to access prescribed assets and offers at every stage of the product life cycle</li>
-      <li><a href="https://learn.openshift.com" target="_blank">learn.openshift.com</a> - Guided demos of new features on a real cluster</li>
-      <li><a href="https://try.openshift.com" target="_blank">try.openshift.com</a> - OpenShift info, documentation and more</li>
-      <li><a href="https://www.redhat.com/en/whats-new-red-hat-openshift" target="_blank">What's new in Red Hat OpenShift</a> - Join our Red Hat OpenShift product managers for in-depth overviews of Red Hat OpenShift releases.</li>
-      <li><a href="https://calendar.google.com/calendar/u/0/embed?src=redhatstreaming@gmail.com" target="_blank">Weitere OpenShift-Livestream-Events über Google Kalender</a> (bitte auf Zeitzone achten)</li>
-      <li><a href="https://commons.openshift.org" target="_blank">commons.openshift.org</a> - OpenShift Commons: Where users, partners, and contributors come together</li>
-    </ul>
-  </div>  
-
+  
 <div class="w3-container w3-blue">
   <h5>Euer Red Hat Austria Community Team</h5> 
 </div>  
