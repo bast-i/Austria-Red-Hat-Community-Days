@@ -37,12 +37,12 @@
 | [Weitere OpenShift-Livestream-Events über Google Kalender]([url](https://calendar.google.com/calendar/u/0/embed?src=redhatstreaming@gmail.com)) (bitte auf Zeitzone achten) |
 | [commons.openshift.org]([url](https://commons.openshift.org)) - OpenShift Commons: Where users, partners, and contributors come together |
 
-  
-<div class="w3-container w3-blue">
-  <h5>Euer Red Hat Austria Community Team</h5> 
-</div>  
 
-<div class="w3-row-padding w3-section w3-center">
+| Euer Red Hat Austria Community Team | 
+| -------------------------------------------| 
+|<picture><img alt="Robert Baumgartner" src="images/image5.jpg"></picture>|
+| Robert Baumgartner, Senior Specialist Solution Architect | 
+
 
   <div class="w3-third">
     <div class="w3-card">
