@@ -1,13 +1,28 @@
 # Austria Red Hat 2024 Community Days
 testing the Github site feature
 
-
-
-| First Header  | Second Header |
+|  Datum  |  Veranstaltung  |  Hinweise  |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 3. od. 4. Do. im Monat | Red Hat Austria & Friends | Einladung / Organisation Stephan Kraft |
+| 16. Mai | Platform Engineering Community @BRZ |  |
+| 6. Juni | OpenShift Virtualization - Hands-on Workshop Red Hat Wien | 13:30 - 17:00, Tech Requirements: Bring Your Own Device, Nur Browser erforderlich (keine lokale Installation!) |
+| 12. Juni | Das ist das zweite Meetup der Keycloak User Group Austria Millennium Tower, Wien | Kontakt Stephan Kraft |
+| 13.-15. Juni | DevConf.CZ 2024 |  |
+| 20. Juni | Ansible Automates Wien | Novotel Wien Hauptbahnhof |
+| 10. Sept. | 26. OpenShift Anwendertreffen @ voestalpine Linz, Austria | Kontakt Stephan Kraft |
+| 8.-10. Okt. | Kubernetes & Cloud Native community Vienna, Austria | Call for proposals bis 22. Juni |
 
+
+| Datum | Vergangenge Veranstaltungen | Hinweise |
+| ------------- | ------------- |
+| 28. Februar | 5. Ansible Anwendertreffen Frankfurt am Main, Deutschland |  |
+| 7. März | FIWARE Community Treffen Anmeldung und Details über die Wirtschaftsagentur Wien FH Technikum, Wien | Kontakt David Hanacek |
+| 19. März | Das ist das erste Meetup der Keycloak User Group Austria Millennium Tower, Wien | Kontakt Stephan Kraft |
+| 19.-22. März | #KUBECON + #CLOUDNATIVECON Europe 2024 Paris, Frankreich | Robert Baumgartner ist vor Ort |
+| 45386 | Cloud-native Virtualisierung mit OpenShift Workshop, Wien | OpenShift Virtualisierung live kennenlernen (Vormittag) und am Nachmittag hands-on ausprobieren |
+| 45407 | Wiener Töchtertag 2024 |  |
+| 7. Mai | OpenShift Virtualization - Hands-on Workshop Red Hat Wien |  |
+| 5.-9. Mai | Red Hat Summit and AnsibleFest Denver, US | Aufzeichnungen und Highlights auf Red Hat TV, YouTube und im Red Hat Summit Newsroom |
 
 
 <!DOCTYPE html>
