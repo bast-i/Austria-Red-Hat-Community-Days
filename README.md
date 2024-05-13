@@ -4,24 +4,24 @@
 | ------------- | ------------- |
 | 3. od. 4. Do. im Monat | Red Hat Austria & Friends | Einladung / Organisation Stephan Kraft |
 | 16. Mai | [Platform Engineering Community @BRZ]([url](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20240516-Austrian-Plattform-Engineering-Community.html)) |  |
-| 6. Juni | OpenShift Virtualization - Hands-on Workshop Red Hat Wien | 13:30 - 17:00, Tech Requirements: Bring Your Own Device, Nur Browser erforderlich (keine lokale Installation!) |
-| 12. Juni | Das ist das zweite Meetup der Keycloak User Group Austria Millennium Tower, Wien | Kontakt Stephan Kraft |
-| 13.-15. Juni | DevConf.CZ 2024 |  |
-| 20. Juni | Ansible Automates Wien | Novotel Wien Hauptbahnhof |
-| 10. Sept. | 26. OpenShift Anwendertreffen @ voestalpine Linz, Austria | Kontakt Stephan Kraft |
-| 8.-10. Okt. | Kubernetes & Cloud Native community Vienna, Austria | Call for proposals bis 22. Juni |
+| 6. Juni | [OpenShift Virtualization - Hands-on Workshop]([url](https://forms.gle/LizKrbWG6ZUzgn1S6)) Red Hat Wien | 13:30 - 17:00, Tech Requirements: Bring Your Own Device, Nur Browser erforderlich (keine lokale Installation!) |
+| 12. Juni | Das ist das zweite Meetup der [Keycloak User Group Austria]([url](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/)) Millennium Tower, Wien | Kontakt Stephan Kraft |
+| 13.-15. Juni | [DevConf.CZ 2024]([url](https://www.devconf.info/cz/)) |  |
+| 20. Juni | [Ansible Automates]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1056344abcd)) Wien | Novotel Wien Hauptbahnhof |
+| 10. Sept. | [26. OpenShift Anwendertreffen @ voestalpine]([url](https://www.openshift-anwender.de/)) Linz, Austria | Kontakt Stephan Kraft |
+| 8.-10. Okt. | [Kubernetes & Cloud Native community]([url](https://kcdaustria.at/)) Vienna, Austria | Call for proposals bis 22. Juni |
 
 
 | Datum | Vergangenge Veranstaltungen | Hinweise |
 | ------------- | ------------- |
-| 28. Februar | 5. Ansible Anwendertreffen Frankfurt am Main, Deutschland |  |
-| 7. März | FIWARE Community Treffen Anmeldung und Details über die Wirtschaftsagentur Wien FH Technikum, Wien | Kontakt David Hanacek |
-| 19. März | Das ist das erste Meetup der Keycloak User Group Austria Millennium Tower, Wien | Kontakt Stephan Kraft |
-| 19.-22. März | #KUBECON + #CLOUDNATIVECON Europe 2024 Paris, Frankreich | Robert Baumgartner ist vor Ort |
-| 45386 | Cloud-native Virtualisierung mit OpenShift Workshop, Wien | OpenShift Virtualisierung live kennenlernen (Vormittag) und am Nachmittag hands-on ausprobieren |
-| 45407 | Wiener Töchtertag 2024 |  |
+| 28. Februar | [5. Ansible Anwendertreffen]([url](https://www.ansible-anwender.de/)) Frankfurt am Main, Deutschland |  |
+| 7. März | FIWARE Community Treffen [Anmeldung und Details über die Wirtschaftsagentur Wien]([url](https://wirtschaftsagentur.at/termine-events-workshops/fiware-community-treffen/)) FH Technikum, Wien | Kontakt David Hanacek |
+| 19. März | Das ist das erste Meetup der [Keycloak User Group Austria]([url](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/297881850/)) Millennium Tower, Wien | Kontakt Stephan Kraft |
+| 19.-22. März | [#KUBECON + #CLOUDNATIVECON Europe 2024]([url](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)) Paris, Frankreich | Robert Baumgartner ist vor Ort |
+| 45386 | [Cloud-native Virtualisierung mit OpenShift Workshop]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1048193abcd)), Wien | OpenShift Virtualisierung live kennenlernen (Vormittag) und am Nachmittag hands-on ausprobieren |
+| 45407 | [Wiener Töchtertag 2024]([url](https://www.toechtertag.at/betrieb/redhat/)) |  |
 | 7. Mai | OpenShift Virtualization - Hands-on Workshop Red Hat Wien |  |
-| 5.-9. Mai | Red Hat Summit and AnsibleFest Denver, US | Aufzeichnungen und Highlights auf Red Hat TV, YouTube und im Red Hat Summit Newsroom |
+| 5.-9. Mai | [Red Hat Summit and AnsibleFest]([url](https://www.redhat.com/en/summit)) Denver, US | Aufzeichnungen und Highlights auf Red Hat TV, YouTube und im Red Hat Summit Newsroom |
 
 
   
