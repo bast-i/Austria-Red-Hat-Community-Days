@@ -27,16 +27,16 @@
 | Mehr Community und Entwickler Quellen |
 | -------------------------------------------| 
 | [Red Hat]([url](https://www.redhat.com/)) |
-| [Try out Red Hat Developer]([url](https://developers.redhat.com/)) |
-| [Open Practice Library - DevOps and product development practices for running workshops and learning about the discovery and delivery of software]([url](https://openpracticelibrary.com/)) |
-| [Red Hat interactive labs - Red Hat Enterprise Linux, Openshift and Ansible Automation Platform labs]([url](https://www.redhat.com/en/interactive-labs)) |
-| [Red Hat OpenShift Library - single, easily-accessible repository to access prescribed assets and offers at every stage of the product life cycle]([url](https://access.redhat.com/articles/7052429)) |
-| [learn.openshift.com - Guided demos of new features on a real cluster]([url](https://learn.openshift.com)) |
-| [try.openshift.com - OpenShift info, documentation and more]([url](https://try.openshift.com)) |
-| [What's new in Red Hat OpenShift - Join our Red Hat OpenShift product managers for in-depth overviews of Red Hat OpenShift releases.]([url](https://www.redhat.com/en/whats-new-red-hat-openshift)) |
-| [Weitere OpenShift-Livestream-Events über Google Kalender (bitte auf Zeitzone achten)]([url](https://calendar.google.com/calendar/u/0/embed?src=redhatstreaming@gmail.com)) |
-| [commons.openshift.org - OpenShift Commons: Where users, partners, and contributors come together]([url](https://commons.openshift.org)) |
-  
+| Try out [Red Hat Developer]([url](https://developers.redhat.com/)) |
+| [Open Practice Library]([url](https://openpracticelibrary.com/))  - DevOps and product development practices for running workshops and learning about the discovery and delivery of software |
+| [Red Hat interactive labs]([url](https://www.redhat.com/en/interactive-labs)) - Red Hat Enterprise Linux, Openshift and Ansible Automation Platform labs |
+| [Red Hat OpenShift Library ]([url](https://access.redhat.com/articles/7052429)) - single, easily-accessible repository to access prescribed assets and offers at every stage of the product life cycle |
+| [learn.openshift.com]([url](https://learn.openshift.com)) - Guided demos of new features on a real cluster |
+| [try.openshift.com]([url](https://try.openshift.com)) - OpenShift info, documentation and more |
+| [What's new in Red Hat OpenShift]([url](https://www.redhat.com/en/whats-new-red-hat-openshift)) - Join our Red Hat OpenShift product managers for in-depth overviews of Red Hat OpenShift releases. |
+| [Weitere OpenShift-Livestream-Events über Google Kalender]([url](https://calendar.google.com/calendar/u/0/embed?src=redhatstreaming@gmail.com)) (bitte auf Zeitzone achten) |
+| [commons.openshift.org]([url](https://commons.openshift.org)) - OpenShift Commons: Where users, partners, and contributors come together |
+
   
 <div class="w3-container w3-blue">
   <h5>Euer Red Hat Austria Community Team</h5> 
