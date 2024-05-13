@@ -38,9 +38,9 @@
 | [commons.openshift.org]([url](https://commons.openshift.org)) - OpenShift Commons: Where users, partners, and contributors come together |
 
 
-| Euer Red Hat Austria Community Team |  |
-| :---: | ---: |   
-| <img src="images/image5.jpg" width="120">| Robert Baumgartner, Senior Specialist Solution Architect | 
+| Euer Red Hat Austria Community Team |  
+| :---: | 
+| <img src="images/image5.jpg" width="120"> <h3>Robert Baumgartner, Senior Specialist Solution Architect</h3> | 
 
 
   <div class="w3-third">
