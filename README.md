@@ -40,7 +40,7 @@
 
 | Euer Red Hat Austria Community Team | 
 | -------------------------------------------| 
-|<picture><img alt="Robert Baumgartner" src="images/image5.jpg" =100x100></picture>|
+| <img src="images/image5.jpg" width="48">|
 | Robert Baumgartner, Senior Specialist Solution Architect | 
 
 
