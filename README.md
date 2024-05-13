@@ -3,7 +3,7 @@
 | Datum | Veranstaltung | Hinweise |
 | ------------- | ------------- |
 | 3. od. 4. Do. im Monat | Red Hat Austria & Friends | Einladung / Organisation Stephan Kraft |
-| 16. Mai | [Platform Engineering Community] (https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20240516-Austrian-Plattform-Engineering-Community.html) @BRZ |  |
+| 16. Mai | [Platform Engineering Community @BRZ]([url](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20240516-Austrian-Plattform-Engineering-Community.html)) |  |
 | 6. Juni | OpenShift Virtualization - Hands-on Workshop Red Hat Wien | 13:30 - 17:00, Tech Requirements: Bring Your Own Device, Nur Browser erforderlich (keine lokale Installation!) |
 | 12. Juni | Das ist das zweite Meetup der Keycloak User Group Austria Millennium Tower, Wien | Kontakt Stephan Kraft |
 | 13.-15. Juni | DevConf.CZ 2024 |  |
