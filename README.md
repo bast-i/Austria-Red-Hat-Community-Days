@@ -1,3 +1,5 @@
+@import "{{ assets/css/w3.css }}";
+
 # Austria Red Hat 2024 Community Days
 
 | Datum | Veranstaltung | Hinweise | 
