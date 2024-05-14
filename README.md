@@ -1,4 +1,4 @@
-#<link type="text/css" rel="stylesheet" href="assets/css/w3.css" />
+<!--   REMOVE COMMENT WHEN STYLESHET IS FIXED <link type="text/css" rel="stylesheet" href="assets/css/w3.css" />  -->
 
 # Austria Red Hat 2024 Community Days
 
