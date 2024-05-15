@@ -1,5 +1,7 @@
 <!--   REMOVE COMMENT WHEN STYLESHET IS FIXED <link type="text/css" rel="stylesheet" href="assets/css/w3.css" />  -->
-<link type="text/css" rel="stylesheet" href="assets/css/jekyll-theme-dinky.scss" /> 
+<!-- <link type="text/css" rel="stylesheet" href="assets/css/jekyll-theme-dinky.scss" />  -->
+<link rel="stylesheet" href="assets/css/jekyll-theme-dinky.scss">
+
 
 # Austria Red Hat 2024 Community Days - test
 
