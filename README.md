@@ -1,6 +1,6 @@
 <!--   REMOVE COMMENT WHEN STYLESHET IS FIXED <link type="text/css" rel="stylesheet" href="assets/css/w3.css" />  -->
 <!-- <link type="text/css" rel="stylesheet" href="assets/css/jekyll-theme-dinky.scss" />  -->
-<link rel="stylesheet" href="assets/css/jekyll-theme-dinky.scss">
+<link rel="stylesheet" href="assets/css/my-jekyll-theme-dinky.scss">
 <!-- <link rel="stylesheet" href="assets/css/w3.css">  -->
 
 
