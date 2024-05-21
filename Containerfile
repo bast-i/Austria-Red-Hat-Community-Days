@@ -1,3 +1,3 @@
-FROM ubi9/ubi9
+FROM ubi9/ubi:latest
 
 RUN dnf search hugo
