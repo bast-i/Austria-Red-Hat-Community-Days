@@ -17,6 +17,6 @@ RUN dnf -y install jq &&\
 
 FROM registry.access.redhat.com/ubi9/nginx-124
 
-COPY --from=build /workspace/public/* .
+COPY --from=build /workspace/public/ .
 # Run script uses standard ways to run the application
 CMD nginx -g "daemon off;"
