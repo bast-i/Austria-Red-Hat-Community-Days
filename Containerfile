@@ -8,5 +8,6 @@ RUN dnf -y install jq &&\
             then .[1] \
             else empty \
             end') | tar -C /usr/local/bin -xzf - hugo && \
+    ls -la &&\
     hugo version &&\
     hugo
