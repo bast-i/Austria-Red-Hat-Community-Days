@@ -1,5 +1,10 @@
 FROM ubi9/ubi:latest
 
-RUN dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm -y &&\
-    /usr/bin/crb enable &&\
-    dnf search hugo
+RUN curl -sL $(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '\
+            . as $artifacts | .tag_name | ltrimstr("v") as $version | \
+            $artifacts | .assets | .[] | [.name, .browser_download_url] | \
+            if (.[0] | contains($version) and contains("extended") and contains("Linux-64bit") and contains(".tar.gz")) \
+            then .[1] \
+            else empty \
+            end') | tar -C /usr/local/bin -xzf - hugo && \
+    hugo version
