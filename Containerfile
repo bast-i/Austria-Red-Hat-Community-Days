@@ -18,7 +18,8 @@ RUN dnf -y install jq &&\
 FROM ubi9/ubi:latest as nginx-runner
 
 COPY --from=build /workspace/public/* /usr/share/nginx/html/
+
 RUN dnf -y install nginx &&\
     dnf clean all
 
-CMD ["/bin/nginx"]
+CMD ["nginx", "-g", "daemon off;"]
