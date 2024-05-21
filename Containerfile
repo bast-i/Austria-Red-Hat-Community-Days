@@ -1,4 +1,4 @@
-FROM ubi9/ubi:latest
+FROM ubi9/ubi:latest as build
 
 ADD . /workspace
 
@@ -11,7 +11,14 @@ RUN dnf -y install jq &&\
             else empty \
             end') | tar -C /usr/local/bin -xzf - hugo && \
     cd /workspace &&\
-    ls -la &&\
     hugo version &&\
     hugo &&\
     ls -la
+
+FROM ubi9/ubi:latest as nginx-runner
+
+COPY --from=build /workspace/public/* /usr/share/nginx/html/
+RUN dnf -y install nginx &&\
+    dnf clean all
+
+CMD ["/bin/nginx"]
