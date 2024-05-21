@@ -1,5 +1,7 @@
 FROM ubi9/ubi:latest
 
+ADD . /workspace
+
 RUN dnf -y install jq &&\
     curl -sL $(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '\
             . as $artifacts | .tag_name | ltrimstr("v") as $version | \
@@ -8,7 +10,7 @@ RUN dnf -y install jq &&\
             then .[1] \
             else empty \
             end') | tar -C /usr/local/bin -xzf - hugo && \
-    ls -la /workspace/output/ &&\
+    ls -laR /workspace/ &&\
     hugo version &&\
     hugo -c /workspace/output/ &&\
-    ls -la /workspace/output/
+    ls -laR /workspace/output/
