@@ -6,7 +6,7 @@ copyright = "Deployed with ❤️ on OpenShift"
 pygmentsUseClasses=true
 
 [params]
-  author = "Mahmuthan Bastug"
+  author = "Shadowman"
   description = "your description"
   keywords = "hugo blog"
   useAvatar = true
