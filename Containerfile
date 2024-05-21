@@ -13,7 +13,7 @@ RUN dnf -y install jq &&\
     cd /workspace &&\
     hugo version &&\
     hugo &&\
-    ls -la
+    ls -la public
 
 FROM registry.access.redhat.com/ubi9/nginx-124
 
