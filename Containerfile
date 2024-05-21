@@ -10,7 +10,6 @@ RUN dnf -y install jq &&\
             then .[1] \
             else empty \
             end') | tar -C /usr/local/bin -xzf - hugo && \
-    ls -laR /workspace/ &&\
     hugo version &&\
-    hugo -c /workspace/output/ &&\
-    ls -laR /workspace/output/
+    hugo -c /workspace/ &&\
+    ls -la /workspace/
