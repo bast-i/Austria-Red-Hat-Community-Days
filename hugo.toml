@@ -26,5 +26,5 @@ pygmentsUseClasses=true
   [[menu.main]]
     name = "Red Hat Team"
     pre = "<i class=\"fas fa-tags fa-ms\"></i>"
-    url = "/about/"
+    url = "/team/"
     weight = -8 
