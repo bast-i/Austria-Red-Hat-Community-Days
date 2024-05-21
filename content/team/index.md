@@ -1,3 +1,8 @@
++++
+author = "Shadowman"
+date = "2024-05-20"
+title = "Team"
++++
 
  Euer Red Hat Austria Community Team |  
 | :---: | 

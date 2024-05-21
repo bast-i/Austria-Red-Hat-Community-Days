@@ -1,12 +1,12 @@
 theme = 'npq-hugo'
-baseURL = "https://www.example.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Events Austria"
 copyright = "Deployed with ❤️ on OpenShift"
 pygmentsUseClasses=true
 
 [params]
-  author = "Mahmuthan Bastug"
+  author = "Shadowman"
   description = "your description"
   keywords = "hugo blog"
   useAvatar = true
@@ -26,5 +26,5 @@ pygmentsUseClasses=true
   [[menu.main]]
     name = "Red Hat Team"
     pre = "<i class=\"fas fa-tags fa-ms\"></i>"
-    url = "/about/"
+    url = "/team/"
     weight = -8 
