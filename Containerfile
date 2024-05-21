@@ -15,11 +15,8 @@ RUN dnf -y install jq &&\
     hugo &&\
     ls -la
 
-FROM ubi9/ubi:latest as nginx-runner
+FROM registry.access.redhat.com/ubi9/nginx-124
 
-COPY --from=build /workspace/public/* /usr/share/nginx/html/
-
-RUN dnf -y install nginx &&\
-    dnf clean all
-
-CMD ["nginx", "-g", "daemon off;"]
+COPY --from=build /workspace/public/* .
+# Run script uses standard ways to run the application
+CMD nginx -g "daemon off;"
