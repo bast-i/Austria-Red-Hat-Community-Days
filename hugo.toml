@@ -1,5 +1,5 @@
 theme = 'npq-hugo'
-baseURL = "https://test1-rh-events-at.apps.ocp4.openshift.freeddns.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Events Austria"
 copyright = "Deployed with ❤️ on OpenShift"
