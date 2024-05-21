@@ -1,4 +1,4 @@
-ARG workspace /workspace
+ARG workspace="/workspace"
 
 FROM ubi9/ubi:latest
 
