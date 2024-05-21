@@ -1,0 +1,2 @@
+{{ $image := resources.GetMatch (.Get "src") }}
+<img src="{{ ($image.Resize "500x").RelPermalink }}" {{with .Get "alt" }}alt="{{.}}"{{ else }}alt=""{{ end }}>

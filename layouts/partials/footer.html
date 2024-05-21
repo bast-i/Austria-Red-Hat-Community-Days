@@ -1,0 +1,15 @@
+<footer>
+<div class="footer-content">
+{{if (isset .Site.Params "mail") }}
+  <div class="contact-info">
+      {{with .Site.Params.mail}}
+          <div class="footer-mail">
+          <i class="far fa-envelope"></i> <a href="mailto:{{.}}">{{.}}</a> </div>
+      {{end}}
+  </div>
+{{end}}
+{{with .Site.Copyright}}
+<p class="copyright meta">{{.}}</p>
+{{end}}
+</div>
+</footer>
