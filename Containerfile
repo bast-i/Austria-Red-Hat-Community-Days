@@ -1,3 +1,5 @@
+ARG workspace /workspace
+
 FROM ubi9/ubi:latest
 
 ADD . /workspace
@@ -10,6 +12,7 @@ RUN dnf -y install jq &&\
             then .[1] \
             else empty \
             end') | tar -C /usr/local/bin -xzf - hugo && \
+    ls -la $workspace
     hugo version &&\
-    hugo -c /workspace/ &&\
-    ls -la /workspace/
+    hugo -c $workspace &&\
+    ls -la $workspace
