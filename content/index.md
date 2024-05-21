@@ -1,5 +1,6 @@
 +++
 author = "Shadowman"
+date = "2024-05-20"
 +++
 
 # Austria Red Hat 2024 Community Days
