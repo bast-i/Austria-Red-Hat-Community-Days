@@ -1,5 +1,4 @@
 theme = 'npq-hugo'
-baseURL = "https://www.example.com"
 languageCode = "en-us"
 title = "Events Austria"
 copyright = "Deployed with ❤️ on OpenShift"
