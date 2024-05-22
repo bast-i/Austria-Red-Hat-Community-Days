@@ -1,8 +1,9 @@
-+++
+---
 author = "Shadowman"
 date = "2024-05-20"
+draft: false
 title = "Team"
-+++
+---
 
  Euer Red Hat Austria Community Team |  
 | :---: | 
