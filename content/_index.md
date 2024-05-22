@@ -7,7 +7,7 @@ title: "Events"
 
 # Austria Red Hat 2024 Community Days
 
-| Datum | Veranstaltung | Hinweise | 
+| <div style="width:100px">Datum | Veranstaltung | Hinweise | 
 | ------------- | ------------- |--------| 
 | 3. od. 4. Do. im Monat | Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 16. Mai | [Platform Engineering Community @BRZ]([url](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20240516-Austrian-Plattform-Engineering-Community.html)) |  |
@@ -20,7 +20,7 @@ title: "Events"
 
 # Vergangenge Veranstaltungen
 
-| Datum | Veranstaltungen | Hinweise | 
+| <div style="width:100px">Datum | Veranstaltungen | Hinweise | 
 | ------------- | ------------- | ----------| 
 | 28. Februar | [5. Ansible Anwendertreffen]([url](https://www.ansible-anwender.de/)) Frankfurt am Main, Deutschland |  |
 | 7. März | FIWARE Community Treffen [Anmeldung und Details über die Wirtschaftsagentur Wien]([url](https://wirtschaftsagentur.at/termine-events-workshops/fiware-community-treffen/)) FH Technikum, Wien | [Kontakt David Hanacek](mailto:david.hanacek@redhat.com) |
