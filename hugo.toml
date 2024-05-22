@@ -12,6 +12,7 @@ pygmentsUseClasses=true
   useAvatar = true
   microBlogSection = "posts"
   displayMicroBlog = false
+  displayHomeContent = true
   displayRecent = false
   recentMax = 4
   mail = "david.hanacek@redhat.com"
