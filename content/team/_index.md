@@ -1,8 +1,8 @@
 ---
-author = "Shadowman"
-date = "2024-05-20"
+author: "Shadowman"
+date: "2024-05-20"
 draft: false
-title = "Team"
+title: "Team"
 ---
 
  Euer Red Hat Austria Community Team |  
