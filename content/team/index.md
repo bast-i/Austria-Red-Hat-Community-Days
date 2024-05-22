@@ -1,7 +1,7 @@
 ---
-author = "Shadowman"
+author: "Shadowman"
 draft: "false"
-title = "Team"
+title: "Team"
 ---
 
  Euer Red Hat Austria Community Team |  
