@@ -11,6 +11,7 @@ RUN dnf -y install jq &&\
             else empty \
             end') | tar -C /usr/local/bin -xzf - hugo && \
     cd /workspace &&\
+    date &&\
     hugo -DEF &&\
     ls -laR public
 
