@@ -1,9 +1,8 @@
----
-author: "Shadowman"
-draft: false
-date: 2020-07-07T19:00:00Z
-title: "Team"
----
++++
+author = "Shadowman"
+date = "2024-05-20"
+title = "Team"
++++
 
  Euer Red Hat Austria Community Team |  
 | :---: | 
