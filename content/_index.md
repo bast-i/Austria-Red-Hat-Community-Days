@@ -1,8 +1,9 @@
-+++
-author = "Shadowman"
-date = "2024-05-20"
-title = "Events"
-+++
+---
+author: "Shadowman"
+date: 2020-07-07T19:00:00Z
+draft: false
+title: "Events"
+---
 
 # Austria Red Hat 2024 Community Days
 

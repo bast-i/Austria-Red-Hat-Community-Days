@@ -11,12 +11,12 @@ RUN dnf -y install jq &&\
             else empty \
             end') | tar -C /usr/local/bin -xzf - hugo && \
     cd /workspace &&\
-    hugo version &&\
+    date &&\
     hugo -DEF &&\
     ls -laR public
 
 FROM registry.access.redhat.com/ubi9/nginx-124
 
 COPY --from=build /workspace/public/ .
-# Run script uses standard ways to run the application
+
 CMD nginx -g "daemon off;"

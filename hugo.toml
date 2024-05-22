@@ -1,21 +1,21 @@
 theme = 'npq-hugo'
 baseURL = "/"
 languageCode = "en-us"
-title = "Events Austria"
+title = "RH Events Austria"
 copyright = "Deployed with ❤️ on OpenShift"
 pygmentsUseClasses=true
 
 [params]
   author = "Shadowman"
-  description = "your description"
-  keywords = "hugo blog"
+  description = "overview of all events of redhat austria"
+  keywords = "redhat austria events"
   useAvatar = true
   microBlogSection = "posts"
   displayMicroBlog = false
+  displayHomeContent = true
   displayRecent = false
   recentMax = 4
   mail = "david.hanacek@redhat.com"
-  formspreeID = "yourformspreeID"
 
 [menu]
   [[menu.main]]
