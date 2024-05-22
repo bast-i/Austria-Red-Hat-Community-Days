@@ -1,7 +1,7 @@
 theme = 'npq-hugo'
 baseURL = "/"
 languageCode = "en-us"
-title = "Events Austria"
+title = "RH Events Austria"
 copyright = "Deployed with ❤️ on OpenShift"
 pygmentsUseClasses=true
 
