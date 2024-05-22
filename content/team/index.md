@@ -1,6 +1,7 @@
 ---
 author: "Shadowman"
-draft: "false"
+draft: false
+date: 2020-07-07T19:00:00Z
 title: "Team"
 ---
 
