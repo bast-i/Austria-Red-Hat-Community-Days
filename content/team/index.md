@@ -1,6 +1,6 @@
 ---
 author = "Shadowman"
-draft: false
+draft: "false"
 title = "Team"
 ---
 
