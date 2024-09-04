@@ -2,7 +2,7 @@ theme = 'npq-hugo'
 baseURL = "/"
 languageCode = "en-us"
 title = "Events Austria"
-copyright = "Deployed with ❤️ on OpenShift <br> Hosted and powered by CANCOM Plattform Services"
+copyright = "Deployed with ❤️ on OpenShift - hosted and powered by CANCOM Plattform Services"
 pygmentsUseClasses=true
 
 [params]
