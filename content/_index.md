@@ -9,7 +9,7 @@ title: "Events"
 
 | Datum | Veranstaltung | Hinweise | 
 | ------------- | ------------- |--------| 
-| letzter Do. im Monat | Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
+| <nobr> letzter Do. im Monat </nobr> | Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 10. Sept. | [26. OpenShift Anwendertreffen @ voestalpine]([url](https://www.openshift-anwender.de/)) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 16.-18. Sept. | Open Source Summit Wien, Austria - Konferenzsprache: Englisch | Red Hat kann als Gold Sponsor einen Discount Code bereitstellen: Bitte kontaktiere Deinen Red Hat Ansprechpartner! Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today. |
 | 18. Sept. | [RHEL Anwendertreffen]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1186304abcd&sc_cid=7015Y0000048LqwQAE)),  Wiesbaden, Deutschland | | 
