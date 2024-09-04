@@ -6,7 +6,6 @@ title: "Events"
 ---
 
 # Red Hat Austria 2024 - Community Days and Events Page
-hosted and powered by Cancom
 
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
