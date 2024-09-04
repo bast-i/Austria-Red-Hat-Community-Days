@@ -7,9 +7,9 @@ title: "Events"
 
 # Austria Red Hat 2024 Community Days
 
-| <nobr> Datum </nobr> | Veranstaltung | Hinweise | 
-| ------------- | ------------- |--------| 
-| <nobr> letzter Do. im Monat </nobr> | Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
+| Datum | Veranstaltung | Hinweise | 
+| ------------: | ------------- |--------| 
+|<nobr>letzter Do. im Monat</nobr>| Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 10.09. | [26. OpenShift Anwendertreffen @ voestalpine]([url](https://www.openshift-anwender.de/)) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 16.-18.09. | Open Source Summit Wien, Austria - Konferenzsprache: Englisch | Red Hat kann als Gold Sponsor einen Discount Code bereitstellen: Bitte kontaktiere Deinen Red Hat Ansprechpartner! Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today. |
 | 18.09. | [RHEL Anwendertreffen]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1186304abcd&sc_cid=7015Y0000048LqwQAE)),  Wiesbaden, Deutschland | | 
@@ -23,7 +23,7 @@ title: "Events"
 # Vergangenge Veranstaltungen
 
 | Datum | Veranstaltungen | Hinweise | 
-| ------------- | ------------- | ----------| 
+| ------------: | ------------- | ----------| 
 | 28.02. | [5. Ansible Anwendertreffen]([url](https://www.ansible-anwender.de/)) Frankfurt am Main, Deutschland |  |
 | 7.03. | FIWARE Community Treffen [Anmeldung und Details über die Wirtschaftsagentur Wien]([url](https://wirtschaftsagentur.at/termine-events-workshops/fiware-community-treffen/)) FH Technikum, Wien | [Kontakt David Hanacek](mailto:david.hanacek@redhat.com) |
 | 19.03 | Das ist das erste Meetup der [Keycloak User Group Austria]([url](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/297881850/)) Millennium Tower, Wien | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
