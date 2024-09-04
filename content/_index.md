@@ -10,7 +10,6 @@ title: "Events"
 | Datum | Veranstaltung | Hinweise | 
 | ------------- | ------------- |--------| 
 | 3. od. 4. Do. im Monat | Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
-
 | 10. Sept. | [26. OpenShift Anwendertreffen @ voestalpine]([url](https://www.openshift-anwender.de/)) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 8.-10. Okt. | [Kubernetes & Cloud Native community]([url](https://kcdaustria.at/)) Vienna, Austria | Call for proposals bis 22. Juni |
 
