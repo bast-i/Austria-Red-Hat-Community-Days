@@ -17,7 +17,6 @@ title: "Events"
 | 20. Juni | [Ansible Automates]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1056344abcd)) Wien | Novotel Wien Hauptbahnhof |
 | 10. Sept. | [26. OpenShift Anwendertreffen @ voestalpine]([url](https://www.openshift-anwender.de/)) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 8.-10. Okt. | [Kubernetes & Cloud Native community]([url](https://kcdaustria.at/)) Vienna, Austria | Call for proposals bis 22. Juni |
-| 108.-10. Okt. | [Kubernetes & Cloud Native community]([url](https://kcdaustria.at/)) Vienna, Austria | Call for proposals bis 22. Juni |
 
 # Vergangenge Veranstaltungen
 
