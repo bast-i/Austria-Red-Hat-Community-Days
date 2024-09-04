@@ -22,8 +22,8 @@ title: "Events"
 
 # Vergangenge Veranstaltungen
 
-| Datum | Veranstaltungen | Hinweise | 
-| ------------ | ------------- | ----------| 
+|<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
+| ------------ | ------------- |--------| 
 | 28.02. | [5. Ansible Anwendertreffen]([url](https://www.ansible-anwender.de/)) Frankfurt am Main, Deutschland |  |
 | 7.03. | FIWARE Community Treffen [Anmeldung und Details über die Wirtschaftsagentur Wien]([url](https://wirtschaftsagentur.at/termine-events-workshops/fiware-community-treffen/)) FH Technikum, Wien | [Kontakt David Hanacek](mailto:david.hanacek@redhat.com) |
 | 19.03 | Das ist das erste Meetup der [Keycloak User Group Austria]([url](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/297881850/)) Millennium Tower, Wien | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
