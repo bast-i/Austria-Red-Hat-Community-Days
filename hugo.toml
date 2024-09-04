@@ -5,11 +5,6 @@ title = "Events Austria"
 copyright = "Deployed with ❤️ on OpenShift - hosted and powered by CANCOM Plattform Services"
 pygmentsUseClasses=true
 
-[markup.goldmark.renderer]
-  hardWraps = true
-  unsafe = true 
-  xhtml = false
-
 [params]
   author = "Shadowman"
   description = "overview of all events of redhat austria"
