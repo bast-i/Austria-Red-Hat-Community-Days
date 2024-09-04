@@ -198,6 +198,23 @@ table, th, td {
     border: 1px solid rgb(97, 96, 96);
 }
 
+// Fixing width of first 
+// column of each row 
+td:nth-child(1) {
+    width: 10%;
+}
+ // Fixing width of second 
+ // column of each row 
+ td:nth-child(2) {
+     width: 40%;
+}
+ // Fixing width of second 
+ // column of each row 
+ td:nth-child(3) {
+     width: 50%;
+}
+
+
 th, td {
     padding: 5px 10px;
 }
