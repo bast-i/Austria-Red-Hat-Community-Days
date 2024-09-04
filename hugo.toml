@@ -29,7 +29,7 @@ pygmentsUseClasses=true
     url = "/team/"
     weight = -8 
   [[menu.main]]
-    name = "hosted and powered by CANCOM Plattform Services"
+    name = "hosted and powered<br />by CANCOM Plattform Services"
     pre = "<i class=\"fas fa-ship fa-ms\"></i>"
     url = "https://marketplace.cancom.at/en-US/home"
     weight = -7
