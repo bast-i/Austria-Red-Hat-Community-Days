@@ -5,7 +5,7 @@ draft: false
 title: "Events"
 ---
 
-# Red Hat Austria 2024 - Community Days and Events Page
+# Red Hat Austria - 2024 Community Days and Events Page
 
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
