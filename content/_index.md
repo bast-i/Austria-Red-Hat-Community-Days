@@ -7,7 +7,7 @@ title: "Events"
 
 # Austria Red Hat 2024 Community Days
 
-| Datum | Veranstaltung | Hinweise | 
+| <nobr> Datum </nobr> | Veranstaltung | Hinweise | 
 | ------------- | ------------- |--------| 
 | <nobr> letzter Do. im Monat </nobr> | Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 10. Sept. | [26. OpenShift Anwendertreffen @ voestalpine]([url](https://www.openshift-anwender.de/)) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
