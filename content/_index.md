@@ -7,7 +7,7 @@ title: "Events"
 
 # Red Hat Austria - Community Days and Events Page 2024
 
-|<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
+|<nobr>Datum      </nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 |<nobr>letzter Do. im Monat</nobr>| Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 10.09. | [26. OpenShift Anwendertreffen @ voestalpine]([url](https://www.openshift-anwender.de/)) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
@@ -22,7 +22,7 @@ title: "Events"
 
 # Vergangenge Veranstaltungen
 
-|<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
+|<nobr>Datum      </nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | 28.02. | [5. Ansible Anwendertreffen]([url](https://www.ansible-anwender.de/)) Frankfurt am Main, Deutschland |  |
 | 7.03. | FIWARE Community Treffen [Anmeldung und Details über die Wirtschaftsagentur Wien]([url](https://wirtschaftsagentur.at/termine-events-workshops/fiware-community-treffen/)) FH Technikum, Wien | [Kontakt David Hanacek](mailto:david.hanacek@redhat.com) |
