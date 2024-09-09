@@ -23,6 +23,7 @@ title: "Events"
 | 23.10. | [6. Ansible Anwendertreffen]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x12027203ae6)) Hamburg, Deutschland | |
 | 6.10. | 3. Meetup [Keycloak User Group Austria]([url](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/)) - ÖBB-Business Competence Center, Lassallestraße 5, Wien | Kontakt Stephan Kraft | 
 | | | {{< figure src="../static/CANCOM_Logo_Rot_sRGB.svg" title="Cancom Logo Rot" width="120">}} |
+| | | {{< figure src="images/image3.jpg" title="David Hanacek, Senior Solution Architect" width="120">}} |
 
 # Vergangenge Veranstaltungen
 
