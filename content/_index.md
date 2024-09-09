@@ -5,6 +5,7 @@ draft: false
 title: "Events"
 ---
 
+<sub> hosted and powered by CANCOM Plattform Services </sub> 
 # Red Hat Austria - Community Days and Events Page 2024
 
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
