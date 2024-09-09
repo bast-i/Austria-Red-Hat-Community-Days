@@ -6,7 +6,7 @@ title: "Events"
 ---
 
 <sub> This page is hosted and powered by  </sub> 
-![Alt text](/../static/CANCOM_Logo_Rot_sRGB.svg)
+![Alt text](/../../static/CANCOM_Logo_Rot_sRGB.svg)
 
 # Red Hat Austria - Community Days and Events Page 2024
 
