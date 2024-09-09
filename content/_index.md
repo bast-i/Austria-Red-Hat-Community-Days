@@ -13,7 +13,7 @@ title: "Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 |<nobr>letzter Do. im Monat</nobr>| Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
-| 10.09. | [26. OpenShift Anwendertreffen @ voestalpine]([url](https://www.openshift-anwender.de/)) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
+| 10.09. | [26. OpenShift Anwendertreffen @ voestalpine](https://www.openshift-anwender.de/)) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 16.-18.09. | Open Source Summit Wien, Austria - Konferenzsprache: Englisch | Red Hat kann als Gold Sponsor einen Discount Code bereitstellen: Bitte kontaktiere Deinen Red Hat Ansprechpartner! Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today. |
 | 18.09. | [RHEL Anwendertreffen]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1186304abcd&sc_cid=7015Y0000048LqwQAE)),  Wiesbaden, Deutschland | | 
 | 19.09. | [KeyConf24]([url](https://www.eventbrite.de/e/keyconf24-tickets-887467387847)) Wien, Austria - Konferenzsprache: Englisch | annual conference dedicated to the Keycloak users' community | 
