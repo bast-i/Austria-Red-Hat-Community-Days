@@ -22,8 +22,8 @@ title: "Events"
 | 22.-24.10. | [Digital Days 2024]([url](https://www.digitalcity.wien/digital-days-2024/)) Vienna, Austria - Think Digital. Act Human. Digitaler Humanismus für Stadt, Wirtschaft & Wissenschaft | David Hanacek und viele Red Hatter - digital street, community day, Schüler:innen-Workshops zu Open Source, KI, Open Culture | 
 | 23.10. | [6. Ansible Anwendertreffen]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x12027203ae6)) Hamburg, Deutschland | |
 | 6.10. | 3. Meetup [Keycloak User Group Austria]([url](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/)) - ÖBB-Business Competence Center, Lassallestraße 5, Wien | Kontakt Stephan Kraft | 
-| | | {{< figure src="../static/CANCOM_Logo_Rot_sRGB.svg" title="Cancom Logo Rot" width="120">}} |
-| | | {{< figure src="images/image3.jpg" title="David Hanacek, Senior Solution Architect" width="120">}} |
+| | | {{< figure src="/static/CANCOM_Logo_Rot_sRGB.svg" title="Cancom Logo Rot" width="120">}} |
+| | | {{< figure src="/team/images/image3.jpg" title="David Hanacek, Senior Solution Architect" width="120">}} |
 
 # Vergangenge Veranstaltungen
 
