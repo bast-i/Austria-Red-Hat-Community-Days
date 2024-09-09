@@ -13,15 +13,15 @@ title: "Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 |<nobr>letzter Do. im Monat</nobr>| Red Hat Austria & Friends | [Einladung / Organisation Stephan Kraft](mailto:stephan.kraft@redhat.com) |
-| 10.09. | [26. OpenShift Anwendertreffen @ voestalpine](https://www.openshift-anwender.de/)) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
+| 10.09. | [26. OpenShift Anwendertreffen @ voestalpine](https://www.openshift-anwender.de/) Linz, Austria | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 16.-18.09. | Open Source Summit Wien, Austria - Konferenzsprache: Englisch | Red Hat kann als Gold Sponsor einen Discount Code bereitstellen: Bitte kontaktiere Deinen Red Hat Ansprechpartner! Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today. |
-| 18.09. | [RHEL Anwendertreffen]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1186304abcd&sc_cid=7015Y0000048LqwQAE)),  Wiesbaden, Deutschland | | 
-| 19.09. | [KeyConf24]([url](https://www.eventbrite.de/e/keyconf24-tickets-887467387847)) Wien, Austria - Konferenzsprache: Englisch | annual conference dedicated to the Keycloak users' community | 
-| 8-10.10. | [Kubernetes & Cloud Native community]([url](https://kcdaustria.at/)) Vienna, Austria - Konferenzsprache: Englisch | Call for proposals bis 22. Juni |
+| 18.09. | [RHEL Anwendertreffen](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1186304abcd&sc_cid=7015Y0000048LqwQAE),  Wiesbaden, Deutschland | | 
+| 19.09. | [KeyConf24](https://www.eventbrite.de/e/keyconf24-tickets-887467387847) Wien, Austria - Konferenzsprache: Englisch | annual conference dedicated to the Keycloak users' community | 
+| 8-10.10. | [Kubernetes & Cloud Native community](https://kcdaustria.at/) Vienna, Austria - Konferenzsprache: Englisch | Call for proposals bis 22. Juni |
 | 15.10. |  RHEL Anwendertreffen in Österreich Vienna, Austria | Agenda in Bearbeitung - Bei Interesse bitte auf Ahmed Dahia und/oder David Hanacek zugehen! |
-| 22.-24.10. | [Digital Days 2024]([url](https://www.digitalcity.wien/digital-days-2024/)) Vienna, Austria - Think Digital. Act Human. Digitaler Humanismus für Stadt, Wirtschaft & Wissenschaft | David Hanacek und viele Red Hatter - digital street, community day, Schüler:innen-Workshops zu Open Source, KI, Open Culture | 
-| 23.10. | [6. Ansible Anwendertreffen]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x12027203ae6)) Hamburg, Deutschland | |
-| 6.10. | 3. Meetup [Keycloak User Group Austria]([url](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/)) - ÖBB-Business Competence Center, Lassallestraße 5, Wien | Kontakt Stephan Kraft | 
+| 22.-24.10. | [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024/)) Vienna, Austria - Think Digital. Act Human. Digitaler Humanismus für Stadt, Wirtschaft & Wissenschaft | David Hanacek und viele Red Hatter - digital street, community day, Schüler:innen-Workshops zu Open Source, KI, Open Culture | 
+| 23.10. | [6. Ansible Anwendertreffen]([url](https://events.redhat.com/profile/form/index.cfm?PKformID=0x12027203ae6) Hamburg, Deutschland | |
+| 6.10. | 3. Meetup [Keycloak User Group Austria](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/) - ÖBB-Business Competence Center, Lassallestraße 5, Wien | Kontakt Stephan Kraft | 
 | | | {{< figure src="/static/CANCOM_Logo_Rot_sRGB.svg" title="Cancom Logo Rot" width="120">}} |
 | | | {{< figure src="/team/images/image3.jpg" title="David Hanacek, Senior Solution Architect" width="120">}} |
 
