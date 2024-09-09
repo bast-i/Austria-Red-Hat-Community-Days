@@ -5,8 +5,7 @@ draft: false
 title: "Events"
 ---
 
-<sub> This page is hosted and powered by  </sub> 
-{{< figure src="CANCOM_Logo_Rot_sRGB.svg" title="Cancom" width="120">}} 
+<sub> This page is hosted and powered by  </sub> {{< figure src="CANCOM_Logo_Rot_sRGB.svg" width="120">}} 
 
 # Red Hat Austria - Community Days and Events Page 2024
 
