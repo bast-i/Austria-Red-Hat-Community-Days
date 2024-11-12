@@ -6,7 +6,7 @@ title: "Events"
 ---
  
 <div style="text-align:right;">
-<h5> Hosted and Powered on OpenShift by<a href="https://marketplace.cancom.at/en-US/home"> {{<figure src="CANCOM_Logo_Rot_sRGB.svg" width="100">}}</a> </h5>
+<h5> hosted and powered on OpenShift by<a href="https://marketplace.cancom.at/en-US/home"> {{<figure src="CANCOM_Logo_Rot_sRGB.svg" width="100">}}</a> </h5>
 </div>
 
 # Red Hat Austria - Community Days and Events Page 2024
