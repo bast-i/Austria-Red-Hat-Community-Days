@@ -5,6 +5,9 @@ title = "Events Austria"
 copyright = "Deployed with ❤️ on OpenShift - hosted and powered by CANCOM Plattform Services"
 pygmentsUseClasses=true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
   author = "Shadowman"
   description = "overview of all events of redhat austria"
@@ -22,14 +25,9 @@ pygmentsUseClasses=true
     name = "Events"
     pre = "<i class=\"fas fa-calendar fa-sm\"></i>"
     url = "/"
-    weight = -9 
+    weight = -9
   [[menu.main]]
     name = "Red Hat Team"
     pre = "<i class=\"fas fa-address-book fa-ms\"></i>"
     url = "/team/"
-    weight = -8 
-  [[menu.main]]
-    name = "hosted and powered by CANCOM Plattform Services {{< figure src="CANCOM_Logo_Rot_sRGB.svg" width="120">}} "
-    pre = "<i class=\"fas fa-ship fa-ms\"></i>"
-    url = "https://marketplace.cancom.at/en-US/home"
-    weight = -7
+    weight = -8

@@ -4,8 +4,10 @@ date: 2020-07-07T19:00:00Z
 draft: false
 title: "Events"
 ---
-
-<p style="text-align:center;"> ###### This page is hosted and powered by </p>  {{< figure src="CANCOM_Logo_Rot_sRGB.svg" width="120">}}  
+ 
+<div style="text-align:right;">
+<h5> Hosted and Powered on OpenShift by<a href="https://marketplace.cancom.at/en-US/home"> {{<figure src="CANCOM_Logo_Rot_sRGB.svg" width="100">}}</a> </h5>
+</div>
 
 # Red Hat Austria - Community Days and Events Page 2024
 
