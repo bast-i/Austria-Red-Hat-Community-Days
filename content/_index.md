@@ -16,6 +16,16 @@ title: "Events"
 | 26.11. | Red Hat Austria & Friends - Weihnachtsedition | Kontakt Thomas Ettenauer | 
 | 3.12. | [Virtual OpenShift Anwendertreffen](https://www.openshift-anwender.de/) | Kontakt Stephan Kraft | 
 
+# Red Hat Austria - Community Days and Events Page 2025
+
+|<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
+| ------------ | ------------- |--------| 
+| 16. oder 23.01.2025 | Cloud Native Meetup in Dornbirn/Innsbruck | Kontakt basti@redhat.com | 
+| 23. oder 30.01.2025 | Ansible Anwendertreffen Wien | [Link zu Abstimmung Termin und Inhalte](https://forms.gle/hwUn5t8GHUvzgMBA9) - Details folgen! | 
+| 8.05.2025 | Austrian Plattform Enterprise Community @ BRZ Wien | Kontakt Stephan Kraft | 
+| 19.-22.05.2025 | 	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch | [Call for Proposals](https://www.redhat.com/en/blog/red-hat-summit-and-ansiblefest-2025-call-proposals-now-open) bis 13. November! Für Konferenztickets kontaktiert uns bitte. | 
+| 12.-14.06.2025 | 	[DevConf.CZ 2025](https://www.devconf.info/cz/) - Konferenzsprache: Englisch | | 
+
 # Vergangenge Veranstaltungen
 
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
