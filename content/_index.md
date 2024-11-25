@@ -41,9 +41,23 @@ title: "Events"
 | 12.06. | Das ist das zweite Meetup der [Keycloak User Group Austria](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/) Millennium Tower, Wien | [Kontakt Stephan Kraft](mailto:stephan.kraft@redhat.com) |
 | 13.-15.06 | [DevConf.CZ 2024](https://www.devconf.info/cz/) |  |
 | 20.06. | [Ansible Automates](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1056344abcd) Wien | Novotel Wien Hauptbahnhof |
-| 25.06. | ARO Hands-On Workshop Microsoft, Wien | Weitere Infos auf der Anmeldeseite. Bitte bringen Sie Ihr eigenes Notebook mit. Alle Aufgaben werden im Browser durchgeführt, ohne dass lokale Befehle oder Installationen erforderlich sind. | 
+| 25.06. | [ARO Hands-On Workshop Microsoft](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1124915abcd) Wien | Weitere Infos auf der Anmeldeseite. Bitte bringen Sie Ihr eigenes Notebook mit. Alle Aufgaben werden im Browser durchgeführt, ohne dass lokale Befehle oder Installationen erforderlich sind. | 
 | 23.07. | 	OpenShift Virtualization - Hands-on Workshop | Tech Requirements: Bring Your Own Device, Nur Browser erforderlich (keine lokale Installation!) |
-| 3.09. | Vienna DevOps and Security Meetup - End of Summer Edition  | including: The foundations of modern software supply chain security - Dejan Bosanac (Red Hat) |
+| 3.09. | [Vienna DevOps and Security Meetup - End of Summer Edition](https://www.meetup.com/vienna-devops-security/events/301829903/) | including: The foundations of modern software supply chain security - Dejan Bosanac (Red Hat) |
+| 5.09. | OpenShift Virtualization - Hands-on Workshop Red Hat Wien |  |
+| 10.09. | [Nachlese auf openshift-anwender.de](https://www.openshift-anwender.de/) zum 26. OpenShift Anwendertreffen @ voestalpine Linz, Austria | Kontakt Stephan Kraft |
+| 16.09. | [Vienna DevOps Meetup](https://www.meetup.com/meetup-group-ziwnrlfj/) Speak 'Friend' and Enter: "Security & Cloud" | with Dejan Bosanac - The foundations of modern software supply chain security |
+| 16.-18.09. | [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/) Wien, Austria - Konferenzsprache: Englisch, Red Hat kann als Gold Sponsor einen Discount Code bereitstellen: Bitte kontaktiere Deinen Red Hat Ansprechpartner! | Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today. |
+| 18.09. | [Enterprise Linux Anwendertreffen](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1186304abcd&sc_cid=7015Y0000048LqwQAE) Wiesbaden, Deutschland |  |
+| 19.09. | [KeyConf24 Live-Stream - RSVP](https://keyconf.dev/) and there might be a few spare seats onsite until September, 13th  - [KeyConf24](https://www.eventbrite.de/e/keyconf24-tickets-887467387847) Wien, Austria, Konferenzsprache: Englisch | annual conference dedicated to the Keycloak users' community |
+| 8.-10.10. | [Kubernetes & Cloud Native community](https://kcdaustria.at/) Vienna, Austria - Konferenzsprache: Englisch |  |
+| 15.10. | [Enterprise Linux Anwendertreffen](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1239352abcd) Red Hat Austria, Wien | Interesse an einem Beitrag? Bitte auf Ahmed Dahia zugehen! |
+| 21.10. | [Cloud Native Linz: Beyond k8s and OpenSource Metrics](https://www.meetup.com/cloud-native-linz/events/303406885?trk=public_post_comment-text) | mit Philipp Bergsmann - Beyond Kubernetes: Integrating Backstage for a Seamless Developer Experience |
+| 23.10. | [Virtualization - Hands-on Workshop](https://forms.gle/LizKrbWG6ZUzgn1S6) Red Hat Wien 13:00-17:00 Uhr | Tech Requirements: Bring Your Own Device, Nur Browser erforderlich (keine lokale Installation!) |
+| 22.-24.10. | [Digital Days 2024](https://www.digitalcity.wien/digital-days-2024/) Vienna, Austria - Think Digital. Act Human. Digitaler Humanismus für Stadt, Wirtschaft & Wissenschaft | David Hanacek und viele Red Hatter - digital street, community day, Schüler:innen-Workshops zu Open Source, KI, Open Culture |
+| 23.10. | [6. Ansible Anwendertreffen](https://events.redhat.com/profile/form/index.cfm?PKformID=0x12027203ae6) Hamburg, Deutschland |  |
+| 6.11. | Das ist das dritte Meetup der [Keycloak User Group Austria](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/) ÖBB-Business Competence Center, Lassallestraße 5 · Wien | Kontakt Stephan Kraft |
+| 8.11. | [Virtualization - Hands-on Workshop](https://events.redhat.com/profile/form/index.cfm?PKformID=0x12520258431&) Online, 9:00-13:00 Uhr | Tech Requirements: Bring Your Own Device, Nur Browser erforderlich (keine lokale Installation!) |
 
 #
 
