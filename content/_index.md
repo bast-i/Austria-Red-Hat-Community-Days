@@ -26,7 +26,7 @@ title: "Events"
 | 19.-22.05.2025 | 	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch | [Call for Proposals](https://www.redhat.com/en/blog/red-hat-summit-and-ansiblefest-2025-call-proposals-now-open) bis 13. November! Für Konferenztickets kontaktiert uns bitte. | 
 | 12.-14.06.2025 | 	[DevConf.CZ 2025](https://www.devconf.info/cz/) - Konferenzsprache: Englisch | | 
 
-# Vergangenge Veranstaltungen
+# Vergangene Veranstaltungen
 
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
