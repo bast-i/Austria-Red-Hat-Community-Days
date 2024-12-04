@@ -10,8 +10,6 @@ title: "Archiv 2024 Community und Events"
 <h5> hosted and powered on OpenShift by<a href="https://marketplace.cancom.at/en-US/home"> {{<figure src="images/CANCOM_Logo_Rot_sRGB.svg" width="100">}}</a> </h5>
 </div>
 
-# Red Hat Austria - Das waren die 2024 Community Days and Events
-
 |<nobr>2024</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
