@@ -12,7 +12,7 @@ title: "Archiv 2024 Community und Events"
 
 # Red Hat Austria - Das waren die 2024 Community Days and Events
 
-|<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
+|<nobr>2024</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
 | 28.02. | [5. Ansible Anwendertreffen](https://www.ansible-anwender.de/) Frankfurt am Main, Deutschland |  |
