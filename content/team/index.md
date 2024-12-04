@@ -2,8 +2,12 @@
 author: "Shadowman"
 date: 2020-07-07T19:00:00Z
 draft: false
-title: "Team"
+title: "Red Hat Austria Community Team"
 ---
+
+<div style="text-align:right;">
+<h5> hosted and powered on OpenShift by<a href="https://marketplace.cancom.at/en-US/home"> {{<figure src="CANCOM_Logo_Rot_sRGB.svg" width="100">}}</a> </h5>
+</div>
 
  Euer Red Hat Austria Community Team |  
 | :---: | 

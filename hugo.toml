@@ -31,3 +31,8 @@ unsafe= true
     pre = "<i class=\"fas fa-address-book fa-ms\"></i>"
     url = "/team/"
     weight = -8
+  [[menu.main]]
+    name = "Archiv 2024 Red Hat Austria Community Days"
+    pre = "<i class=\"fas fa-address-book fa-ms\"></i>"
+    url = "/2024-events/"
+    weight = -8
