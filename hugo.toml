@@ -1,7 +1,7 @@
 theme = 'npq-hugo'
 baseURL = "/"
 languageCode = "en-us"
-title = "Red Hat Austria Community Days & meetups"
+title = "Austria Community & Meetups"
 copyright = "Deployed with ❤️ on OpenShift - hosted and powered by CANCOM Plattform Services"
 pygmentsUseClasses=true
 
