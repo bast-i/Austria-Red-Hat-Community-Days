@@ -1,7 +1,7 @@
 theme = 'npq-hugo'
 baseURL = "/"
 languageCode = "en-us"
-title = "Events Austria"
+title = "Red Hat Austria Community Days & meetups"
 copyright = "Deployed with ❤️ on OpenShift - hosted and powered by CANCOM Plattform Services"
 pygmentsUseClasses=true
 
@@ -35,4 +35,4 @@ unsafe= true
     name = "Archiv 2024 Red Hat Austria Community Days"
     pre = "<i class=\"fas fa-address-book fa-ms\"></i>"
     url = "/2024-events/"
-    weight = -8
+    weight = -7
