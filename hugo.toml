@@ -32,7 +32,7 @@ unsafe= true
     url = "/team/"
     weight = -8
   [[menu.main]]
-    name = "Archiv 2024 Austria Community Days"
+    name = "Archiv 2024 Dates"
     pre = "<i class=\"fas fa-archive fa-ms\"></i>"
     url = "/2024-events/"
     weight = -7
