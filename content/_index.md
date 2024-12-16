@@ -14,7 +14,7 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
-| 23.01. | Cloud Native Meetup in Dornbirn | Kontakt basti@redhat.com | 
+| 23.01. | Cloud Native Meetup in Dornbirn | Kontakt  basti@redhat.com | 
 | 23. oder 30.01. | Ansible Anwendertreffen Wien | [Link zu Abstimmung Termin und Inhalte](https://forms.gle/hwUn5t8GHUvzgMBA9) - Details folgen! | 
 | 02.03. | DevConf.CZ 2025 - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
 | 24.4. | [Wiener Töchtertag 2025](https://www.toechtertag.at/betrieb/redhat/) | | 
