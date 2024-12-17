@@ -17,11 +17,14 @@ title: "2025 Red Hat Community & Events"
 | 23.01. | Cloud Native Meetup in Dornbirn | Kontakt basti@redhat.com | 
 | 23.01. | Ansible Anwendertreffen Wien | Termin ist bereits fixiert, Inhalte willkommen [Link zu Abstimmung Inhalte](https://forms.gle/hwUn5t8GHUvzgMBA9) - Details folgen! | 
 | 02.03. | DevConf.CZ 2025 - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
-| 13.03. | [4.Keycloak User Group Meetup @ Gepardec]([https://www.toechtertag.at/betrieb/redhat/](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/)) | | 
+| 13.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
 | 24.04. | [Wiener Töchtertag 2025](https://www.toechtertag.at/betrieb/redhat/) | | 
 | 08.05. | Austrian Plattform Enterprise Community @ BRZ Wien | Kontakt Stephan Kraft | 
 | 19.-22.05. |	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch |  Für Konferenztickets kontaktiert uns bitte. | 
+| 04.06. | [5.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
 | 12.-14.06. |	[DevConf.CZ 2025](https://www.devconf.info/cz/) - Konferenzsprache: Englisch | | 
+| 06.11. | [6.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
+| Herbst 2025 | OpenShift - Anwendertreffen [Link zur Openshift-Anwendertrefffen Landing-page](http://openshift-anwender.de) | Kontakt Stephan Kraft |
 
 #
 
