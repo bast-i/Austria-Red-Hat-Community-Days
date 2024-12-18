@@ -20,7 +20,7 @@ title: "2025 Red Hat Community & Events"
 | 02.03. | DevConf.CZ 2025 - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
 | 13.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
 | 24.04. | [Wiener Töchtertag 2025](https://www.toechtertag.at/betrieb/redhat/) | | 
-| 08.05. | Austrian Plattform Enterprise Community @ BRZ Wien | Kontakt Stephan Kraft | 
+| 08.05. | Austrian Platform Engineering Community @ BRZ Wien | Kontakt Stephan Kraft | 
 | 19.-22.05. |	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch |  Für Konferenztickets kontaktiert uns bitte. | 
 | 04.06. | [5.Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
 | 12.-14.06. |	[DevConf.CZ 2025](https://www.devconf.info/cz/) - Konferenzsprache: Englisch | | 
