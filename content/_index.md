@@ -14,7 +14,7 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 23.01. | [Cloud Native Meetup] in Dornbirn | Bei Fragen an basti@redhat.com wenden | 
+| 23.01. | [Cloud Native Meetup](https://www.nts.eu/event/cloud-native-meetup-openshift-edition/) in Dornbirn | Bei Fragen an basti@redhat.com wenden | 
 | 23.01. | Ansible Anwendertreffen Wien | Termin ist bereits fixiert, Inhalte willkommen [Link zu Abstimmung Inhalte](https://forms.gle/hwUn5t8GHUvzgMBA9) - Details folgen! | 
 | 01.-02.02. | [FOSDEM 2025](https://fosdem.org/2025/practical/) in Brussels - Konferenzsprache: Englisch | FOSDEM is a free annual event in Brussels where thousands of open source software developers gather to share ideas and collaborate. Red Hat plays a key role as a sponsor and participant, with associates contributing as organizers, project leaders, and speakers to strengthen community collaboration. Reach out to aboscatt@redhat.com | 
 | 02.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
