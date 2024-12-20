@@ -9,7 +9,7 @@ title: "2025 Red Hat Community & Events"
 <h5> hosted and powered on OpenShift by<a href="https://marketplace.cancom.at/en-US/home"> {{<figure src="CANCOM_Logo_Rot_sRGB.svg" width="100">}}</a> </h5>
 </div>
 
-# Red Hat Austria - Community Days and Events 2025
+# Red Hat Austria - Community Days und Events 2025
 
 <div style="text-align:center;">
 <h5> Auf eine engagierte Community in 2025! Danke für Eure aktive Teilnahme! <br>
