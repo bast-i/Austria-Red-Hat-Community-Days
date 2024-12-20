@@ -13,7 +13,7 @@ title: "2025 Red Hat Community & Events"
 
 <div style="text-align:center;">
 <h5> Auf eine engagierte Community in 2025! Danke für Eure aktive Teilnahme! <br>
- {{<figure src="rh-greeting_card-2024.png" width="1024">}} </h5>
+ {{<figure src="rh-greeting_card-2024.png" width="512">}} </h5>
 </div>
   
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
