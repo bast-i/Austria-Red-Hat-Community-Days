@@ -20,7 +20,7 @@ title: "2025 Red Hat Community & Events"
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
 | 23.01. | [Cloud Native Meetup](https://www.nts.eu/event/cloud-native-meetup-openshift-edition/) in Dornbirn | Bei Fragen an basti@redhat.com wenden | 
-| 23.01. | Ansible Anwendertreffen Wien | Wichtig: Ihr müsst euch 2x registrieren! <br> [1. Red Hat Anmeldung und Agenbda](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1320995abcd&sc_cid=RHCTE1240000433932)) <br> [2. Erste Digital Campus Zutrittsanmeldung](https://events.sparkasse.at/CAMPUS/AnsibleAnwendertreffen) | 
+| 23.01. | Ansible Anwendertreffen Wien | Wichtig: Ihr müsst euch 2x registrieren! <br> [1. Red Hat Anmeldung und Agenda](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1320995abcd&sc_cid=RHCTE1240000433932) <br> [2. Erste Digital Campus Zutrittsanmeldung](https://events.sparkasse.at/CAMPUS/AnsibleAnwendertreffen) | 
 | 01.-02.02. | [FOSDEM 2025](https://fosdem.org/2025/practical/) in Brussels - Konferenzsprache: Englisch | FOSDEM is a free annual event in Brussels where thousands of open source software developers gather to share ideas and collaborate. Red Hat plays a key role as a sponsor and participant, with associates contributing as organizers, project leaders, and speakers to strengthen community collaboration. Reach out to aboscatt@redhat.com | 
 | 02.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
 | 13.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
