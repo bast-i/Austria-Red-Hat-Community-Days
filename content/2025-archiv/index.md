@@ -13,9 +13,8 @@ title: "Archiv 2025 Community und Events"
 |<nobr>2025</nobr>| Vergangene Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
-| 23.01. | Cloud Native Meetup in Dornbirn | Kontakt basti@redhat.com | 
-| 23.01. | Ansible Anwendertreffen Wien | Termin ist bereits fixiert, Inhalte willkommen [Link zu Abstimmung Inhalte](https://forms.gle/hwUn5t8GHUvzgMBA9) - Details folgen! | 
-
+| 23.01. | [Cloud Native Meetup](https://www.nts.eu/event/cloud-native-meetup-openshift-edition/) in Dornbirn | Bei Fragen an basti@redhat.com wenden | 
+| 23.01. | Ansible Anwendertreffen Wien | Wichtig: Ihr müsst euch 2x registrieren! <br> [1. Red Hat Anmeldung und Agenda](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1320995abcd&sc_cid=RHCTE1240000433932) <br> [2. Erste Digital Campus Zutrittsanmeldung](https://events.sparkasse.at/CAMPUS/AnsibleAnwendertreffen) |
 
 #
 
