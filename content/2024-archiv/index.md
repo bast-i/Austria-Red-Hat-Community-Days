@@ -3,7 +3,7 @@
 author: "Shadowman"
 date: 2020-07-07T19:00:00Z
 draft: false
-title: "Archiv 2024 Community und Events"
+title: "Archiv 2025 Community und Events"
 ---
  
 <div style="text-align:right;">

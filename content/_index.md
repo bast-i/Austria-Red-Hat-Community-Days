@@ -14,8 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 23.01. | [Cloud Native Meetup](https://www.nts.eu/event/cloud-native-meetup-openshift-edition/) in Dornbirn | Bei Fragen an basti@redhat.com wenden | 
-| 23.01. | Ansible Anwendertreffen Wien | Wichtig: Ihr müsst euch 2x registrieren! <br> [1. Red Hat Anmeldung und Agenda](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1320995abcd&sc_cid=RHCTE1240000433932) <br> [2. Erste Digital Campus Zutrittsanmeldung](https://events.sparkasse.at/CAMPUS/AnsibleAnwendertreffen) | 
 | 29.01. | [Red Hat Trusted Supply Chain Workshop @ Arrow ECS](https://secure-eugo.arrow.com/LP=20094) | 9 Uhr bis 16 Uhr bei Arrow ECS in Wien<br><b>Nur für Red Hat Partner!</b> |
 | 01.-02.02. | [FOSDEM 2025](https://fosdem.org/2025/practical/) in Brussels - Konferenzsprache: Englisch | FOSDEM is a free annual event in Brussels where thousands of open source software developers gather to share ideas and collaborate. Red Hat plays a key role as a sponsor and participant, with associates contributing as organizers, project leaders, and speakers to strengthen community collaboration. Reach out to aboscatt@redhat.com | 
 | 05.02. | [Carinthia Startup - Von KI inspiriert die Zukunft gestalten](https://www.eventbrite.at/e/inspired-by-ai-shaping-the-future-tickets-1152003125359) | Makerspace Carinthia, Klagenfurt |
