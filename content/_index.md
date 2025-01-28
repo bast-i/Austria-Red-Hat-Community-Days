@@ -19,6 +19,7 @@ title: "2025 Red Hat Community & Events"
 | 05.02. | [Carinthia Startup - Von KI inspiriert die Zukunft gestalten](https://www.eventbrite.at/e/inspired-by-ai-shaping-the-future-tickets-1152003125359) | Makerspace Carinthia, Klagenfurt |
 | 02.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
 | 11.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
+| 1.04. | Bei KubeCon + CloutNativeCon Europe dabei? Dann seid bei [OpenShift Commons Gathering](https://commons.openshift.org/gatherings/kubecon-25-apr-01/) dabei! |  | 
 | 1.-4.04. | [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
 | 24.04. | [Wiener Töchtertag 2025](https://www.toechtertag.at/betrieb/redhat/) | Kontakt Dilan Güler | 
 | 08.05. | Austrian Platform Engineering Community @ BRZ Wien | Kontakt Stephan Kraft | 
