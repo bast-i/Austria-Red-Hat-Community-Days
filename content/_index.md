@@ -30,7 +30,7 @@ title: "2025 Red Hat Community & Events"
 
 #
 
-| Community und Entwickler Quellen Red Hat Austria Community Team selection | 
+| Community und Entwickler Quellen | 
 | -------------------------------------------| 
 | [Red Hat](https://www.redhat.com/) |
 | Try out [Red Hat Developer](https://developers.redhat.com/) |
