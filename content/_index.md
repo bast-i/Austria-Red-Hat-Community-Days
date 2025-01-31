@@ -14,8 +14,8 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 01.-02.02. | [FOSDEM 2025](https://fosdem.org/2025/practical/) in Brussels - Konferenzsprache: Englisch | FOSDEM is a free annual event in Brussels where thousands of open source software developers gather to share ideas and collaborate. Red Hat plays a key role as a sponsor and participant, with associates contributing as organizers, project leaders, and speakers to strengthen community collaboration. Reach out to aboscatt@redhat.com | 
 | 05.02. | [Carinthia Startup - Von KI inspiriert die Zukunft gestalten](https://www.eventbrite.at/e/inspired-by-ai-shaping-the-future-tickets-1152003125359) | Makerspace Carinthia, Klagenfurt |
+| 18.02. | 17:30 CET - Bridging the Gap Between Virtual Machines and Kubernetes with KubeVirt @ [Platform Engineering Vienna - February 2025 Meetup](https://www.meetup.com/platform-engineering-vienna/events/305915760/) <br> Konferenzsprache: Englisch | Speaker: Kevin Niederwanger |
 | 02.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
 | 11.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
 | 17.03. | [Keycloak special - from Zero to Hero with Keycloak as your BaaS @ Java User Group](https://www.meetup.com/java-vienna/events/305897191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | Kontakt Stephan Kraft | 
