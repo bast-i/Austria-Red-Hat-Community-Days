@@ -20,7 +20,7 @@
 
 html, body {
     font-family: "Red Hat Display", sans-serif;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 1.6;
     height: 100%;
     margin: 0px;
@@ -41,7 +41,7 @@ a:hover {
 aside {
     background-color:#151515; 
     height: 100%;
-    width: 250px;
+    width: 200px;
     z-index: 1;
     top: 0;
     left: 0;
@@ -110,7 +110,7 @@ aside nav a:hover {
 }
 
 #branding {
-    font-size: 24px;
+    font-size: 32px;
     margin-top: 10px;
     margin-bottom: 20px;
     color: rgb(188, 188, 196);
