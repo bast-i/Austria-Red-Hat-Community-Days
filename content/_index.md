@@ -18,7 +18,7 @@ title: "2025 Red Hat Community & Events"
 | 18.02. | 17:30 CET - Bridging the Gap Between Virtual Machines and Kubernetes with KubeVirt @ [Platform Engineering Vienna - February 2025 Meetup](https://www.meetup.com/platform-engineering-vienna/events/305915760/) <br> Konferenzsprache: Englisch | Speaker: Kevin Niederwanger |
 | 02.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
 | 11.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
-| 17.03. | [Keycloak special - from Zero to Hero with Keycloak as your BaaS @ Java User Group](https://www.meetup.com/java-vienna/events/305897191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | |
+| 17.03. | Keycloak special - from Zero to Hero with Keycloak as your BaaS @ [Java User Group](https://www.meetup.com/java-vienna/events/305897191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | |
 | 25.03. | Hands-on Workshop "Secure Application Pipeline" @ [DevOps & Security Meetup](https://www.meetup.com/vienna-devops-security/)  | Anmeldeseite in Kürze verfügbar |
 | 1.04. | Ihr fliegt zur KubeCon + CloutNativeCon Europe? Dann seid bei [OpenShift Commons Gathering](https://commons.openshift.org/gatherings/kubecon-25-apr-01/) dabei! | |
 | 1.-4.04. | [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
