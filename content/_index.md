@@ -14,7 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 05.02. | [Carinthia Startup - Von KI inspiriert die Zukunft gestalten](https://www.eventbrite.at/e/inspired-by-ai-shaping-the-future-tickets-1152003125359) | Makerspace Carinthia, Klagenfurt |
 | 18.02. | 17:30 CET - Bridging the Gap Between Virtual Machines and Kubernetes with KubeVirt @ [Platform Engineering Vienna - February 2025 Meetup](https://www.meetup.com/platform-engineering-vienna/events/305915760/) <br> Konferenzsprache: Englisch | Speaker: Kevin Niederwanger |
 | 02.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
 | 11.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
