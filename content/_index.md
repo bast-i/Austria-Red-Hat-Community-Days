@@ -19,7 +19,7 @@ title: "2025 Red Hat Community & Events"
 | 17.03. | Keycloak special - from Zero to Hero with Keycloak as your BaaS @ [Java User Group](https://www.meetup.com/java-vienna/events/305897191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | |
 | 25.03. | Hands-on Workshop "Secure Application Pipeline" @ [DevOps & Security Meetup](https://www.meetup.com/vienna-devops-security/)  | Anmeldung [hier](https://www.meetup.com/vienna-devops-security/events/305991197/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)  |
 | 27.03. | Conova Sessions powered by Red Hat "Hands-on Workshop Kubernetes / OpenShift", Salzburg  | Mehr Info & Anmeldung [hier](https://news.conova.com/conova_sessions_27032025)  |
-| 1.04. | Ihr fliegt zur KubeCon + CloutNativeCon Europe? Dann seid bei [OpenShift Commons Gathering](https://commons.openshift.org/gatherings/kubecon-25-apr-01/) dabei! | |
+| 1.04. | Ihr fliegt zur KubeCon + CloudNativeCon Europe? Dann seid bei [OpenShift Commons Gathering](https://commons.openshift.org/gatherings/kubecon-25-apr-01/) dabei! | |
 | 1.-4.04. | [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
 | 24.04. | [Wiener Töchtertag 2025](https://www.toechtertag.at/betrieb/redhat/) | Anmeldung auf der Wiener Töchtertag Seite [https://www.toechtertag.at/betrieb/redhat/](https://www.toechtertag.at/betrieb/redhat/) <br>Kontakt Dilan Güler | 
 | 08.05. | Austrian Platform Engineering Community @ BRZ Wien | Kontakt Stephan Kraft | 
