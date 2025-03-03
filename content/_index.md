@@ -14,8 +14,8 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 02.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 2nd March! | 
 | 05.03. | AWS Women's User Group Meetup Vienna – Cloud Computing & AI Innovation @ Red Hat Wien | [AWS Women's UG Meetup #1 - hosted by Red Hat]((https://www.meetup.com/aws-womens-user-group-vienna/events/306246738/?eventOrigin=group_upcoming_events) | 
+| 09.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 9th of March! | 
 | 11.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
 | 17.03. | Keycloak special - from Zero to Hero with Keycloak as your BaaS @ [Java User Group](https://www.meetup.com/java-vienna/events/305897191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | |
 | 25.03. | Hands-on Workshop "Secure Application Pipeline" @ [DevOps & Security Meetup](https://www.meetup.com/vienna-devops-security/)  | Anmeldung [hier](https://www.meetup.com/vienna-devops-security/events/305991197/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)  |
