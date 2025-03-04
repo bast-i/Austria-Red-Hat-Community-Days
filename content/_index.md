@@ -18,12 +18,13 @@ title: "2025 Red Hat Community & Events"
 | 09.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 9th of March! | 
 | 11.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
 | 17.03. | Keycloak special - from Zero to Hero with Keycloak as your BaaS @ [Java User Group](https://www.meetup.com/java-vienna/events/305897191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | |
-| 25.03. | Hands-on Workshop "Secure Application Pipeline" @ [DevOps & Security Meetup](https://www.meetup.com/vienna-devops-security/)  | Anmeldung [hier](https://www.meetup.com/vienna-devops-security/events/305991197/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)  |
+| 25.03. | (leider schon ausgebucht) Hands-on Workshop "Secure Application Pipeline" @ [DevOps & Security Meetup](https://www.meetup.com/vienna-devops-security/)  | Anmeldung [hier](https://www.meetup.com/vienna-devops-security/events/305991197/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)  |
 | 27.03. | Conova Sessions powered by Red Hat "Hands-on Workshop Kubernetes / OpenShift", Salzburg  | Mehr Info & Anmeldung [hier](https://news.conova.com/conova_sessions_27032025)  |
 | 1.04. | Ihr fliegt zur KubeCon + CloudNativeCon Europe? Dann seid bei [OpenShift Commons Gathering](https://commons.openshift.org/gatherings/kubecon-25-apr-01/) dabei! | |
 | 1.-4.04. | [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
 | 24.04. | [Wiener Töchtertag 2025](https://www.toechtertag.at/betrieb/redhat/) | Anmeldung auf der Wiener Töchtertag Seite [https://www.toechtertag.at/betrieb/redhat/](https://www.toechtertag.at/betrieb/redhat/) <br>Kontakt Dilan Güler | 
-| 08.05. | Austrian Platform Engineering Community @ BRZ Wien | Kontakt Stephan Kraft | 
+| 08.05. | Austrian Platform Engineering Community @ BRZ Wien[
+https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20250508-austrian-plattform-engineering-community-2025.html] | Kontakt Stephan Kraft | 
 | 19.-22.05. |	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch |  Für Konferenztickets kontaktiert uns bitte. | 
 | 27.05. | Red Hat OpenShift AI Hands-on Workshop (Red Hat Office, Wien) | Anmeldeseite folgt in Kürze | 
 | 04.06. | [5.Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
