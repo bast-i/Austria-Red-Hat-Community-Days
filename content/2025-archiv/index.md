@@ -12,7 +12,6 @@ title: "Archiv 2025 Community und Events"
 |<nobr>2025</nobr>| Vergangene Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
-| 09.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 9th of March! | 
 | 23.01. | [Cloud Native Meetup](https://www.nts.eu/event/cloud-native-meetup-openshift-edition/) in Dornbirn | Bei Fragen an basti@redhat.com wenden | 
 | 23.01. | Ansible Anwendertreffen Wien | Wichtig: Ihr müsst euch 2x registrieren! <br> [1. Red Hat Anmeldung und Agenda](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1320995abcd&sc_cid=RHCTE1240000433932) <br> [2. Erste Digital Campus Zutrittsanmeldung](https://events.sparkasse.at/CAMPUS/AnsibleAnwendertreffen) |
 | 29.01. | [Red Hat Trusted Supply Chain Workshop @ Arrow ECS](https://secure-eugo.arrow.com/LP=20094) | 9 Uhr bis 16 Uhr bei Arrow ECS in Wien<br><b>Nur für Red Hat Partner!</b> |
@@ -20,7 +19,7 @@ title: "Archiv 2025 Community und Events"
 | 05.02. | [Carinthia Startup - Von KI inspiriert die Zukunft gestalten](https://www.eventbrite.at/e/inspired-by-ai-shaping-the-future-tickets-1152003125359) | Makerspace Carinthia, Klagenfurt |
 | 18.02. | 17:30 CET - Bridging the Gap Between Virtual Machines and Kubernetes with KubeVirt @ [Platform Engineering Vienna - February 2025 Meetup](https://www.meetup.com/platform-engineering-vienna/events/305915760/) <br> Konferenzsprache: Englisch | Speaker: Kevin Niederwanger |
 | 05.03. | AWS Women's User Group Meetup Vienna – Cloud Computing & AI Innovation @ Red Hat Wien | [AWS Women's UG Meetup #1 - hosted by Red Hat]((https://www.meetup.com/aws-womens-user-group-vienna/events/306246738/?eventOrigin=group_upcoming_events) | 
-
+| 09.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 9th of March! | 
 
 #
 
