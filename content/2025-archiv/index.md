@@ -12,6 +12,7 @@ title: "Archiv 2025 Community und Events"
 |<nobr>2025</nobr>| Vergangene Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
+| 09.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 9th of March! | 
 | 23.01. | [Cloud Native Meetup](https://www.nts.eu/event/cloud-native-meetup-openshift-edition/) in Dornbirn | Bei Fragen an basti@redhat.com wenden | 
 | 23.01. | Ansible Anwendertreffen Wien | Wichtig: Ihr müsst euch 2x registrieren! <br> [1. Red Hat Anmeldung und Agenda](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1320995abcd&sc_cid=RHCTE1240000433932) <br> [2. Erste Digital Campus Zutrittsanmeldung](https://events.sparkasse.at/CAMPUS/AnsibleAnwendertreffen) |
 | 29.01. | [Red Hat Trusted Supply Chain Workshop @ Arrow ECS](https://secure-eugo.arrow.com/LP=20094) | 9 Uhr bis 16 Uhr bei Arrow ECS in Wien<br><b>Nur für Red Hat Partner!</b> |
