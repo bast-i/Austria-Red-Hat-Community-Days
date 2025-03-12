@@ -14,7 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 11.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
 | 17.03. | Keycloak special - from Zero to Hero with Keycloak as your BaaS @ [Java User Group](https://www.meetup.com/java-vienna/events/305897191/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | |
 | 25.03. | (leider schon ausgebucht) <br> Hands-on Workshop "Secure Application Pipeline" @ [DevOps & Security Meetup](https://www.meetup.com/vienna-devops-security/)  |  |
 | 27.03. | Conova Sessions powered by Red Hat "Hands-on Workshop Kubernetes / OpenShift", Salzburg  | Mehr Info & Anmeldung [hier](https://news.conova.com/conova_sessions_27032025)  |

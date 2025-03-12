@@ -20,6 +20,7 @@ title: "Archiv 2025 Community und Events"
 | 18.02. | 17:30 CET - Bridging the Gap Between Virtual Machines and Kubernetes with KubeVirt @ [Platform Engineering Vienna - February 2025 Meetup](https://www.meetup.com/platform-engineering-vienna/events/305915760/) <br> Konferenzsprache: Englisch | Speaker: Kevin Niederwanger |
 | 05.03. | AWS Women's User Group Meetup Vienna – Cloud Computing & AI Innovation @ Red Hat Wien | [AWS Women's UG Meetup #1 - hosted by Red Hat]((https://www.meetup.com/aws-womens-user-group-vienna/events/306246738/?eventOrigin=group_upcoming_events) | 
 | 09.03. | Deadline DevConf.CZ 2025 Call for Proposals - Englisch | [Call for Proposals](https://pretalx.devconf.info/devconf-cz-2025/cfp) - Submit it by 9th of March! | 
+| 11.03. | [4.Keycloak User Group Meetup @ Gepardec](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127942/) | Kontakt Stephan Kraft | 
 
 #
 
