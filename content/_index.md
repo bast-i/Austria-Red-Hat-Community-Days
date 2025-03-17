@@ -27,6 +27,7 @@ title: "2025 Red Hat Community & Events"
 | 04.06. | [5.Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
 | 12.-14.06. |	[DevConf.CZ 2025](https://www.devconf.info/cz/) - Konferenzsprache: Englisch | | 
 | 25.09 | 30. OpenShift - Anwendertreffen @ Wien Digital - MA01 <br>(Anmeldeseite folgt in Kürze) <br> [Openshift-Anwendertrefffen Landing-page](http://openshift-anwender.de) | Kontakt Stephan Kraft |
+| 14.-16.10. | Digital Days 2025 [Save the Date der DigitalCity.Qien auf LinkedIn](https://www.linkedin.com/posts/digitalcitywien_didays25-community-digitalisierung-activity-7303729410438840320-TAYP) | Kontakt David Hanacek |
 | 06.11. | [6.Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 
 #
