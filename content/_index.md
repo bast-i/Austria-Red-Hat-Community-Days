@@ -14,7 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 25.03. | (leider schon ausgebucht) <br> Hands-on Workshop "Secure Application Pipeline" @ [DevOps & Security Meetup](https://www.meetup.com/vienna-devops-security/)  |  |
 | 27.03. | Conova Sessions powered by Red Hat "Hands-on Workshop Kubernetes / OpenShift", Salzburg  | Mehr Info & Anmeldung [hier](https://news.conova.com/conova_sessions_27032025)  |
 | 1.04. | Ihr fliegt zur KubeCon + CloudNativeCon Europe? Dann seid bei [OpenShift Commons Gathering](https://commons.openshift.org/gatherings/kubecon-25-apr-01/) dabei! | |
 | 1.-4.04. | [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
