@@ -14,21 +14,19 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 1.04. | Ihr fliegt zur KubeCon + CloudNativeCon Europe? Dann seid bei [OpenShift Commons Gathering](https://commons.openshift.org/gatherings/kubecon-25-apr-01/) dabei! | |
-| 1.-4.04. | [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
 | 24.04. | [Wiener Töchtertag 2025](https://www.toechtertag.at/betrieb/redhat/) | Anmeldung auf der Wiener Töchtertag Seite [https://www.toechtertag.at/betrieb/redhat/](https://www.toechtertag.at/betrieb/redhat/) <br>Kontakt Dilan Güler | 
 | 29.4. | Red Hat OpenShift Virtualization Workshop @ Social Hub Wien | [Event-Seite](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1393119abcd&sc_cid=RHCTE1250000443568) | 
 | 08.05. | [Austrian Platform Engineering Community @ BRZ Wien](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20250508-austrian-plattform-engineering-community-2025.html) | [Anmeldung](https://www.brz.gv.at/brz/Events/Austrian-Plattform-Engineering-Community-2025) <br> Kontakt Stephan Kraft | 
 | 13.05. | [Red Hat OpenShift Trusted Application Pipeline Hands-on Workshop](https://people.redhat.com/skraft/2025/RedHatTrustedApplicationPipeline_Hand-on-Workshop.pdf) (Red Hat Office, Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
 | 19.-22.05. |	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch |  Für Konferenztickets kontaktiert uns bitte. | 
 | 27.05. | [Red Hat OpenShift AI Hands-on Workshop](https://people.redhat.com/skraft/2025/RHOAI_HandsOn_Workshop.pdf) (Red Hat Office, Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
-| 04.06. | [5.Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
+| 04.06. | [5. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
 | 05.06. | [Red Hat Partner Day 2025](https://www.redhat.com/de/partners) - Es erwarten euch spannende Einblicke in die Welt von Red Hat, AI, Cloud und Virtualisierung | Kontakt Rene Reiter. Weitere Details folgen in Kürze! | 
 | 12.-14.06. |	[DevConf.CZ 2025](https://www.devconf.info/cz/) - Konferenzsprache: Englisch | | 
 | 25.09 | 30. OpenShift - Anwendertreffen @ Wien Digital - MA01 <br>(Anmeldeseite folgt in Kürze) <br> [Openshift-Anwendertrefffen Landing-page](http://openshift-anwender.de) | Kontakt Stephan Kraft |
 | 7. & 8.10. | Cloud Native Days Austria (formerly known as Kubernetes Community Days Austria) <br> Konferenzsprache: Englisch | CfP open until 31.5. [https://cloudnativedays.at/](https://cloudnativedays.at/) |
 | 14.-16.10. | Digital Days 2025 [Save the Date der DigitalCity.Wien auf LinkedIn](https://www.linkedin.com/posts/digitalcitywien_didays25-community-digitalisierung-activity-7303729410438840320-TAYP) | Kontakt David Hanacek |
-| 06.11. | [6.Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
+| 06.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 
 #
 
