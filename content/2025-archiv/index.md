@@ -28,6 +28,7 @@ title: "Archiv 2025 Community und Events"
 | 1.-4.04. | [KubeCon + CloudNativeCon Europe 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
 | 24.04. | [Wiener Töchtertag 2025](https://www.toechtertag.at/betrieb/redhat/) | Anmeldung auf der Wiener Töchtertag Seite [https://www.toechtertag.at/betrieb/redhat/](https://www.toechtertag.at/betrieb/redhat/) <br>Kontakt Dilan Güler | 
 | 29.4. | Red Hat OpenShift Virtualization Workshop @ Social Hub Wien | [Event-Seite](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1393119abcd&sc_cid=RHCTE1250000443568) | 
+| 08.05. | [Austrian Platform Engineering Community @ BRZ Wien](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20250508-austrian-plattform-engineering-community-2025.html) | [Anmeldung](https://www.brz.gv.at/brz/Events/Austrian-Plattform-Engineering-Community-2025) <br> Kontakt Stephan Kraft | 
 
 #
 
