@@ -14,7 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 13.05. | [Red Hat OpenShift Trusted Application Pipeline Hands-on Workshop](https://people.redhat.com/skraft/2025/RedHatTrustedApplicationPipeline_Hand-on-Workshop.pdf) (Red Hat Office, Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
 | 19.-22.05. |	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch |  Für Konferenztickets kontaktiert uns bitte. | 
 | 27.05. | [Red Hat OpenShift AI Hands-on Workshop](https://people.redhat.com/skraft/2025/RHOAI_HandsOn_Workshop.pdf) (Red Hat Office, Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
 | 04.06. | [5. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
