@@ -29,7 +29,7 @@ title: "Archiv 2025 Community und Events"
 | 24.04. | [Wiener Töchtertag 2025](https://www.toechtertag.at/betrieb/redhat/) | Anmeldung auf der Wiener Töchtertag Seite [https://www.toechtertag.at/betrieb/redhat/](https://www.toechtertag.at/betrieb/redhat/) <br>Kontakt Dilan Güler | 
 | 29.4. | Red Hat OpenShift Virtualization Workshop @ Social Hub Wien <br><br> Link zu Präsentationen: <br> [OpenShift Virtualizatoin Intro]() <br>[OpenShift Virtualization Deep Dive] () | [Event-Seite](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1393119abcd&sc_cid=RHCTE1250000443568) | 
 | 08.05. | [Austrian Platform Engineering Community @ BRZ Wien](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20250508-austrian-plattform-engineering-community-2025.html) |  <br><br> Link zu den Präsentationen: <br>[https://goverdrive.portal.at/index.php/s/3fxXqijaD4bPFiJ](https://goverdrive.portal.at/index.php/s/3fxXqijaD4bPFiJ) Kontakt Stephan Kraft | 
-| 13.05. | [Red Hat OpenShift Trusted Application Pipeline Hands-on Workshop](https://people.redhat.com/skraft/2025/RedHatTrustedApplicationPipeline_Hand-on-Workshop.pdf) (Red Hat Office, Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
+| 13.05. | [Red Hat OpenShift Trusted Application Pipeline Hands-on Workshop](https://people.redhat.com/skraft/2025/RedHatTrustedApplicationPipeline_Hand-on-Workshop.pdf) (Red Hat Office, Wien) <br><br> [Link zur Präsentation](https://people.redhat.com/skraft/2025/20250513_TrustedApplicationPipeline_HandsOnWorkshop/)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
 
 #
 
