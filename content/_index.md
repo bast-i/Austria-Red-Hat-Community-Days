@@ -14,17 +14,16 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 19.-22.05. |	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch |  Für Konferenztickets kontaktiert uns bitte. | 
-| 27.05. | [Red Hat OpenShift AI Hands-on Workshop](https://people.redhat.com/skraft/2025/RHOAI_HandsOn_Workshop.pdf) (Red Hat Office, Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
-| 03.-04.06. | [techConference](https://techconference.at/) - Am 03.-04. Juni 2025 verwandelt sich die Messe Wien in einen Microsoft Tech- und Innovation Hub mit den Fokus Themen AI, Security, Infrastructure und Applications.| Red Hat Speaker: Stephan Kraft und Philipp Bergsmann | 
-| 04.06. | [5. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
-| 05.06. | [Red Hat Partner Day 2025](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1398857abcd&sc_cid=RHCTE1250000443460#page-table) - Es erwarten euch spannende Einblicke in die Welt von Red Hat, AI, Cloud und Virtualisierung | Kontakt Rene Reiter | 
-| 12.-14.06. |	Bringing AI-enabled applications to market faster with Azure Red Hat OpenShift <br> Hands-on Workshop in Kooperation mit Microsoft <br><br>[Details & Anmeldung](https://msevents.microsoft.com/event?id=650383356) | Lokation: Microsoft Österreich, Am Europlatz 3, 1120 Wien <br><br>Kontakt: Mario Schüttengruber / Philipp Bergsmann | 
-| 25.09 | 30. OpenShift - Anwendertreffen @ Wien Digital - MA01 <br>(Anmeldeseite folgt in Kürze) <br> [Openshift-Anwendertrefffen Landing-page](http://openshift-anwender.de) | Kontakt Stephan Kraft |
+| 27.5. | [Red Hat OpenShift AI Hands-on Workshop](https://people.redhat.com/skraft/2025/RHOAI_HandsOn_Workshop.pdf) (Red Hat Office, Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
+| 3.-4.6. | [techConference](https://techconference.at/) - Am 03.-04. Juni 2025 verwandelt sich die Messe Wien in einen Microsoft Tech- und Innovation Hub mit den Fokus Themen AI, Security, Infrastructure und Applications.| Red Hat Speaker: Stephan Kraft und Philipp Bergsmann | 
+| 4.6. | [5. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
+| 5.6. | [Red Hat Partner Day 2025](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1398857abcd&sc_cid=RHCTE1250000443460#page-table) - Es erwarten euch spannende Einblicke in die Welt von Red Hat, AI, Cloud und Virtualisierung | Kontakt Rene Reiter | 
+| 12.-14.6. |	Bringing AI-enabled applications to market faster with Azure Red Hat OpenShift <br> Hands-on Workshop in Kooperation mit Microsoft <br><br>[Details & Anmeldung](https://msevents.microsoft.com/event?id=650383356) | Lokation: Microsoft Österreich, Am Europlatz 3, 1120 Wien <br><br>Kontakt: Mario Schüttengruber / Philipp Bergsmann | 
+| 25.9 | 30. OpenShift - Anwendertreffen @ Wien Digital - MA01 <br>(Anmeldeseite folgt in Kürze) <br> [Openshift-Anwendertrefffen Landing-page](http://openshift-anwender.de) | Kontakt Stephan Kraft |
 | 7. & 8.10. | Cloud Native Days Austria (formerly known as Kubernetes Community Days Austria) <br> Konferenzsprache: Englisch | CfP open until 31.5. [https://cloudnativedays.at/](https://cloudnativedays.at/) |
 | 14.-16.10. | Digital Days 2025 [Save the Date der DigitalCity.Wien auf LinkedIn](https://www.linkedin.com/posts/digitalcitywien_didays25-community-digitalisierung-activity-7303729410438840320-TAYP) | Kontakt David Hanacek |
 | 23.10. | Cloud Native Meetup in Graz/Raaba | Planung läuft, Kontakt: Basti@redhat.com | 
-| 06.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
+| 6.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 
 #
 
