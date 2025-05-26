@@ -32,6 +32,7 @@ title: "Archiv 2025 Community und Events"
 | 12.5. | [Stadt Wien](https://www.redhat.com/en/success-stories/cityofvienna) als [2025 Red Hat Innovation Award Winner](https://www.redhat.com/en/success-stories/innovation-awards) zum Red Hat Summit angekündigt | Kontakt: David Hanacek |
 | 13.5. | [Red Hat OpenShift Trusted Application Pipeline Hands-on Workshop](https://people.redhat.com/skraft/2025/RedHatTrustedApplicationPipeline_Hand-on-Workshop.pdf) (Red Hat Office, Wien) <br><br> [Link zur Präsentation](https://people.redhat.com/skraft/2025/20250513_TrustedApplicationPipeline_HandsOnWorkshop/)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
 | 19.-22.5. |	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch |  Für Konferenztickets kontaktiert uns bitte. | 
+| 27.5. | [Red Hat OpenShift AI Hands-on Workshop](https://people.redhat.com/skraft/2025/RHOAI_HandsOn_Workshop.pdf) (Red Hat Office, Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
 
 #
 
