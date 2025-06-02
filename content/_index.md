@@ -26,8 +26,10 @@ title: "2025 Red Hat Community & Events"
 | 6.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 
 #
-
-Red Hat Tech Journeys (u.a. zu Security/Compliance, Virtualization, AI): <a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x13717060001">
+<br>
+Red Hat Tech Journeys<a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x13717060001">: 1-stündige Webinare zu verschiedensten Themen (u.a. zu Security/Compliance, Virtualization, AI)
+<br>
+ 
 | Community und Entwickler Quellen | 
 | -------------------------------------------| 
 | [Red Hat](https://www.redhat.com/) |
