@@ -26,13 +26,10 @@ title: "2025 Red Hat Community & Events"
 | 6.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 
 #
-<br>
-Red Hat Tech Journeys<a href="https://events.redhat.com/profile/form/index.cfm?PKformID=0x13717060001">: 1-stündige Webinare zu verschiedensten Themen (u.a. zu Security/Compliance, Virtualization, AI)
-<br>
  
 | Community und Entwickler Quellen | 
 | -------------------------------------------| 
-| [Red Hat](https://www.redhat.com/) |
+| Red Hat Tech Journeys [https://events.redhat.com/profile/form/index.cfm?PKformID=0x13717060001] - 1-stündige Webinare zu verschiedensten Themen (u.a. zu Security/Compliance, Virtualization, AI)|
 | Try out [Red Hat Developer](https://developers.redhat.com/) |
 | [Open Practice Library](https://openpracticelibrary.com/)  - DevOps and product development practices for running workshops and learning about the discovery and delivery of software |
 | [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) - Red Hat Enterprise Linux, Openshift and Ansible Automation Platform labs |
