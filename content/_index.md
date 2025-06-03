@@ -14,8 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 3.-4.6. | [techConference](https://techconference.at/) - Am 03.-04. Juni 2025 verwandelt sich die Messe Wien in einen Microsoft Tech- und Innovation Hub mit den Fokus Themen AI, Security, Infrastructure und Applications.| Red Hat Speaker: Stephan Kraft und Philipp Bergsmann | 
-| 4.6. | [5. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
 | 5.6. | [Red Hat Partner Day 2025](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1398857abcd&sc_cid=RHCTE1250000443460#page-table) - Es erwarten euch spannende Einblicke in die Welt von Red Hat, AI, Cloud und Virtualisierung | Kontakt Rene Reiter | 
 | 11.06. |	Bringing AI-enabled applications to market faster with Azure Red Hat OpenShift <br> Hands-on Workshop in Kooperation mit Microsoft <br><br>[Details & Anmeldung](https://msevents.microsoft.com/event?id=650383356) | Lokation: Microsoft Österreich, Am Europlatz 3, 1120 Wien <br><br>Kontakt: Mario Schüttengruber / Philipp Bergsmann | 
 | 12.-14.6. |	DevConf.cz (Brno) - DIE Open Source Community Konferenz | [Mehr Info & Registrierung](https://www.devconf.info/cz/) | 
@@ -33,6 +31,7 @@ title: "2025 Red Hat Community & Events"
 | Try out [Red Hat Developer](https://developers.redhat.com/) |
 | [Open Practice Library](https://openpracticelibrary.com/)  - DevOps and product development practices for running workshops and learning about the discovery and delivery of software |
 | [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) - Red Hat Enterprise Linux, Openshift and Ansible Automation Platform labs |
+| [Red Hat interactive experiences](https://www.redhat.com/en/interactive-experiences) - These step-by-step scenarios guide you through the fundamentals of using Red Hat® products and solutions, from artificial intelligence, to virtualization, and more. |
 | [Red Hat OpenShift Library ](https://access.redhat.com/articles/7052429) - single, easily-accessible repository to access prescribed assets and offers at every stage of the product life cycle |
 | [learn.openshift.com](https://learn.openshift.com) - Guided demos of new features on a real cluster |
 | [try.openshift.com](https://try.openshift.com) - OpenShift info, documentation and more |

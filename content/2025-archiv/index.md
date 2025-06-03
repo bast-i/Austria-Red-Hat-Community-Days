@@ -33,6 +33,8 @@ title: "Archiv 2025 Community und Events"
 | 13.5. | [Red Hat OpenShift Trusted Application Pipeline Hands-on Workshop](https://people.redhat.com/skraft/2025/RedHatTrustedApplicationPipeline_Hand-on-Workshop.pdf) (Red Hat Office, Wien) <br><br> [Link zur Präsentation](https://people.redhat.com/skraft/2025/20250513_TrustedApplicationPipeline_HandsOnWorkshop/)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
 | 19.-22.5. |	[Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) Boston, US - Konferenzsprache: Englisch |  Für Konferenztickets kontaktiert uns bitte. | 
 | 27.5. | [Red Hat OpenShift AI Hands-on Workshop](https://people.redhat.com/skraft/2025/RHOAI_HandsOn_Workshop.pdf) (Red Hat Office, Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876) <br>Kontakt Stephan Kraft| 
+| 3.-4.6. | [techConference](https://techconference.at/) - Am 03.-04. Juni 2025 verwandelt sich die Messe Wien in einen Microsoft Tech- und Innovation Hub mit den Fokus Themen AI, Security, Infrastructure und Applications.| Red Hat Speaker: Stephan Kraft und Philipp Bergsmann | 
+| 4.6. | [5. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
 
 #
 
@@ -42,6 +44,7 @@ title: "Archiv 2025 Community und Events"
 | Try out [Red Hat Developer](https://developers.redhat.com/) |
 | [Open Practice Library](https://openpracticelibrary.com/)  - DevOps and product development practices for running workshops and learning about the discovery and delivery of software |
 | [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) - Red Hat Enterprise Linux, Openshift and Ansible Automation Platform labs |
+| [Red Hat interactive experiences](https://www.redhat.com/en/interactive-experiences) - These step-by-step scenarios guide you through the fundamentals of using Red Hat® products and solutions, from artificial intelligence, to virtualization, and more. |
 | [Red Hat OpenShift Library ](https://access.redhat.com/articles/7052429) - single, easily-accessible repository to access prescribed assets and offers at every stage of the product life cycle |
 | [learn.openshift.com](https://learn.openshift.com) - Guided demos of new features on a real cluster |
 | [try.openshift.com](https://try.openshift.com) - OpenShift info, documentation and more |

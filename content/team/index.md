@@ -11,7 +11,7 @@ title: "Austria Community Team"
 
 | Euer Red Hat Austria Community Team | 
 |:---:| 
-| {{< figure src="images/image3.jpg" title="David Hanacek, Senior Solution Architect" width="120">}} |
+| {{< figure src="images/image3.jpg" title="David Hanacek, Associate Principal Solution Architect" width="120">}} |
 | {{< figure src="images/image9.jpeg" title="Dilan Güler, Sales Account Manager" width="120">}} |
 | {{< figure src="images/image7.jpg" title="Mahmuthan 'Basti' Bastug, Solution Architect" width="120">}} |
 | {{< figure src="images/image8.jpg" title="Matthias Rettl, Senior Solution Architect" width="120">}} |
