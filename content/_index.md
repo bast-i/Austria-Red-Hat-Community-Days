@@ -14,7 +14,7 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 18.09. | Red Hat Platform Insights, gemeinsam mit NTS in Graz/Raaba | Hier geht es zur [Registrirung](https://www.nts.eu/event/red-hat-platform-insights/) | 
+| 18.09. | Red Hat Platform Insights, gemeinsam mit NTS in Graz/Raaba | Hier geht es zur [Registrierung](https://www.nts.eu/event/red-hat-platform-insights/) | 
 | 24.09 | [Red Hat OpenShift Hosted Control Planes - Hands-on Workshop](https://people.redhat.com/skraft/2025/20250924_RedHatHostedControlPlanes-HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
 | 25.9 | [30. OpenShift - Anwendertreffen @ Wien Digital - MA01](https://www.openshift-anwender.de/2025/06/02/jetzt-anmelden-zum-30-openshift-anwendertreffen-am-25-september-2025-in-wien/) | [Anmeldung](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1454090abcd) <br><br>Kontakt Stephan Kraft |
 | 7. & 8.10. | Cloud Native Days Austria (formerly known as Kubernetes Community Days Austria) <br> Konferenzsprache: Englisch | CfP open until 31.5. [https://cloudnativedays.at/](https://cloudnativedays.at/) |
