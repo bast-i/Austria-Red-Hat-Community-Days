@@ -20,6 +20,7 @@ title: "2025 Red Hat Community & Events"
 | 7. & 8.10. | Cloud Native Days Austria (formerly known as Kubernetes Community Days Austria) <br> Konferenzsprache: Englisch | CfP open until 31.5. [https://cloudnativedays.at/](https://cloudnativedays.at/) |
 | 14.-16.10. | Digital Days 2025 [Save the Date der DigitalCity.Wien auf LinkedIn](https://www.linkedin.com/posts/digitalcitywien_didays25-community-digitalisierung-activity-7303729410438840320-TAYP) | Kontakt David Hanacek |
 | 21.10 | [DevSecOps mit Red Hat Produkt-Stack - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251021_DevSecOps_HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
+| 22.10. | [AI Austria Meetup](https://www.meetup.com/ai-austria/), gemeinsam mit NTS in Wien | Planung läuft, Fragen an basti@redhat.com | 
 | 04.11 | [OpenShift Virtualization - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251104_OpenShiftVirtualization_HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
 | 6.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 | 25.11 | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
