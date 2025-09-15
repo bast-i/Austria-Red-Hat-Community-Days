@@ -25,6 +25,7 @@ title: "2025 Red Hat Community & Events"
 | 6.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 | 11.11. | [Keine Narrenfreiheit für Angreifer – Plattformen NIS-2 konform absichern](https://www.eventbrite.at/e/keine-narrenfreiheit-fur-angreifer-plattformen-nis-2-fit-gestalten-tickets-1647572255969?aff=oddtdtcreator) <br><br> Eine gemeinsame Veranstaltung von IBM, Red Hat, NTS & Hashicorp| Lokation: IBM Österreich <br> Obere Donaustraße 95, 1020 Wien |
 | 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
+| 07.05.2026| SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum| Anmeldung noch nicht möglich!|
 
 #
  
