@@ -39,6 +39,7 @@ title: "Archiv 2025 Community und Events"
 | 11.06. |	Bringing AI-enabled applications to market faster with Azure Red Hat OpenShift <br> Hands-on Workshop in Kooperation mit Microsoft <br><br>[Details & Anmeldung](https://msevents.microsoft.com/event?id=650383356) | Lokation: Microsoft Österreich, Am Europlatz 3, 1120 Wien <br><br>Kontakt: Mario Schüttengruber / Philipp Bergsmann | 
 | 12.-14.6. |	DevConf.cz (Brno) - DIE Open Source Community Konferenz | [Mehr Info & Registrierung](https://www.devconf.info/cz/) | 
 | 15.9. | Open Source, Open City: [Kickoff FIWARE Open Source Hub Vienna](https://wirtschaftsagentur.at/termine-events-workshops/open-source-open-city-kick-off-open-source-hub-vienna/) </br> Leiwande City mit Red Hat als Hawara der Open Source Community | Kontakt David Hanacek |
+| 18.9. | Red Hat Platform Insights, gemeinsam mit NTS in Graz/Raaba | Hier geht es zur [Registrierung](https://www.nts.eu/event/red-hat-platform-insights/) | 
 
 #
 
