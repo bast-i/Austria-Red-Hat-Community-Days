@@ -36,10 +36,12 @@ title: "Archiv 2025 Community und Events"
 | 3.-4.6. | [techConference](https://techconference.at/) - Am 03.-04. Juni 2025 verwandelt sich die Messe Wien in einen Microsoft Tech- und Innovation Hub mit den Fokus Themen AI, Security, Infrastructure und Applications.| Red Hat Speaker: Stephan Kraft und Philipp Bergsmann | 
 | 4.6. | [5. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127949/) | Kontakt Stephan Kraft | 
 | 5.6. | [Red Hat Partner Day 2025](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1398857abcd&sc_cid=RHCTE1250000443460#page-table) - Es erwarten euch spannende Einblicke in die Welt von Red Hat, AI, Cloud und Virtualisierung | Kontakt Rene Reiter | 
-| 11.06. |	Bringing AI-enabled applications to market faster with Azure Red Hat OpenShift <br> Hands-on Workshop in Kooperation mit Microsoft <br><br>[Details & Anmeldung](https://msevents.microsoft.com/event?id=650383356) | Lokation: Microsoft Österreich, Am Europlatz 3, 1120 Wien <br><br>Kontakt: Mario Schüttengruber / Philipp Bergsmann | 
+| 11.06. |	Bringing AI-enabled applications to market faster with Azure Red Hat OpenShift <br> Hands-on Workshop in Kooperation mit Microsoft <br>[Details & Anmeldung](https://msevents.microsoft.com/event?id=650383356) | Lokation: Microsoft Österreich, Am Europlatz 3, 1120 Wien <br>Kontakt: Mario Schüttengruber / Philipp Bergsmann | 
 | 12.-14.6. |	DevConf.cz (Brno) - DIE Open Source Community Konferenz | [Mehr Info & Registrierung](https://www.devconf.info/cz/) | 
 | 15.9. | Open Source, Open City: [Kickoff FIWARE Open Source Hub Vienna](https://wirtschaftsagentur.at/termine-events-workshops/open-source-open-city-kick-off-open-source-hub-vienna/) </br> Leiwande City mit Red Hat als Hawara der Open Source Community | Kontakt David Hanacek |
 | 18.9. | Red Hat Platform Insights, gemeinsam mit NTS in Graz/Raaba | Hier geht es zur [Registrierung](https://www.nts.eu/event/red-hat-platform-insights/) | 
+| 24.9. | [Red Hat OpenShift Hosted Control Planes - Hands-on Workshop](https://people.redhat.com/skraft/2025/20250924_RedHatHostedControlPlanes-HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)|  |
+| 25.9. | [30. OpenShift - Anwendertreffen @ Wien Digital - MA01](https://www.openshift-anwender.de/2025/06/02/jetzt-anmelden-zum-30-openshift-anwendertreffen-am-25-september-2025-in-wien/) | [Anmeldung](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1454090abcd) <br>Kontakt Stephan Kraft |
 
 #
 

@@ -14,8 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 24.9. | [Red Hat OpenShift Hosted Control Planes - Hands-on Workshop](https://people.redhat.com/skraft/2025/20250924_RedHatHostedControlPlanes-HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
-| 25.9. | [30. OpenShift - Anwendertreffen @ Wien Digital - MA01](https://www.openshift-anwender.de/2025/06/02/jetzt-anmelden-zum-30-openshift-anwendertreffen-am-25-september-2025-in-wien/) | [Anmeldung](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1454090abcd) <br>Kontakt Stephan Kraft |
 | 7. & 8.10. | [Cloud Native Days Austria](https://cloudnativedays.at/) (formerly known as Kubernetes Community Days Austria) <br> Konferenzsprache: Englisch <ul><li>Tues 10:55 Room 6 - Containers Aren’t VMs… Except When They Are (Simon Krenger)</li><li>Tues 11:30 Room 6 - Protecting Your Control Plane: A Deep Dive into kube-apiserver Memory Exhaustion (Kevin Niederwanger)</li><li>Wed 11:40 Room 6 - Keyless, Identity-based Signing and Verification of Software Artifacts (Stephan Kraft)</li></ul> |  |
 | 14.-16.10. | [Digital Days 2025](https://www.digitalcity.wien/digital-days-2025_pre-1/) | Kontakt David Hanacek |
 | 21.10. | [DevSecOps mit Red Hat Produkt-Stack - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251021_DevSecOps_HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
@@ -24,10 +22,10 @@ title: "2025 Red Hat Community & Events"
 | 4.11. | [NTS Platform Experience Day in Salzburg](https://www.nts.eu/event/platform-experience-day-salzburg/) - Vorstellung von Red Hat OpenShift mit Partnerlösungen, um die Sicherheit zu erhöhen, Secrets & Zertifikate zentral zu verwalten und mit Observability wertvolle Einblicke in Ihre Plattform zu gewinnen. | Lokation: NTS Office Salzburg  <br> Strubergasse 28, 5020 Salzburg |
 | 6.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 | 11.11. | [Keine Narrenfreiheit für Angreifer – Plattformen NIS-2 konform absichern](https://www.eventbrite.at/e/keine-narrenfreiheit-fur-angreifer-plattformen-nis-2-fit-gestalten-tickets-1647572255969?aff=oddtdtcreator) <br> Eine gemeinsame Veranstaltung von IBM, Red Hat, NTS & Hashicorp| Lokation: IBM Österreich <br> Obere Donaustraße 95, 1020 Wien |
-| 13.11. | [AI Robotics Experience - Hands-on mit Red Hat OpenShift AI & Device Edge/Microshift](https://www.nts.eu/event/ai-robotics-experience) <br> Eine gemeinsame Veranstaltung von NTS & Red Hat| Lokation: Innsbruck (genauer Ort wird noch bekanntgegeben) <br><br> [Anmeldung](https://www.nts.eu/event/ai-robotics-experience/) |
+| 13.11. | [AI Robotics Experience - Hands-on mit Red Hat OpenShift AI & Device Edge/Microshift](https://www.nts.eu/event/ai-robotics-experience) <br> Eine gemeinsame Veranstaltung von NTS & Red Hat| Lokation: Innsbruck (genauer Ort wird noch bekanntgegeben) <br> [Anmeldung](https://www.nts.eu/event/ai-robotics-experience/) |
 | 15.11. | [Red Hat @ DevFest Vienna 2025](https://www.devfest.at/) <br> (TU Wien)| [Anmeldung](https://www.devfest.at/)|
 | 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
-| 03.12. | [31.OpenShift-Anwendertreffen](www.openshift-anwender.de) <br> (virtuell)| Anmeldung noch nicht möglich!|
+| 3.12. | [31.OpenShift-Anwendertreffen](www.openshift-anwender.de) <br> (virtuell)| Anmeldung noch nicht möglich!|
 
 
 # Community Days und Events 2026
