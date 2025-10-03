@@ -15,6 +15,7 @@ title: "2025 Red Hat Community & Events"
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
 | 7. & 8.10. | [Cloud Native Days Austria](https://cloudnativedays.at/) (formerly known as Kubernetes Community Days Austria) <br> Konferenzsprache: Englisch <ul><li>Tues 10:55 Room 6 - Containers Aren’t VMs… Except When They Are (Simon Krenger)</li><li>Tues 11:30 Room 6 - Protecting Your Control Plane: A Deep Dive into kube-apiserver Memory Exhaustion (Kevin Niederwanger)</li><li>Wed 11:40 Room 6 - Keyless, Identity-based Signing and Verification of Software Artifacts (Stephan Kraft)</li></ul> |  |
+| 14.10. | 16 Uhr (CEST) Webinar [What's new and what's next for Red Hat AI: Your path to enterprise-ready AI Q4 2025](https://www.redhat.com/en/events/webinar/redhat-ai-q4-whats-new-and-whats-next) |  |
 | 14.-16.10. | [Digital Days 2025](https://www.digitalcity.wien/digital-days-2025_pre-1/) | Kontakt David Hanacek |
 | 21.10. | [DevSecOps mit Red Hat Produkt-Stack - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251021_DevSecOps_HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
 | 22.10. | [AI Austria Meetup](https://www.meetup.com/ai-austria/events/310885963/?slug=ai-austria&isFirstPublish=true) - AI Austria and RedHat & NTS are teaming up to deliver an evening packed with mind breaking GenAI Content | Lokation: NTS Office Wien  <br> Trabrennstraße 2b, 1020 Wien | 
@@ -25,14 +26,14 @@ title: "2025 Red Hat Community & Events"
 | 13.11. | [AI Robotics Experience - Hands-on mit Red Hat OpenShift AI & Device Edge/Microshift](https://people.redhat.com/skraft/2025/20251113_RoboExperience/1-pager-AIRoboticsExperience.pdf) <br> Eine gemeinsame Veranstaltung von NTS & Red Hat | Lokation: Bierstindl, Klostergasse 6, 6020 Innsbruck <br> [Anmeldung](https://www.nts.eu/event/ai-robotics-experience/) |
 | 15.11. | [Red Hat @ DevFest Vienna 2025](https://www.devfest.at/) <br> (TU Wien)| [Anmeldung](https://www.devfest.at/)|
 | 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
-| 3.12. | [31.OpenShift-Anwendertreffen](www.openshift-anwender.de) <br> (virtuell)| Anmeldung noch nicht möglich!|
+| 3.12. | [31. OpenShift-Anwendertreffen](www.openshift-anwender.de) <br> (virtuell)| Anmeldung noch nicht möglich!|
 
 
 # Community Days und Events 2026
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum| Anmeldung noch nicht möglich! |
-| 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) | Anmeldung noch nicht möglich! |
+| 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) | [Call for Prposals (CfP)](http://red.ht/cfp) bis 12.11. <br> Anmeldung noch nicht möglich!|
 
 #
  
