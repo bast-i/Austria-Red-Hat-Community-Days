@@ -42,7 +42,7 @@ title: "Archiv 2025 Community und Events"
 | 18.9. | Red Hat Platform Insights, gemeinsam mit NTS in Graz/Raaba | Hier geht es zur [Registrierung](https://www.nts.eu/event/red-hat-platform-insights/) | 
 | 24.9. | [Red Hat OpenShift Hosted Control Planes - Hands-on Workshop](https://people.redhat.com/skraft/2025/20250924_RedHatHostedControlPlanes-HandsOnWorkshop.pdf) <br>(Red Hat Office, Wien)|  |
 | 25.9. | [30. OpenShift - Anwendertreffen @ Wien Digital - MA01](https://www.openshift-anwender.de/2025/06/02/jetzt-anmelden-zum-30-openshift-anwendertreffen-am-25-september-2025-in-wien/) | [Anmeldung](https://events.redhat.com/profile/form/index.cfm?PKformID=0x1454090abcd) <br>Kontakt Stephan Kraft |
-
+| 7. & 8.10. | [Cloud Native Days Austria](https://cloudnativedays.at/) (formerly known as Kubernetes Community Days Austria) <br> Konferenzsprache: Englisch <ul><li>Containers Aren’t VMs… Except When They Are (Simon Krenger)</li><li>Protecting Your Control Plane: A Deep Dive into kube-apiserver Memory Exhaustion (Kevin Niederwanger)</li><li>Keyless, Identity-based Signing and Verification of Software Artifacts (Stephan Kraft)</li></ul> |  |
 #
 
 | Mehr Community und Entwickler Quellen | 
