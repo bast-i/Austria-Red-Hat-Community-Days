@@ -45,6 +45,7 @@ title: "Archiv 2025 Community und Events"
 | 7. & 8.10. | [Cloud Native Days Austria](https://cloudnativedays.at/) (formerly known as Kubernetes Community Days Austria) <br> Konferenzsprache: Englisch <ul><li>Containers Aren’t VMs… Except When They Are (Simon Krenger)</li><li>Protecting Your Control Plane: A Deep Dive into kube-apiserver Memory Exhaustion (Kevin Niederwanger)</li><li>Keyless, Identity-based Signing and Verification of Software Artifacts (Stephan Kraft)</li></ul> |  |
 | 14.10. | 16 Uhr (CEST) Webinar [What's new and what's next for Red Hat AI: Your path to enterprise-ready AI Q4 2025](https://www.redhat.com/en/events/webinar/redhat-ai-q4-whats-new-and-whats-next) |  |
 | 14.-16.10. | [Digital Days 2025](https://www.digitalcity.wien/digital-days-2025_pre-1/) | Kontakt David Hanacek |
+| 16.10. | [Red Hat AI Day of Learning: Your Path to Enterprise-Ready AI](https://www.redhat.com/en/events/webinar/redhat-ai-day-of-learning-your-path-to-enterprise-ready-ai)  <br> October 16, 2025, 4:00 p.m. CEST (UTC+ 2) | A virtual event for technical practitioners to deepen their AI expertise. <br> Customize your learning path with 12 sessions across four tracks: <ul><li>Optimize inference performance. </li><li>Connect models to enterprise data. </li><li>Develop with agentic AI frameworks. </li><li>Scale AI across the hybrid cloud. </li></ul> |
 
 #
 
