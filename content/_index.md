@@ -14,7 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 22.10. | [AI Austria Meetup](https://www.meetup.com/ai-austria/events/310885963/?slug=ai-austria&isFirstPublish=true) - AI Austria and Red Hat & NTS are teaming up to deliver an evening packed with mind breaking GenAI Content | Lokation: NTS Office Wien  <br> Trabrennstraße 2b, 1020 Wien | 
 | 4.11. | [OpenShift Virtualization - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251104_OpenShiftVirtualizationHandsOnWorkshop.pdf) <br>(Arrow Austria, <br> Wienerbergstraße 11, 1100 Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
 | 4.11. | [NTS Platform Experience Day in Salzburg](https://www.nts.eu/event/platform-experience-day-salzburg/) - Vorstellung von Red Hat OpenShift mit Partnerlösungen, um die Sicherheit zu erhöhen, Secrets & Zertifikate zentral zu verwalten und mit Observability wertvolle Einblicke in Ihre Plattform zu gewinnen. | Lokation: NTS Office Salzburg  <br> Strubergasse 28, 5020 Salzburg |
 | 6.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
