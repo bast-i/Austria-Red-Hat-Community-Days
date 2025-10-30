@@ -22,8 +22,6 @@ title: "2025 Red Hat Community & Events"
 | 15.11. | [Red Hat @ DevFest Vienna 2025](https://www.devfest.at/) <br> (TU Wien)| [Anmeldung](https://www.devfest.at/)|
 | 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(ETC - Enterprise Training Center, Modecenterstraße 22, 1030 Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
 | 3.12. | [31. OpenShift-Anwendertreffen](https://www.openshift-anwender.de/) <br> (virtuell)| Anmeldung noch nicht möglich!|
-| 3.12. | [31. OpenShift-Anwendertreffen](www.openshift-anwender.de) <br> (virtuell)| Anmeldung noch nicht möglich!| 
-
 
 # Community Days und Events 2026
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
