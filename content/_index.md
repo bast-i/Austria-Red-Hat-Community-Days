@@ -29,7 +29,7 @@ title: "2025 Red Hat Community & Events"
 | 18.2. | SAVE THE DATE: #2 Austrian Ansible Automation Platform Anwendertreffen | Details folgen! Kontakt: Charlie Vegh |
 | 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum | Anmeldung noch nicht möglich! |
 | 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Prposals (CfP)](http://red.ht/cfp) bis 12.11. <br> Anmeldung noch nicht möglich!|
-| 18.-20.6. | Save the date [DevConf.CZ] (https://www.devconf.info/cz/), Brno, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open |
+| 18.-20.6. | Save the date [DevConf.CZ](https://www.devconf.info/cz/), Brno, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open |
 | 7.-9.10. | Save the date [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/), Prague, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open, details to follow |
 
 #
