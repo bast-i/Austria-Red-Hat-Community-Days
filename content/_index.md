@@ -9,7 +9,7 @@ title: "2025 Red Hat Community & Events"
 <h5> hosted and powered on OpenShift by<a href="https://marketplace.cancom.at/en-US/home"> {{<figure src="CANCOM_Logo_Rot_sRGB.svg" width="100">}}</a> </h5>
 </div>
 
-# Red Hat Austria - Community Days und Events 2025
+# 2025 Community Days und Events
   
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
@@ -23,13 +23,14 @@ title: "2025 Red Hat Community & Events"
 | 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(ETC - Enterprise Training Center, Modecenterstraße 22, 1030 Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
 | 3.12. | [31. OpenShift-Anwendertreffen](https://www.openshift-anwender.de/) <br> (virtuell)| Anmeldung noch nicht möglich!|
 
-# Community Days und Events 2026
+# 2026 Community Days und Events
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | 18.2. | SAVE THE DATE: #2 Austrian Ansible Automation Platform Anwendertreffen | Details folgen! Kontakt: Charlie Vegh |
-| 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum| Anmeldung noch nicht möglich! |
-| 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) | [Call for Prposals (CfP)](http://red.ht/cfp) bis 12.11. <br> Anmeldung noch nicht möglich!|
-| 7.-9.10. | Save the date [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/) | call for proposals not yet open, details to follow |
+| 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum | Anmeldung noch nicht möglich! |
+| 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Prposals (CfP)](http://red.ht/cfp) bis 12.11. <br> Anmeldung noch nicht möglich!|
+| 18.-20.6. | Save the date [DevConf.CZ] (https://www.devconf.info/cz/), Brno, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open |
+| 7.-9.10. | Save the date [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/), Prague, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open, details to follow |
 
 #
  
