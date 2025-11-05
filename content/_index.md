@@ -14,21 +14,19 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 4.11. | [OpenShift Virtualization - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251104_OpenShiftVirtualizationHandsOnWorkshop.pdf) <br>(Arrow Austria, <br> Wienerbergstraße 11, 1100 Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
-| 4.11. | [NTS Platform Experience Day in Salzburg](https://www.nts.eu/event/platform-experience-day-salzburg/) - Vorstellung von Red Hat OpenShift mit Partnerlösungen, um die Sicherheit zu erhöhen, Secrets & Zertifikate zentral zu verwalten und mit Observability wertvolle Einblicke in Ihre Plattform zu gewinnen. | Lokation: NTS Office Salzburg  <br> Strubergasse 28, 5020 Salzburg |
 | 6.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 | 11.11. | [Keine Narrenfreiheit für Angreifer – Plattformen NIS-2 konform absichern](https://www.eventbrite.at/e/keine-narrenfreiheit-fur-angreifer-plattformen-nis-2-fit-gestalten-tickets-1647572255969?aff=oddtdtcreator) <br> Eine gemeinsame Veranstaltung von IBM, Red Hat, NTS & Hashicorp| Lokation: IBM Österreich <br> Obere Donaustraße 95, 1020 Wien |
 | 13.11. | [AI Robotics Experience - Hands-on mit Red Hat OpenShift AI & Device Edge/Microshift](https://people.redhat.com/skraft/2025/20251113_RoboExperience/1-pager-AIRoboticsExperience.pdf) <br> Eine gemeinsame Veranstaltung von NTS & Red Hat | Lokation: Bierstindl, Klostergasse 6, 6020 Innsbruck <br> [Anmeldung](https://www.nts.eu/event/ai-robotics-experience/) |
-| 15.11. | [Red Hat @ DevFest Vienna 2025](https://www.devfest.at/) <br> (TU Wien)| [Anmeldung](https://www.devfest.at/)|
-| 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(ETC - Enterprise Training Center, Modecenterstraße 22, 1030 Wien)| [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
-| 3.12. | [31. OpenShift-Anwendertreffen](https://www.openshift-anwender.de/) <br> (virtuell)| Anmeldung noch nicht möglich!|
+| 15.11. | [Red Hat @ DevFest Vienna 2025](https://www.devfest.at/) <br> (TU Wien) | [Anmeldung](https://www.devfest.at/)|
+| 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(ETC - Enterprise Training Center, Modecenterstraße 22, 1030 Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
+| 3.12. | [31. OpenShift-Anwendertreffen](https://www.openshift-anwender.de/) <br> (virtuell) | Anmeldung noch nicht möglich!|
 
 # 2026 Community Days und Events
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | 18.2. | SAVE THE DATE: #2 Austrian Ansible Automation Platform Anwendertreffen | Details folgen! Kontakt: Charlie Vegh |
 | 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum | Anmeldung noch nicht möglich! |
-| 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Prposals (CfP)](http://red.ht/cfp) bis 12.11. <br> Anmeldung noch nicht möglich!|
+| 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Prposals (CfP)](http://red.ht/cfp) bis 12.11. <br> Anmeldung noch nicht möglich! |
 | 18.-20.6. | Save the date [DevConf.CZ](https://www.devconf.info/cz/), Brno, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open |
 | 29./30.9.| Save the date [Cloud native Days 2026](https://cloudnativedays.at/), Viennac <br> Konferenzsprache: Englisch | call for proposals not yet open |
 | 7.-9.10. | Save the date [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/), Prague, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open, details to follow |
