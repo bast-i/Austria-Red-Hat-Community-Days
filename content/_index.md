@@ -13,7 +13,6 @@ title: "2025 Red Hat Community & Events"
   
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
-| 11.11. | [Keine Narrenfreiheit für Angreifer – Plattformen NIS-2 konform absichern](https://www.eventbrite.at/e/keine-narrenfreiheit-fur-angreifer-plattformen-nis-2-fit-gestalten-tickets-1647572255969?aff=oddtdtcreator) <br> Eine gemeinsame Veranstaltung von IBM, Red Hat, NTS & Hashicorp| Lokation: IBM Österreich <br> Obere Donaustraße 95, 1020 Wien |
 | 13.11. | [AI Robotics Experience - Hands-on mit Red Hat OpenShift AI & Device Edge/Microshift](https://people.redhat.com/skraft/2025/20251113_RoboExperience/1-pager-AIRoboticsExperience.pdf) <br> Eine gemeinsame Veranstaltung von NTS & Red Hat | Lokation: Bierstindl, Klostergasse 6, 6020 Innsbruck <br> [Anmeldung](https://www.nts.eu/event/ai-robotics-experience/) |
 | 15.11. | [Red Hat @ DevFest Vienna 2025](https://www.devfest.at/) <br> (TU Wien) | [Anmeldung](https://www.devfest.at/)|
 | 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(ETC - Enterprise Training Center, Modecenterstraße 22, 1030 Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
@@ -23,6 +22,7 @@ title: "2025 Red Hat Community & Events"
 # 2026 Community Days und Events
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
+| letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
 | 18.2. | SAVE THE DATE: #2 Austrian Ansible Automation Platform Anwendertreffen | Details folgen! Kontakt: Charlie Vegh |
 | 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum | Anmeldung noch nicht möglich! |
 | 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Prposals (CfP)](http://red.ht/cfp) bis 12.11. <br> Anmeldung noch nicht möglich! |
