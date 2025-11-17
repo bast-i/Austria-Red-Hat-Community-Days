@@ -52,6 +52,7 @@ title: "Archiv 2025 Community und Events"
 | 6.11. | [6. Keycloak User Group Meetup](https://www.meetup.com/de-DE/keycloak-user-group-austria/events/305127951/) | Kontakt Stephan Kraft |
 | 11.11. | [Keine Narrenfreiheit für Angreifer – Plattformen NIS-2 konform absichern](https://www.eventbrite.at/e/keine-narrenfreiheit-fur-angreifer-plattformen-nis-2-fit-gestalten-tickets-1647572255969?aff=oddtdtcreator) <br> Eine gemeinsame Veranstaltung von IBM, Red Hat, NTS & Hashicorp| Lokation: IBM Österreich <br> Obere Donaustraße 95, 1020 Wien |
 | 13.11. | [AI Robotics Experience - Hands-on mit Red Hat OpenShift AI & Device Edge/Microshift](https://people.redhat.com/skraft/2025/20251113_RoboExperience/1-pager-AIRoboticsExperience.pdf) <br> Eine gemeinsame Veranstaltung von NTS & Red Hat | Lokation: Bierstindl, Klostergasse 6, 6020 Innsbruck <br> [Anmeldung](https://www.nts.eu/event/ai-robotics-experience/) |
+| 15.11. | [Red Hat @ DevFest Vienna 2025](https://www.devfest.at/) <br> (TU Wien) |  |
 
 
 #
