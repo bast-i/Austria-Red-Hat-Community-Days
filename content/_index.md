@@ -23,7 +23,7 @@ title: "2025 Red Hat Community & Events"
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
 | 18.2. | SAVE THE DATE: #2 Austrian Ansible Automation Platform Anwendertreffen | Details folgen! Kontakt: Charlie Vegh |
 | 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum | Anmeldung noch nicht möglich! |
-| 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Proposals (CfP)](http://red.ht/cfp) bis 12.11. <br> Anmeldung noch nicht möglich! |
+| 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Proposals (CfP)](http://red.ht/cfp) bis 12.11.  <br> Anmeldung noch nicht möglich! |
 | 14.-16.6. | [Flock](https://www.fedoraproject.org/flock/2026/) The Fedora Project Conference, Prague, Czech Republic </br> Konferenzsprache Englisch | Call for Paper ab 8.12.25 bis 2.2.26 </br> Registrierung ab 8.12.25 |
 | 18.-20.6. | Save the date [DevConf.CZ](https://www.devconf.info/cz/), Brno, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open |
 | 29./30.9.| Save the date [Cloud native Days 2026](https://cloudnativedays.at/), Vienna <br> Konferenzsprache: Englisch | call for proposals not yet open |
