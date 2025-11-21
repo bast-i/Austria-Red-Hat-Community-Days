@@ -26,6 +26,7 @@ title: "2025 Red Hat Community & Events"
 | 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Proposals (CfP)](http://red.ht/cfp) bis 12.11.  <br> Anmeldung noch nicht möglich! |
 | 14.-16.6. | [Flock](https://www.fedoraproject.org/flock/2026/) The Fedora Project Conference, Prague, Czech Republic </br> Konferenzsprache Englisch | Call for Paper ab 8.12.25 bis 2.2.26 </br> Registrierung ab 8.12.25 |
 | 18.-20.6. | Save the date [DevConf.CZ](https://www.devconf.info/cz/), Brno, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open |
+| 25.-26.6. | Save the date [OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/home.html), Vienna, Austria <br> Konferenzsprache: Englisch | [Call for Trainers/Presentations](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/call-for-presentations--call-for-training.html)|
 | 29./30.9.| Save the date [Cloud native Days 2026](https://cloudnativedays.at/), Vienna <br> Konferenzsprache: Englisch | call for proposals not yet open |
 | 7.-9.10. | Save the date [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/), Prague, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open, details to follow |
 
