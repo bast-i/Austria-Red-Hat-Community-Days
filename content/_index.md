@@ -13,7 +13,6 @@ title: "2025 Red Hat Community & Events"
   
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
-| 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(ETC - Enterprise Training Center, Modecenterstraße 22, 1030 Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
 | 27.11. | Red Hat Austria & Friends (Weihnachtsausgabe) | Kontakt Thomas Ettenauer tettenau@redhat.com | 
 | 3.12. | [31. OpenShift-Anwendertreffen](https://www.openshift-anwender.de/2025/11/14/jetzt-anmelden-zum-31-openshift-anwendertreffen/) <br> (virtuell) | Anmeldung [hier](https://www.redhat.com/de/events/webinar/openshift-user-meeting-virtual) |
 
