@@ -54,6 +54,8 @@ title: "Archiv 2025 Community und Events"
 | 13.11. | [AI Robotics Experience - Hands-on mit Red Hat OpenShift AI & Device Edge/Microshift](https://people.redhat.com/skraft/2025/20251113_RoboExperience/1-pager-AIRoboticsExperience.pdf) <br> Eine gemeinsame Veranstaltung von NTS & Red Hat | Lokation: Bierstindl, Klostergasse 6, 6020 Innsbruck <br> [Anmeldung](https://www.nts.eu/event/ai-robotics-experience/) |
 | 15.11. | [Red Hat @ DevFest Vienna 2025](https://www.devfest.at/) <br> (TU Wien) |  |
 | 25.11. | [Red Hat OpenShift AI - Hands-on Workshop](https://people.redhat.com/skraft/2025/20251125_OpenShiftAI_HandsOnWorkshop.pdf) <br>(ETC - Enterprise Training Center, Modecenterstraße 22, 1030 Wien) | [Anmeldung](https://forms.gle/a5JMTSHkBZtqTZ876)|
+| 27.11. | Red Hat Austria & Friends (Weihnachtsausgabe) | Kontakt Thomas Ettenauer | 
+| 3.12. | [31. OpenShift-Anwendertreffen](https://www.openshift-anwender.de/2025/11/14/jetzt-anmelden-zum-31-openshift-anwendertreffen/) <br> (virtuell) | Anmeldung [hier](https://www.redhat.com/de/events/webinar/openshift-user-meeting-virtual) |
 
 
 #
