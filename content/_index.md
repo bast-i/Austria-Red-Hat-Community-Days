@@ -17,7 +17,7 @@ title: "2025 Red Hat Community & Events"
 | 12.3. | vLLM Meetup in Vienna <br> Planning is in progress! | Location: NTS Office Wien Trabrennstraße 2b, 1020 Wien <br> Kontakt: basti@redhat.com |
 | 23.-26.3. | [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
 | 23.4. | Red Hat beim [Wiener Töchtertag 2026](https://www.toechtertag.at/betrieb/redhat/) | Anmeldung nach den Semesterferien 2026 <br> Kontakt: Dilan Gueler |
-| 29.4. | [OpenShift Virtualization - Hands-on Workshop](src=docs/1-pager_HandsOn_Workshops-OCPVirt.pdf) <br> bei DVT-Daten-Verarbeitung-Tirol GmbH in Innsbruck | Anmeldung ab Jän 2026 <br> Kontakt: basti@redhat.com |
+| 29.4. | [OpenShift Virtualization - Hands-on Workshop](docs/1-pager_HandsOn_Workshops-OCPVirt.pdf) <br> bei DVT-Daten-Verarbeitung-Tirol GmbH in Innsbruck | Anmeldung ab Jän 2026 <br> Kontakt: basti@redhat.com |
 | 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum | Anmeldung noch nicht möglich! |
 | 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Proposals (CfP)](http://red.ht/cfp) bis 12.11.  <br> Anmeldung noch nicht möglich! |
 | 14.-16.6. | [Flock](https://www.fedoraproject.org/flock/2026/) The Fedora Project Conference, Prague, Czech Republic </br> Konferenzsprache Englisch | Call for Paper ab 8.12.25 bis 2.2.26 </br> Registrierung ab 8.12.25 |
