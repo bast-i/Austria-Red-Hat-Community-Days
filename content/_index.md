@@ -14,6 +14,7 @@ title: "2025 Red Hat Community & Events"
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
 | 18.2. | SAVE THE DATE: #2 Austrian Ansible Automation Platform Anwendertreffen | Details folgen! Kontakt: Charlie Vegh |
+| 12.3. | vLLM Meetup in Vienna - Planning is in progress! | Location: NTS Office Wien Trabrennstraße 2b, 1020 Wien Kontakt: [basti@redhat.com](basti@redhat.com) |
 | 23.-26.3. | [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
 | 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum | Anmeldung noch nicht möglich! |
 | 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Proposals (CfP)](http://red.ht/cfp) bis 12.11.  <br> Anmeldung noch nicht möglich! |
