@@ -10,6 +10,11 @@ title: "2025 Red Hat Community & Events"
 </div>
 
 # 2026 Community Days und Events
+<div style="text-align:center;">
+<h5> Auf eine engagierte Community in 2026! Danke für Eure aktive Teilnahme! <br>
+ {{<figure src="2025-redhat-greeting.png" width="600">}} </h5>
+</div>
+
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
