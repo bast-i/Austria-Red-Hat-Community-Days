@@ -19,10 +19,10 @@ title: "2025 Red Hat Community & Events"
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
 | 20.1. | [Cloud Native Vienna: January 2026 Meetup](https://community.cncf.io/events/details/cncf-cloud-native-vienna-presents-cloud-native-vienna-january-2026-meetup/) <br>Multi-factor authentication for Workload Identities w/ SPIFFE & SPIRE - Stephan Kraft & Philipp Bergsmann |  |
-| 18.2. | SAVE THE DATE: #2 Austrian Ansible Automation Platform Anwendertreffen | Details folgen! Kontakt: Charlie Vegh |
+| 18.2. | #2 Austrian Ansible Automation Platform Anwendertreffen [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/3268950/redhatfieldeventspreregnoappform/page/landingregistrationpage?sc_cid=RHCTE1250000470115) | Kontakt: Charlie Vegh |
 | 12.3. | vLLM Meetup in Vienna <br> Planning is in progress! | Location: NTS Office Wien Trabrennstraße 2b, 1020 Wien <br> Kontakt: basti@redhat.com |
 | 23.-26.3. | [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
-| 23.4. | Red Hat beim [Wiener Töchtertag 2026](https://www.toechtertag.at/betrieb/redhat/) | Anmeldung nach den Semesterferien 2026 <br> Kontakt: Dilan Gueler |
+| 23.4. | Red Hat beim [Wiener Töchtertag 2026](https://www.toechtertag.at/betrieb/redhat/?companypage=0) | Anmeldung für Teilnehmerinnen ist ab 9. Februar 2026 möglich. <br> Kontakt: Dilan Gueler |
 | 29.4. | [OpenShift Virtualization - Hands-on Workshop](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/1-pager_HandsOn_Workshops-OCPVirt.pdf) <br> bei DVT-Daten-Verarbeitung-Tirol GmbH in Innsbruck | Anmeldung ab Jän 2026 <br> Kontakt: basti@redhat.com |
 | 7.5. | SAVE THE DATE: #4 Austrian Platform Engineering Community @ Bundesrechenzentrum | Anmeldung noch nicht möglich! |
 | 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Call for Proposals (CfP)](http://red.ht/cfp) bis 12.11.  <br> Anmeldung noch nicht möglich! |
