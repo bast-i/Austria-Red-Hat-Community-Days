@@ -15,7 +15,7 @@ title: "2025 Red Hat Community & Events"
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
 | 18.2. | #2 Austrian Ansible Automation Platform Anwendertreffen [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/3268950/redhatfieldeventspreregnoappform/page/landingregistrationpage?sc_cid=RHCTE1250000470115) | Kontakt: Charlie Vegh |
-| 05.3. | OpenShift Virtualization & Hosted Control Planes - Hands-on Workshop <br> Ort: Arrow <br>Wienerbergstraße 11, 1100 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) <br><br>Anmerkung: An dem Tag finden 2 Workshops <br>zum Thema "Openshift Virtualization" (vormittags) <br>bzw. "Hosted Control Planes" (nachmittags) statt.  |
+| 05.3. | OpenShift Virtualization & Hosted Control Planes - Hands-on Workshop <br> Ort: Arrow ECS GmbH <br>Wienerbergstraße 11, 5. OG <br>1100 Wien  | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) <br><br>Anmerkung: An dem Tag finden 2 Workshops <br>zum Thema "Openshift Virtualization" (vormittags) <br>bzw. "Hosted Control Planes" (nachmittags) statt.  |
 | 12.3. | vLLM Meetup in Vienna <br> Planning is in progress! | Location: NTS Office Wien Trabrennstraße 2b, 1020 Wien <br> Kontakt: basti@redhat.com |
 | 23.-26.3. | [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
 | 23.4. | Red Hat beim [Wiener Töchtertag 2026](https://www.toechtertag.at/betrieb/redhat/?companypage=0) | Anmeldung für Teilnehmerinnen ist ab 9. Februar 2026 möglich. <br> Kontakt: Dilan Gueler |
