@@ -10,15 +10,10 @@ title: "2025 Red Hat Community & Events"
 </div>
 
 # 2026 Community Days und Events
-<div style="text-align:center;">
-<h5> Auf eine engagierte Community in 2026! Danke für Eure aktive Teilnahme! <br>
- {{<figure src="2025-redhat-greeting.png" width="600">}} </h5>
-</div>
 
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 20.1. | [Cloud Native Vienna: January 2026 Meetup](https://community.cncf.io/events/details/cncf-cloud-native-vienna-presents-cloud-native-vienna-january-2026-meetup/) <br>Multi-factor authentication for Workload Identities w/ SPIFFE & SPIRE - Stephan Kraft & Philipp Bergsmann |  |
 | 18.2. | #2 Austrian Ansible Automation Platform Anwendertreffen [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/3268950/redhatfieldeventspreregnoappform/page/landingregistrationpage?sc_cid=RHCTE1250000470115) | Kontakt: Charlie Vegh |
 | 05.3. | OpenShift Virtualization & Hosted Control Planes - Hands-on Workshop <br> Ort: Arrow <br>Wienerbergstraße 11, 1100 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) <br><br>Anmerkung: An dem Tag finden 2 Workshops <br>zum Thema "Openshift Virtualization" (vormittags) <br>bzw. "Hosted Control Planes" (nachmittags) statt.  |
 | 12.3. | vLLM Meetup in Vienna <br> Planning is in progress! | Location: NTS Office Wien Trabrennstraße 2b, 1020 Wien <br> Kontakt: basti@redhat.com |
@@ -41,8 +36,8 @@ title: "2025 Red Hat Community & Events"
 | [Red Hat Tech Journeys](https://events.redhat.com/profile/form/index.cfm?PKformID=0x13717060001) - 1-stündige Webinare zu verschiedensten Themen (u.a. zu Security/Compliance, Virtualization, AI)|
 | Try out [Red Hat Developer](https://developers.redhat.com/) |
 | [Open Practice Library](https://openpracticelibrary.com/)  - DevOps and product development practices for running workshops and learning about the discovery and delivery of software |
-| [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) - Red Hat Enterprise Linux, Openshift and Ansible Automation Platform labs |
-| [Red Hat interactive experiences](https://www.redhat.com/en/interactive-experiences) - These step-by-step scenarios guide you through the fundamentals of using Red Hat® products and solutions, from artificial intelligence, to virtualization, and more. |
+| [Red Hat interactive labs](https://www.redhat.com/en/interactive-labs) - Red Hat Enterprise Linux and Ansible Automation Platform labs |
+| [Red Hat interactive experiences](https://www.redhat.com/en/interactive-experiences) - These step-by-step scenarios guide you through the fundamentals of using Red Hat® products and solutions, from artificial intelligence, automation, linux to virtualization, and more. |
 | [Red Hat OpenShift Library ](https://access.redhat.com/articles/7052429) - single, easily-accessible repository to access prescribed assets and offers at every stage of the product life cycle |
 | [learn.openshift.com](https://learn.openshift.com) - Guided demos of new features on a real cluster |
 | [try.openshift.com](https://try.openshift.com) - OpenShift info, documentation and more |

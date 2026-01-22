@@ -32,12 +32,17 @@ unsafe= true
     url = "/team/"
     weight = -8
   [[menu.main]]
+    name = "2026 Archiv"
+    pre = "<i class=\"fas fa-archive fa-ms\"></i>"
+    url = "/2026-archiv/"
+    weight = -7
+  [[menu.main]]
     name = "2025 Archiv"
     pre = "<i class=\"fas fa-archive fa-ms\"></i>"
     url = "/2025-archiv/"
-    weight = -7
+    weight = -6
   [[menu.main]]
     name = "2024 Archiv"
     pre = "<i class=\"fas fa-archive fa-ms\"></i>"
     url = "/2024-archiv/"
-    weight = -6
+    weight = -5
