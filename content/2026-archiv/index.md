@@ -9,10 +9,12 @@ title: "Archiv 2026 Community und Events"
 <h5> hosted and powered on OpenShift by<a href="https://marketplace.cancom.at/en-US/home"> {{<figure src="images/CANCOM_Logo_Rot_sRGB.svg" width="100">}}</a> </h5>
 </div>
 
-|<nobr>2025</nobr>| Vergangene Veranstaltung | Hinweise | 
+|<nobr>2026</nobr>| Vergangene Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
 | 20.1. | [Cloud Native Vienna: January 2026 Meetup](https://community.cncf.io/events/details/cncf-cloud-native-vienna-presents-cloud-native-vienna-january-2026-meetup/) <br>Multi-factor authentication for Workload Identities w/ SPIFFE & SPIRE - Stephan Kraft & Philipp Bergsmann |  |
+| 18.2. | #2 Austrian Ansible Automation Platform Anwendertreffen [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/3268950/redhatfieldeventspreregnoappform/page/landingregistrationpage?sc_cid=RHCTE1250000470115) | Kontakt: Charlie Vegh |
+
 
 
 #
