@@ -14,6 +14,7 @@ title: "Archiv 2026 Community und Events"
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer | 
 | 20.1. | [Cloud Native Vienna: January 2026 Meetup](https://community.cncf.io/events/details/cncf-cloud-native-vienna-presents-cloud-native-vienna-january-2026-meetup/) <br>Multi-factor authentication for Workload Identities w/ SPIFFE & SPIRE - Stephan Kraft & Philipp Bergsmann |  |
 | 18.2. | #2 Austrian Ansible Automation Platform Anwendertreffen [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/3268950/redhatfieldeventspreregnoappform/page/landingregistrationpage?sc_cid=RHCTE1250000470115) | Kontakt: Charlie Vegh |
+| 5.3. | [OpenShift Virtualization](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260305_OCP-V_Hands-on_1-pager.pdf) & [Hosted Control Planes](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260305_HCP_Hands-on_1-pager.pdf) - Hands-on Workshop <br> Ort: Arrow ECS GmbH, Wienerbergstraße 11, 5. OG, 1100 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) <br><br>Anmerkung: An dem Tag finden 2 Workshops <br>zum Thema "Openshift Virtualization" (vormittags) <br>bzw. "Hosted Control Planes" (nachmittags) statt.  |
 
 
 
