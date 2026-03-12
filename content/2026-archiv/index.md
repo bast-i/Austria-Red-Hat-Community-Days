@@ -16,6 +16,7 @@ title: "Archiv 2026 Community und Events"
 | 18.2. | #2 Austrian Ansible Automation Platform Anwendertreffen [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/3268950/redhatfieldeventspreregnoappform/page/landingregistrationpage?sc_cid=RHCTE1250000470115) | Kontakt: Charlie Vegh |
 | 5.3. | [OpenShift Virtualization](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260305_OCP-V_Hands-on_1-pager.pdf) & [Hosted Control Planes](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260305_HCP_Hands-on_1-pager.pdf) - Hands-on Workshop <br> Ort: Arrow ECS GmbH, Wienerbergstraße 11, 5. OG, 1100 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) <br><br>Anmerkung: An dem Tag finden 2 Workshops <br>zum Thema "Openshift Virtualization" (vormittags) <br>bzw. "Hosted Control Planes" (nachmittags) statt.  |
 | 11.3. | #7 Keycloak Meetup <br> Location: Gepardec Wien, Ernst-Melchior-Gasse 24,1020 Wien |Anmeldung über die Meetup-Gruppe: <br>[https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
+| 12.3. | vLLM Meetup in Vienna <br> [Register here!](https://luma.com/5yh233m8) | Location: NTS Office Wien Trabrennstraße 2b, 1020 Wien <br> Kontakt: basti@redhat.com |
 
 
 #
