@@ -29,7 +29,7 @@ title: "2025 Red Hat Community & Events"
 | 23.6. | Securing your Software pipeline w/ Red Hat Advanced Developer Suite - <br>Hands-on Workshop <br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien  | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260623_RHADS_Hands-on_1-pager.pdf)<br>Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
 | 25.-26.6. | Save the date [OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/home.html), Vienna, Austria <br> Konferenzsprache: Englisch | |
 | 28.9.| Save the date 34. OpenShift Anwendertreffen @ TU Wien | Anmeldeseite folgt in Kürze |
-| 29./30.9.| Save the date [Cloud native Days 2026](https://cloudnativedays.at/), Vienna <br> Konferenzsprache: Englisch | call for proposals not yet open |
+| 29./30.9.| Save the date [Cloud native Days 2026](https://cloudnativedays.at/), Vienna <br> Konferenzsprache: Englisch | call for proposals open until April 30 |
 | 7.-9.10. | Save the date [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/), Prague, Czech Republic <br> Konferenzsprache: Englisch | call for proposals not yet open, details to follow |
 | 5.11. | #9 Keycloak Meetup <br> Location: tbd | Anmeldung über die Meetup-Gruppe: [https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
 
