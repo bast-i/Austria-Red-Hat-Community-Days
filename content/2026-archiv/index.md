@@ -17,6 +17,8 @@ title: "Archiv 2026 Community und Events"
 | 5.3. | [OpenShift Virtualization](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260305_OCP-V_Hands-on_1-pager.pdf) & [Hosted Control Planes](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260305_HCP_Hands-on_1-pager.pdf) - Hands-on Workshop <br> Ort: Arrow ECS GmbH, Wienerbergstraße 11, 5. OG, 1100 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) <br><br>Anmerkung: An dem Tag finden 2 Workshops <br>zum Thema "Openshift Virtualization" (vormittags) <br>bzw. "Hosted Control Planes" (nachmittags) statt.  |
 | 11.3. | #7 Keycloak Meetup <br> Location: Gepardec Wien, Ernst-Melchior-Gasse 24,1020 Wien |Anmeldung über die Meetup-Gruppe: <br>[https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
 | 12.3. | vLLM Meetup in Vienna <br> [Register here!](https://luma.com/5yh233m8) | Location: NTS Office Wien Trabrennstraße 2b, 1020 Wien <br> Kontakt: basti@redhat.com |
+| 17.3. | Cloud Native Meetup OpenShift Edition at Blum <br> [Anmeldung](https://www.nts.eu/event/cloud-native-meetup-openshift-edition-2026/) | Location: Blum GmbH - Industriestrasse 1, 6973 Hoechst, Austria <br> Kontakt: basti@redhat.com |
+| 19.3. | 10:00 CEST Webinar @ TheRegister [Why Red Hat Open Source is the foundation for digital sovereignty](https://intelligence.theregister.com/paper/view/19687/why-red-hat-open-source-is-the-foundation-for-digital-sovereignty) |  |
 
 
 #
