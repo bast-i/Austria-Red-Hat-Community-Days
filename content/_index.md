@@ -13,22 +13,22 @@ title: "2025 Red Hat Community & Events"
 
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
-| letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 23.4. | Red Hat beim [Wiener Töchtertag 2026](https://www.toechtertag.at/betrieb/redhat/?companypage=0) | Kontakt: Dilan Gueler |
-| 29.4. | [Red Hat OpenShift Roadshow](https://reg.experiences.redhat.com/flow/redhat/3436239/fieldeventsregapproveform/page/landingregistrationpage): <br>Der Weg zur einheitlichen IT-Infrastruktur für Container und VMs<br>(inkl. OpenShift-Virtualization Hands-on Workshop)| Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3436239/redhatfieldeventsregistrationformapp/form/redhatregistrationnoappform) <br> Ort: DVT-Daten-Verarbeitung-Tirol GmbH in Innsbruck|
-| 7.5. | Save the date: [Austrian Platform Engineering Community 2026](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20260507-austrian-plattform-engineering-community-2026.html) @ Bundesrechenzentrum | [Call for Speaker](https://sessionize.com/austrian-plattform-engineering-community/) <br>Anmeldung [hier](https://www.brz.gv.at/Events/Austrian-Plattform-Engineering-Community-2026.html) |
-| 11.-14.5. | Red Hat Summit 2026, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/sum26/loginGenAttendee/page/start) |
-| 27.5. | [OpenShift AI - Hands-on Workshop](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260527_RHOAI_Hands-on_1-pager.pdf) <br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
-| 28.5. | #8 Keycloak Meetup <br> Location: Red Hat Wien, Postgasse 8b, 1010 Wien | Anmeldung über die Meetup-Gruppe: <br>[https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
-| 3.6. | Red Hat ist von 15–19 Uhr bei Code your Career - Dein Weg in IT und Digitalisierung im Technischen Museum Wien im Rahmen des [Future Fit Festival](https://www.waff.at/future-fit-festival-2026/) dabei | Andreas Bruckmüller, David Hanacek, Robert Baumgartner, Stephan Kraft |
-| 14.-16.6. | [Flock](https://www.fedoraproject.org/flock/2026/) The Fedora Project Conference, Prague, Czech Republic </br> Konferenzsprache Englisch | Call for Paper ab 8.12.25 bis 2.2.26 </br> Registrierung ab 8.12.25 |
-| 18.-19.6. | Save the date [DevConf.CZ](https://www.devconf.info/cz/), Brno, Czech Republic <br> Konferenzsprache: Englisch | Schedule and registration: April 20 - 24, 2026 |
-| 23.6. | Securing your Software pipeline w/ Red Hat Advanced Developer Suite - <br>Hands-on Workshop <br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien  | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260623_RHADS_Hands-on_1-pager.pdf)<br>Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
-| 25.-26.6. | Save the date [OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/home.html), Vienna, Austria <br> Konferenzsprache: Englisch | |
-| 28.9.| Save the date 34. OpenShift Anwendertreffen @ TU Wien | Anmeldeseite folgt in Kürze |
-| 29./30.9.| Save the date [Cloud native Days 2026](https://cloudnativedays.at/), Vienna <br> Konferenzsprache: Englisch | call for proposals open until April 30 |
-| 7.-9.10. | [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/), Prague, Czech Republic <br> Konferenzsprache: Englisch | Registration open, Early bird until August 4, Red Hat Platinum Sponsor |
-| 5.11. | #9 Keycloak Meetup <br> Location: tbd | Anmeldung über die Meetup-Gruppe: [https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
+| letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
+| 23.4. | Red Hat beim **[Wiener Töchtertag 2026](https://www.toechtertag.at/betrieb/redhat/?companypage=0)** | Kontakt: Dilan Gueler |
+| 29.4. | **[Red Hat OpenShift Roadshow](https://reg.experiences.redhat.com/flow/redhat/3436239/fieldeventsregapproveform/page/landingregistrationpage)**: <br>Der Weg zur einheitlichen IT-Infrastruktur für Container und VMs<br>(inkl. OpenShift-Virtualization Hands-on Workshop)| Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3436239/redhatfieldeventsregistrationformapp/form/redhatregistrationnoappform) <br> Ort: DVT-Daten-Verarbeitung-Tirol GmbH in Innsbruck|
+| 7.5. | **[Austrian Platform Engineering Community 2026](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20260507-austrian-plattform-engineering-community-2026.html)**  @ Bundesrechenzentrum <br> bereits ausgebucht!| Anmeldung [hier](https://www.brz.gv.at/Events/Austrian-Plattform-Engineering-Community-2026.html) |
+| 11.-14.5. | **Red Hat Summit 2026**, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/sum26/loginGenAttendee/page/start) |
+| 27.5. | **[OpenShift AI - Hands-on Workshop](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260527_RHOAI_Hands-on_1-pager.pdf)**<br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
+| 28.5. | **#8 Keycloak Meetup**<br> Location: Red Hat Wien, Postgasse 8b, 1010 Wien | Anmeldung über die Meetup-Gruppe: <br>[https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
+| 3.6. | Red Hat ist von 15–19 Uhr bei **Code your Career** - Dein Weg in IT und Digitalisierung im Technischen Museum Wien im Rahmen des [Future Fit Festival](https://www.waff.at/future-fit-festival-2026/) dabei | Andreas Bruckmüller, David Hanacek, Robert Baumgartner, Stephan Kraft |
+| 14.-16.6. | **[Flock](https://www.fedoraproject.org/flock/2026/)** The Fedora Project Conference, Prague, Czech Republic </br> Konferenzsprache Englisch |  |
+| 18.-19.6. | Save the date **[DevConf.CZ](https://www.devconf.info/cz/)**, Brno, Czech Republic <br> Konferenzsprache: Englisch | Schedule and registration: April 20 - 24, 2026 |
+| 23.6. | **Securing your Software pipeline** w/ Red Hat Advanced Developer Suite - <br>Hands-on Workshop <br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien  | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260623_RHADS_Hands-on_1-pager.pdf)<br>Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
+| 25.-26.6. | **[OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/home.html)**, Vienna, Austria <br> Konferenzsprache: Englisch | |
+| 28.9.| Save the date **34. OpenShift Anwendertreffen** @ TU Wien | Anmeldeseite folgt in Kürze |
+| 29./30.9.| **[Cloud native Days 2026](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch | call for proposals open until April 30 |
+| 7.-9.10. | **[Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/)**, Prague, Czech Republic <br> Konferenzsprache: Englisch | Registration open, Early bird until August 4, Red Hat Platinum Sponsor |
+| 5.11. | **#9 Keycloak Meetup** <br> Location: tbd | Anmeldung über die Meetup-Gruppe: [https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
 
 #
  
