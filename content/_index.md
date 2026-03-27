@@ -14,7 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | Red Hat Austria & Friends | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 23.-26.3. | [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch | Kontaktiert Euren Red Hat Ansprechpartner für einen Discount Code und wenn ihr plant dabei zu sein! |
 | 23.4. | Red Hat beim [Wiener Töchtertag 2026](https://www.toechtertag.at/betrieb/redhat/?companypage=0) | Kontakt: Dilan Gueler |
 | 29.4. | [Red Hat OpenShift Roadshow](https://reg.experiences.redhat.com/flow/redhat/3436239/fieldeventsregapproveform/page/landingregistrationpage): <br>Der Weg zur einheitlichen IT-Infrastruktur für Container und VMs<br>(inkl. OpenShift-Virtualization Hands-on Workshop)| Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3436239/redhatfieldeventsregistrationformapp/form/redhatregistrationnoappform) <br> Ort: DVT-Daten-Verarbeitung-Tirol GmbH in Innsbruck|
 | 7.5. | Save the date: [Austrian Platform Engineering Community 2026](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20260507-austrian-plattform-engineering-community-2026.html) @ Bundesrechenzentrum | [Call for Speaker](https://sessionize.com/austrian-plattform-engineering-community/) <br>Anmeldung [hier](https://www.brz.gv.at/Events/Austrian-Plattform-Engineering-Community-2026.html) |
