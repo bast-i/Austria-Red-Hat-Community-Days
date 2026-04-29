@@ -14,6 +14,7 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
+| 30.4. | 10:00 CEST Webinar **[From Cost Pressure to Innovation: Resetting Your Virtualization Strategy for Scale](https://www.redhat.com/en/events/webinar/from-cost-pressure-to-innovation-resetting-your-virtualization-strategy-for-scale)** | Kevin Niederwanger Senior Technical Account Manager |
 | 7.5. | **[Austrian Platform Engineering Community 2026](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20260507-austrian-plattform-engineering-community-2026.html)**  @ Bundesrechenzentrum <br> bereits ausgebucht!| Anmeldung [hier](https://www.brz.gv.at/Events/Austrian-Plattform-Engineering-Community-2026.html) |
 | 11.-14.5. | **Red Hat Summit 2026**, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/sum26/loginGenAttendee/page/start) |
 | 27.5. | **[OpenShift AI - Hands-on Workshop](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260527_RHOAI_Hands-on_1-pager.pdf)**<br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
