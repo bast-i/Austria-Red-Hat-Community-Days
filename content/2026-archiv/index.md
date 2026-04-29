@@ -21,6 +21,7 @@ title: "Archiv 2026 Community und Events"
 | 19.3. | Webinar Recording @ TheRegister [Why Red Hat Open Source is the foundation for digital sovereignty](https://intelligence.theregister.com/paper/view/19687/why-red-hat-open-source-is-the-foundation-for-digital-sovereignty) |  |
 | 23.-26.3. | [KubeCon + CloudNativeCon Europe 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) Konferenzsprache: Englisch |  |
 | 23.4. | Red Hat beim **[Wiener Töchtertag 2026](https://www.toechtertag.at/betrieb/redhat/?companypage=0)** | Kontakt: Dilan Gueler |
+| 29.4. | **[Red Hat OpenShift Roadshow](https://reg.experiences.redhat.com/flow/redhat/3436239/fieldeventsregapproveform/page/landingregistrationpage)**: <br>Der Weg zur einheitlichen IT-Infrastruktur für Container und VMs<br>(inkl. OpenShift-Virtualization Hands-on Workshop)| Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3436239/redhatfieldeventsregistrationformapp/form/redhatregistrationnoappform) <br> Ort: DVT-Daten-Verarbeitung-Tirol GmbH in Innsbruck|
 
 
 #
