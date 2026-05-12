@@ -46,3 +46,5 @@ title: "2025 Red Hat Community & Events"
 | [What's new in Red Hat OpenShift](https://www.redhat.com/en/whats-new-red-hat-openshift) - Join our Red Hat OpenShift product managers for in-depth overviews of Red Hat OpenShift releases. |
 | [Weitere OpenShift-Livestream-Events über Google Kalender](https://calendar.google.com/calendar/u/0/embed?src=redhatstreaming@gmail.com) (bitte auf Zeitzone achten) |
 | [commons.openshift.org](https://commons.openshift.org) - OpenShift Commons: Where users, partners, and contributors come together |
+| [Red Hat Hardened Images](https://images.redhat.com/) - Red Hat Hardened Images - hardened container images to you at no-cost |
+| [Red Hat Universal Base Images](https://catalog.redhat.com/en/software/base-images)) - Build, share, and collaborate with greater reliability, security, and performance using base images by Red Hat |
