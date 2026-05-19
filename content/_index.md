@@ -27,7 +27,7 @@ title: "2025 Red Hat Community & Events"
 | 28.9.| **35. OpenShift Anwendertreffen** @ TU Wien | Mehr Informationen: [www.openshift-anwender.de](https://www.openshift-anwender.de/2026/04/01/jetzt-anmelden-zum-35-openshift-anwendertreffen-am-28-september-2026-in-wien/)<br>Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3936450/rhexpressregistrationapp/page/expressregistration?extIdCarryOver=true&sc_cid=RHCTG0180000371694) |
 | 29./30.9.| **[Cloud native Days 2026](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
 | 7.-9.10. | **[Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/)**, Prague, Czech Republic <br> Konferenzsprache: Englisch | Registration open, Early bird until August 4, Red Hat Platinum Sponsor |
-| 13./14.10. | **Austria @ Innovate Together**, Sibenik, Kroatien  | Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3796650/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000477756)|
+| 13./14.10. | **Austria @ Innovate Together**, (Sibenik, Kroatien)  | Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3796650/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000477756)|
 | 5.11. | **#9 Keycloak Meetup** <br> Location: tbd | Anmeldung über die Meetup-Gruppe: [https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
 
 #
