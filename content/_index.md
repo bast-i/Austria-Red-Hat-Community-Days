@@ -28,6 +28,7 @@ title: "2025 Red Hat Community & Events"
 | 29./30.9.| **[Cloud native Days 2026](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
 | 7.-9.10. | **[Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/)**, Prague, Czech Republic <br> Konferenzsprache: Englisch | Registration open, Early bird until August 4, Red Hat Platinum Sponsor |
 | 13./14.10. | **Austria @ Innovate Together**, (Sibenik, Kroatien)  | Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3796650/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000477756)|
+| 19. - 24.10 | **GenAIOps (AI501) Classroom - Training** | Beschreibung: [hier](https://www.redhat.com/en/services/training/ai501-genaiops-enablement-with-red-hat-ai-enterprise)|
 | 5.11. | **#9 Keycloak Meetup** <br> Location: tbd | Anmeldung über die Meetup-Gruppe: [https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
 
 #
