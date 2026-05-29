@@ -14,8 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 27.5. | **[OpenShift AI - Hands-on Workshop](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260527_RHOAI_Hands-on_1-pager.pdf)**<br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
-| 28.5. | **#8 Keycloak Meetup**<br> Location: Red Hat Wien, Postgasse 8b, 1010 Wien | Anmeldung über die Meetup-Gruppe: <br>[https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
 | 2.6. |  **7. DACH Enterprise Linux Anwendertreffen**, Wien, IBM Österreich | [Anmeldung](https://forms.gle/FvntSRFw4SYBEYY8A)<br>Kontakt: Ahmed Dahia ahdahia@redhat.com |
 | 3.6. | Red Hat ist von 15–19 Uhr bei **Code your Career** - Dein Weg in IT und Digitalisierung im Technischen Museum Wien im Rahmen des [Future Fit Festival](https://www.waff.at/future-fit-festival-2026/) dabei | Andreas Bruckmüller, David Hanacek, Robert Baumgartner, Stephan Kraft |
 | 10.6. | 15:00 - 16:30 (virtuell)<br>OpenShift-Anwender Community Session: **OpenShift Compliance Operator Deep Dive** | Sprecher: Steffen Lützenkirchen (Principal Solution Architect, Red Hat) <br>Anmeldung [hier](https://forms.gle/R5UnhfGy8VXmoqKXA) |
@@ -28,7 +26,7 @@ title: "2025 Red Hat Community & Events"
 | 29./30.9.| **[Cloud native Days 2026](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
 | 7.-9.10. | **[Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/)**, Prague, Czech Republic <br> Konferenzsprache: Englisch | Registration open, Early bird until August 4, Red Hat Platinum Sponsor |
 | 13./14.10. | **Austria @ Innovate Together**, (Sibenik, Kroatien)  | Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3796650/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000477756)|
-| 19. - 24.10 (Wien) | **GenAIOps (AI501) Classroom - Training** | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261019_GenAIOps_AI501_1-pager.pdf) |
+| 19.-24.10. | **GenAIOps (AI501) Classroom - Training**, Wien | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261019_GenAIOps_AI501_1-pager.pdf) |
 | 5.11. | **#9 Keycloak Meetup** <br> Location: tbd | Anmeldung über die Meetup-Gruppe: [https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
 
 #
