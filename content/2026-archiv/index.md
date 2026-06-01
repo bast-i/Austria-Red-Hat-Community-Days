@@ -27,7 +27,7 @@ title: "Archiv 2026 Community und Events"
 | 11.-14.5. | **Red Hat Summit 2026**, Atlanta, Georgia - [FAQ](https://www.redhat.com/en/summit/about/faq) <br> Konferenzsprache: Englisch | [Anmeldung](https://reg.experiences.redhat.com/flow/redhat/sum26/loginGenAttendee/page/start) |
 | 27.5. | **[OpenShift AI - Hands-on Workshop](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260527_RHOAI_Hands-on_1-pager.pdf)**<br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien | Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
 | 28.5. | **#8 Keycloak Meetup**<br> Location: Red Hat Wien, Postgasse 8b, 1010 Wien | Anmeldung über die Meetup-Gruppe: <br>[https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
-
+| 2.6. |  **7. DACH Enterprise Linux Anwendertreffen**, Wien, IBM Österreich | [Anmeldung](https://forms.gle/FvntSRFw4SYBEYY8A)<br>Kontakt: Ahmed Dahia ahdahia@redhat.com |
 
 #
 

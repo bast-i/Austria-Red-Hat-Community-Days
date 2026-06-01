@@ -14,7 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 2.6. |  **7. DACH Enterprise Linux Anwendertreffen**, Wien, IBM Österreich | [Anmeldung](https://forms.gle/FvntSRFw4SYBEYY8A)<br>Kontakt: Ahmed Dahia ahdahia@redhat.com |
 | 3.6. | Red Hat ist von 15–19 Uhr bei **Code your Career** - Dein Weg in IT und Digitalisierung im Technischen Museum Wien im Rahmen des [Future Fit Festival](https://www.waff.at/future-fit-festival-2026/) dabei | Andreas Bruckmüller, David Hanacek, Robert Baumgartner, Stephan Kraft |
 | 10.6. | 15:00 - 16:30 (virtuell)<br>OpenShift-Anwender Community Session: **OpenShift Compliance Operator Deep Dive** | Sprecher: Steffen Lützenkirchen (Principal Solution Architect, Red Hat) <br>Anmeldung [hier](https://forms.gle/R5UnhfGy8VXmoqKXA) |
 | 14.-16.6. | **[Flock](https://www.fedoraproject.org/flock/2026/)** The Fedora Project Conference, Prague, Czech Republic </br> Konferenzsprache Englisch |  |
