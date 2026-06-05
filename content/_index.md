@@ -14,15 +14,14 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 3.6. | Red Hat ist von 15–19 Uhr bei **Code your Career** - Dein Weg in IT und Digitalisierung im Technischen Museum Wien im Rahmen des [Future Fit Festival](https://www.waff.at/future-fit-festival-2026/) dabei | Andreas Bruckmüller, David Hanacek, Robert Baumgartner, Stephan Kraft |
 | 10.6. | 15:00 - 16:30 (virtuell)<br>OpenShift-Anwender Community Session: **OpenShift Compliance Operator Deep Dive** | Sprecher: Steffen Lützenkirchen (Principal Solution Architect, Red Hat) <br>Anmeldung [hier](https://forms.gle/R5UnhfGy8VXmoqKXA) |
 | 14.-16.6. | **[Flock](https://www.fedoraproject.org/flock/2026/)** The Fedora Project Conference, Prague, Czech Republic </br> Konferenzsprache Englisch |  |
-| 18.-19.6. | Save the date **[DevConf.CZ](https://www.devconf.info/cz/)**, Brno, Czech Republic <br> Konferenzsprache: Englisch | Schedule and registration: April 20 - 24, 2026 |
-| 23.6. | **Securing your Software pipeline** w/ Red Hat Advanced Developer Suite - <br>Hands-on Workshop <br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien  | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260623_RHADS_Hands-on_1-pager.pdf)<br>Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
+| 18.-19.6. | **[DevConf.CZ](https://www.devconf.info/cz/)**, Brno, Czech Republic <br> Konferenzsprache: Englisch |  |
+| 23.6. | **Securing your Software pipeline** w/ Red Hat Advanced Developer Suite - Hands-on Workshop <br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien  | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260623_RHADS_Hands-on_1-pager.pdf)<br>Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
 | 25.-26.6. | **[OWASP Global AppSec EU 2026](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/home.html)**, Vienna, Austria <br> Konferenzsprache: Englisch | |
 | 8.7. | scheduled, details to follow! Virtual event - Accelerate your innovation with<br>**City of Vienna: Demonstrating the Power of WienKI (ViennaAI) The City’s AI Sovereignty** | Kontakt: David Hanacek |
 | 28.9.| **35. OpenShift Anwendertreffen** @ TU Wien | Mehr Informationen: [www.openshift-anwender.de](https://www.openshift-anwender.de/2026/04/01/jetzt-anmelden-zum-35-openshift-anwendertreffen-am-28-september-2026-in-wien/)<br>Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3936450/rhexpressregistrationapp/page/expressregistration?extIdCarryOver=true&sc_cid=RHCTG0180000371694) |
-| 29./30.9.| **[Cloud native Days 2026](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
+| 29./30.9.| **[Cloud Native Days Austria 2026](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
 | 7.-9.10. | **[Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/)**, Prague, Czech Republic <br> Konferenzsprache: Englisch | Registration open, Early bird until August 4, Red Hat Platinum Sponsor |
 | 13./14.10. | **Austria @ Innovate Together**, (Sibenik, Kroatien)  | Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3796650/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000477756)|
 | 19.-24.10. | **GenAIOps (AI501) Classroom - Training**, Wien | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261019_GenAIOps_AI501_1-pager.pdf) |
