@@ -29,6 +29,7 @@ title: "Archiv 2026 Community und Events"
 | 28.5. | **#8 Keycloak Meetup**<br> Location: Red Hat Wien, Postgasse 8b, 1010 Wien | Anmeldung über die Meetup-Gruppe: <br>[https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
 | 2.6. |  **7. DACH Enterprise Linux Anwendertreffen**, Wien, IBM Österreich | [Anmeldung](https://forms.gle/FvntSRFw4SYBEYY8A)<br>Kontakt: Ahmed Dahia ahdahia@redhat.com |
 | 3.6. | Red Hat ist von 15–19 Uhr bei **Code your Career** - Dein Weg in IT und Digitalisierung im Technischen Museum Wien im Rahmen des [Future Fit Festival](https://www.waff.at/future-fit-festival-2026/) dabei | Andreas Bruckmüller, David Hanacek, Robert Baumgartner, Stephan Kraft |
+| 10.6. | 15:00 - 16:30 (virtuell)<br>OpenShift-Anwender Community Session: **OpenShift Compliance Operator Deep Dive** | Sprecher: Steffen Lützenkirchen (Principal Solution Architect, Red Hat) <br>Anmeldung [hier](https://forms.gle/R5UnhfGy8VXmoqKXA) |
 
 #
 

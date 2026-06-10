@@ -14,7 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 10.6. | 15:00 - 16:30 (virtuell)<br>OpenShift-Anwender Community Session: **OpenShift Compliance Operator Deep Dive** | Sprecher: Steffen Lützenkirchen (Principal Solution Architect, Red Hat) <br>Anmeldung [hier](https://forms.gle/R5UnhfGy8VXmoqKXA) |
 | 14.-16.6. | **[Flock](https://www.fedoraproject.org/flock/2026/)** The Fedora Project Conference, Prague, Czech Republic </br> Konferenzsprache Englisch |  |
 | 18.-19.6. | **[DevConf.CZ](https://www.devconf.info/cz/)**, Brno, Czech Republic <br> Konferenzsprache: Englisch |  |
 | 23.6. | **Securing your Software pipeline** w/ Red Hat Advanced Developer Suite - Hands-on Workshop <br> Ort: Red Hat Office, Postgasse 8b, 1010 Wien  | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20260623_RHADS_Hands-on_1-pager.pdf)<br>Anmeldung [hier](https://forms.gle/i6sMvexFySkTUmSd7) |
