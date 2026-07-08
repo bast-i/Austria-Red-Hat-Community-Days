@@ -14,7 +14,6 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 8.7. | [Virtual event - Accelerate your innovation](https://www.redhat.com/en/events/webinar/accelerate-your-innovation) with<br>**City of Vienna: Demonstrating the Power of WienKI (ViennaAI) The City’s AI Sovereignty** (English) | [Registration](https://www.redhat.com/en/events/webinar/accelerate-your-innovation)<br>Kontakt: David Hanacek |
 | 23.9 | 15:00 - 16:30 (virtuell)<br>OpenShift-Anwender Community Session: **Tokenomics im Griff: Generative KI effizient auf OpenShift AI betreiben** | Sprecher: Kyra Goud (Specialist Solution Architect AI, Red Hat) <br>Anmeldung [hier](https://forms.gle/R5UnhfGy8VXmoqKXA) |
 | 28.9.| **35. OpenShift Anwendertreffen** @ TU Wien | Mehr Informationen: [www.openshift-anwender.de](https://www.openshift-anwender.de/2026/04/01/jetzt-anmelden-zum-35-openshift-anwendertreffen-am-28-september-2026-in-wien/)<br>Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3936450/rhexpressregistrationapp/page/expressregistration?extIdCarryOver=true&sc_cid=RHCTG0180000371694) |
 | 29./30.9.| **[Cloud Native Days Austria 2026](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
