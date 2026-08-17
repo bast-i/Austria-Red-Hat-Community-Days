@@ -22,9 +22,9 @@ title: "2025 Red Hat Community & Events"
 | 15.10 | 14:00 - 15:30 (virtuell)<br>OpenShift-Anwender Community Session: **OpenShift Lightspeed** | Sprecher: Robert Baumgartner (Specialist Solution Architect, Red Hat) <br>Anmeldung [hier](https://forms.gle/eu6C1TzBVE9Jw6A9A) |
 | 19.-24.10. | **GenAIOps (AI501) Classroom - Training**, Wien | Beschreibung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261019_GenAIOps_AI501_1-pager.pdf) |
 | 5.11. | **#9 Keycloak Meetup** <br> Location: tbd | Anmeldung über die Meetup-Gruppe: [https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
-| 24.10. | **Red Hat OpenShift AI Hands-on Workshop** | Location: on-site (Arrow ECS, Wien) &<br> remote <br>Mehr Informationen & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261124_RHOAI_Hands-on_1-pager.pdf) |
+| 24.11. | **Red Hat OpenShift AI Hands-on Workshop** | Location: on-site (Arrow ECS, Wien) &<br> remote <br>Mehr Informationen & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261124_RHOAI_Hands-on_1-pager.pdf) |
 | 10.12. | **Red Hat OpenShift Virtualization Hands-on Workshop** | Location: on-site (ETC, Wien) &<br> remote <br>Mehr Informationen & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_OCP-V_Hands-on_1-pager.pdf) |
-| 24.10. | **Red Hat OpenShift Hosted Control Planes Hands-on Workshop**| Location: on-site (ETC, Wien) &<br> remote <br> Mehr Informationen & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_HCP_HandsOnWorkshop.pdf) |
+| 10.12 | **Red Hat OpenShift Hosted Control Planes Hands-on Workshop**| Location: on-site (ETC, Wien) &<br> remote <br> Mehr Informationen & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_HCP_HandsOnWorkshop.pdf) |
 
 
 #
