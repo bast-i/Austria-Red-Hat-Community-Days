@@ -23,8 +23,7 @@ title: "2025 Red Hat Community & Events"
 | 5.11. | **#10 Keycloak Meetup** <br> Location: tbd | Anmeldung über die Meetup-Gruppe: [https://www.meetup.com/keycloak-user-group-austria/](https://www.meetup.com/keycloak-user-group-austria/) |
 | 11.11. | **Keine Narrenfreiheit 2.0 – Angreifer rüsten auf. Wir auch?** <br> Location: IBM (Obere Donaustraße 95, 1020 Wien) | Anmelde-Seite in Bearbeitung |
 | 24.11. | **Red Hat OpenShift AI Hands-on Workshop** | Location: on-site (Arrow ECS, Wien) &<br> remote <br>Mehr Informationen & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261124_RHOAI_Hands-on_1-pager.pdf) |
-| 26.11. | **Red Hat Developer Day** |Location: Arcotel Wimberger Vienna, <br>
-Neubaugürtel 34-36, 1070 Wien <br><br>Anmelde-Seite in Bearbeitung |
+| 26.11. | **Red Hat Developer Day** | Location: Arcotel Wimberger Vienna, <br> Neubaugürtel 34-36, 1070 Wien <br><br>Anmelde-Seite in Bearbeitung |
 | 10.12. | **Red Hat OpenShift Virtualization Hands-on Workshop** | Location: on-site (ETC, Wien) &<br> remote <br>Mehr Informationen & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_OCP-V_Hands-on_1-pager.pdf) |
 | 10.12 | **Red Hat OpenShift Hosted Control Planes Hands-on Workshop**| Location: on-site (ETC, Wien) &<br> remote <br> Mehr Informationen & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_HCP_HandsOnWorkshop.pdf) |
 
