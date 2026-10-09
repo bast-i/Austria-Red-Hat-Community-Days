@@ -38,6 +38,8 @@ title: "Archiv 2026 Community und Events"
 | 22.9. |  Red Hat AI what's new and what's next - Q3 2026   | Youtube Stream: [hier](https://www.youtube.com/watch?v=Glm2mEE7e-U) |
 | 28.9.| **35. OpenShift Anwendertreffen** @ TU Wien | Mehr Informationen: [www.openshift-anwender.de](https://www.openshift-anwender.de/2026/04/01/jetzt-anmelden-zum-35-openshift-anwendertreffen-am-28-september-2026-in-wien/)<br>Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3936450/rhexpressregistrationapp/page/expressregistration?extIdCarryOver=true&sc_cid=RHCTG0180000371694) |
 | 29./30.9.| **[Cloud Native Days Austria 2026](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
+| 7.-9.10. | **[Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/)**, Prague, Czech Republic <br> Konferenzsprache: Englisch | Registration open, Red Hat Platinum Sponsor |
+| 9.10. | **[Skalieren ohne Chaos: Wie du mit Red Hat deine IT-Infrastruktur standardisierst](https://www.redhat.com/de/events/webinar/establishing-your-standard-operating-environment-soe-with-red-hat)** mithilfe von Standard Operating Environment (SOE) - Webinar, 10:00 CEST (UTC+2) | Ahmed Dahia, Marcel Hirsch | 
 
 #
 
