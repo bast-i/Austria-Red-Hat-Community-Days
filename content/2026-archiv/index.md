@@ -40,6 +40,8 @@ title: "Archiv 2026 Community und Events"
 | 29./30.9.| **[Cloud Native Days Austria 2026](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
 | 7.-9.10. | **[Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/)**, Prague, Czech Republic <br> Konferenzsprache: Englisch | Registration open, Red Hat Platinum Sponsor |
 | 9.10. | **[Skalieren ohne Chaos: Wie du mit Red Hat deine IT-Infrastruktur standardisierst](https://www.redhat.com/de/events/webinar/establishing-your-standard-operating-environment-soe-with-red-hat)** mithilfe von Standard Operating Environment (SOE) - Webinar, 10:00 CEST (UTC+2) | Ahmed Dahia, Marcel Hirsch | 
+| 13./14.10. | **Austria @ Innovate Together**, (Sibenik, Kroatien)  | Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3796650/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000477756)|
+| 15.10 | 14:00 - 15:30 (virtuell)<br>OpenShift-Anwender Community Session: **OpenShift Lightspeed**<br>Sprecher: Robert Baumgartner - Specialist Solution Architect, Red Hat | Anmeldung [hier](https://forms.gle/eu6C1TzBVE9Jw6A9A) |
 
 #
 
