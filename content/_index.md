@@ -14,13 +14,12 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 21.10 | 15:00 - 16:30 (virtuell)<br>OpenShift-Anwender Community Session: **Tokenomics im Griff: Generative KI effizient auf OpenShift AI betreiben**<br>Sprecherin: Kyra Goud - Specialist Solution Architect AI, Red Hat | Anmeldung [hier](https://forms.gle/eu6C1TzBVE9Jw6A9A) |
 | 5.11. | **#10 Keycloak Meetup**<br>Location: NTS, Trabrennstraße 2b, 1020 Wien | Anmeldung über [Keycloak Meetup-Gruppe](https://www.meetup.com/keycloak-user-group-austria/) |
 | 11.11. | **Keine Narrenfreiheit 2.0 – Angreifer rüsten auf. Wir auch?**<br>Location: IBM (Obere Donaustraße 95, 1020 Wien) | Mehr Info & Anmeldung: [hier](https://www.eventbrite.at/e/keine-narrenfreiheit-20-angreifer-rusten-auf-wir-auch-tickets-2001896015873) |
 | 24.11. | **Red Hat OpenShift AI Hands-on Workshop**<br>Location: on-site (Arrow ECS, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261124_RHOAI_Hands-on_1-pager.pdf) |
 | 26.11. | **Red Hat Developer Day "From Vibe to Value"**<br>Location: Arcotel Wimberger Vienna, Neubaugürtel 34-36, 1070 Wien | Details & Anmmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/4953475/rhexpressregistrationapp/page/expressregistration) |
 | 10.12. | 9:00-12:30 **Red Hat OpenShift Virtualization Hands-on Workshop** <br> Location: on-site (ETC, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_OCP-V_Hands-on_1-pager.pdf) |
-| 10.12 | 13:00-17:00 **Red Hat OpenShift Hosted Control Planes Hands-on Workshop** <br> Location: on-site (ETC, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_HCP_HandsOnWorkshop.pdf) |
+| 10.12. | 13:00-17:00 **Red Hat OpenShift Hosted Control Planes Hands-on Workshop** <br> Location: on-site (ETC, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_HCP_HandsOnWorkshop.pdf) |
 
 
 #
