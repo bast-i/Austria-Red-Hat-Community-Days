@@ -43,6 +43,8 @@ title: "Archiv 2026 Community und Events"
 | 13./14.10. | **Austria @ Innovate Together**, (Sibenik, Kroatien)  | Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/3796650/fieldeventsregapproveform/page/landingregistrationpage?sc_cid=RHCTE1260000477756)|
 | 15.10. | 14:00 - 15:30 (virtuell)<br>OpenShift-Anwender Community Session: **OpenShift Lightspeed**<br>Sprecher: Robert Baumgartner - Specialist Solution Architect, Red Hat | Anmeldung [hier](https://forms.gle/eu6C1TzBVE9Jw6A9A) |
 | 21.10. | 15:00 - 16:30 (virtuell)<br>OpenShift-Anwender Community Session: **Tokenomics im Griff: Generative KI effizient auf OpenShift AI betreiben**<br>Sprecherin: Kyra Goud - Specialist Solution Architect AI, Red Hat | Anmeldung [hier](https://forms.gle/eu6C1TzBVE9Jw6A9A) |
+| 5.11. | **#10 Keycloak Meetup**<br>Location: NTS, Trabrennstraße 2b, 1020 Wien | Anmeldung über [Keycloak Meetup-Gruppe](https://www.meetup.com/keycloak-user-group-austria/) |
+
 
 #
 
