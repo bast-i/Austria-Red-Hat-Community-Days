@@ -20,16 +20,20 @@ title: "2025 Red Hat Community & Events"
 | 10.12. | 9:00-12:30 **Red Hat OpenShift Virtualization Hands-on Workshop** <br> Location: on-site (ETC, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_OCP-V_Hands-on_1-pager.pdf) |
 | 10.12. | 13:00-17:00 **Red Hat OpenShift Hosted Control Planes Hands-on Workshop** <br> Location: on-site (ETC, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_HCP_HandsOnWorkshop.pdf) |
 
+
 # 2027 Ausblick Community Days und Events
 
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
+| 25.2. | **[Cloud-native Meetup @ FH Vorarlberg](https://www.nts.eu/event/cloud-native-meetup-openshift-edition/)**, Dornbirn | |
+| 8.4. | **[38. OpenShift-Anwendertreffen @ TGW](https://www.openshift-anwender.de/)**, Marchtrenk | Anmeldung und Details folgen |
 | 13.5. | **[Austrian Platform Engineering Community 2027](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20270513-austrian-plattform-engineering-community.html)**  @ Bundesrechenzentrum | Call for Sessions ab Jänner 2027, Anmeldung ab März 2027 möglich. |
 | 24.-27.5. | **[Red Hat Summit 2027](https://www.redhat.com/en/summit)**, Boston, Massachusetts <br> Konferenzsprache: Englisch | [Submit your proposal](https://www.redhat.com/en/summit/submit-a-session) by November 30, 2026 for a chance to speak at Red Hat Summit 2027. |
 | June tbc | **[DevConf.CZ](https://www.devconf.info/cz/)**, Brno, Czech Republic <br> Konferenzsprache: Englisch |  |
-| September tbc | **[xx. OpenShift Anwendertreffen](https://www.openshift-anwender.de/)** @ ??? |  |
+| September tbc | **[xx. OpenShift Anwendertreffen](https://www.openshift-anwender.de/)** @ ??? | Anmeldung und Details folgen |
 | tbc | **[Cloud Native Days Austria 2027](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
+
 
 #
  
