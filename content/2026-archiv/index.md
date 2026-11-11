@@ -44,6 +44,7 @@ title: "Archiv 2026 Community und Events"
 | 15.10. | 14:00 - 15:30 (virtuell)<br>OpenShift-Anwender Community Session: **OpenShift Lightspeed**<br>Sprecher: Robert Baumgartner - Specialist Solution Architect, Red Hat | Anmeldung [hier](https://forms.gle/eu6C1TzBVE9Jw6A9A) |
 | 21.10. | 15:00 - 16:30 (virtuell)<br>OpenShift-Anwender Community Session: **Tokenomics im Griff: Generative KI effizient auf OpenShift AI betreiben**<br>Sprecherin: Kyra Goud - Specialist Solution Architect AI, Red Hat | Anmeldung [hier](https://forms.gle/eu6C1TzBVE9Jw6A9A) |
 | 5.11. | **#10 Keycloak Meetup**<br>Location: NTS, Trabrennstraße 2b, 1020 Wien | Anmeldung über [Keycloak Meetup-Gruppe](https://www.meetup.com/keycloak-user-group-austria/) |
+| 11.11. | **Keine Narrenfreiheit 2.0 – Angreifer rüsten auf. Wir auch?**<br>Location: IBM (Obere Donaustraße 95, 1020 Wien) | Mehr Info & Anmeldung: [hier](https://www.eventbrite.at/e/keine-narrenfreiheit-20-angreifer-rusten-auf-wir-auch-tickets-2001896015873) |
 
 
 #
