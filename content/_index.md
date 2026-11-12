@@ -14,6 +14,7 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
+| 16.-18.11. | **[Digital Days 2026](https://digitalcity.wien/event/digital-days-2026-2/)** <br>17.11. 11:00 – 12:30 AI Guardrails & Softwaresicherheit im KI-Zeitalter <br>18.11. Haupttag im Technischen Museum Wien - AI Guardrails und Whisper Voice Challenge |  |
 | 24.11. | **Red Hat OpenShift AI Hands-on Workshop**<br>Location: on-site (Arrow ECS, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261124_RHOAI_Hands-on_1-pager.pdf) |
 | 26.11. | **Red Hat Developer Day "From Vibe to Value"**<br>Location: Arcotel Wimberger Vienna, Neubaugürtel 34-36, 1070 Wien | Details & Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/4953475/rhexpressregistrationapp/page/expressregistration) |
 | 09.12. | 13:00 - 17:00 **36.Openshift Anwendertreffen - <br>OpenShift 5 Special Edition (virtuell)** | Agenda & Anmeldung: [hier](https://www.openshift-anwender.de/2026/11/09/jetzt-anmelden-zum-openshift-anwendertreffen-openshift-5-special-edition/) |
