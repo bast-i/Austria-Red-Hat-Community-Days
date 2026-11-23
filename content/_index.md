@@ -30,7 +30,7 @@ title: "2025 Red Hat Community & Events"
 | 8.4. | **[38. OpenShift-Anwendertreffen @ TGW](https://www.openshift-anwender.de/)**, Marchtrenk | Anmeldung und Details folgen |
 | 13.5. | **[Austrian Platform Engineering Community 2027](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20270513-austrian-plattform-engineering-community.html)**  @ Bundesrechenzentrum | Call for Sessions ab Jänner 2027, Anmeldung ab März 2027 möglich. |
 | 24.-27.5. | **[Red Hat Summit 2027](https://www.redhat.com/en/summit)**, Boston, Massachusetts <br> Konferenzsprache: Englisch | [Submit your proposal](https://www.redhat.com/en/summit/submit-a-session) by November 30, 2026 for a chance to speak at Red Hat Summit 2027. |
-| June tbc | **[DevConf.CZ](https://www.devconf.info/cz/)**, Brno, Czech Republic <br> Konferenzsprache: Englisch |  |
+| 17.-18.6. | **[DevConf.CZ](https://www.devconf.info/cz/)**, Brno, Czech Republic <br> Konferenzsprache: Englisch | Call for proposals early December 2026 |
 | September tbc | **[xx. OpenShift Anwendertreffen](https://www.openshift-anwender.de/)** @ ??? | Anmeldung und Details folgen |
 | tbc | **[Cloud Native Days Austria 2027](https://cloudnativedays.at/)**, Vienna <br> Konferenzsprache: Englisch |  |
 
