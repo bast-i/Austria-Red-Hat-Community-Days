@@ -14,8 +14,7 @@ title: "2025 Red Hat Community & Events"
 |<nobr>Datum</nobr>| Veranstaltung | Hinweise | 
 | ------------ | ------------- |--------| 
 | letzter Do. im Monat | **Red Hat Austria & Friends** | Kontakt Thomas Ettenauer tettenau@redhat.com | 
-| 26.11. | **Red Hat Developer Day "From Vibe to Value"**<br>Location: Arcotel Wimberger Vienna, Neubaugürtel 34-36, 1070 Wien | Details & Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/4953475/rhexpressregistrationapp/page/expressregistration) |
-| 9.12. | 13:00 - 17:00 **36.Openshift Anwendertreffen - <br>OpenShift 5 Special Edition (virtuell)** | Agenda & Anmeldung: [hier](https://www.openshift-anwender.de/2026/11/09/jetzt-anmelden-zum-openshift-anwendertreffen-openshift-5-special-edition/) |
+| 9.12. | 13:00 - 17:00 **36. Openshift Anwendertreffen - <br>OpenShift 5 Special Edition (virtuell)** | Agenda & Anmeldung: [hier](https://www.openshift-anwender.de/2026/11/09/jetzt-anmelden-zum-openshift-anwendertreffen-openshift-5-special-edition/) |
 | 10.12. | 9:00-12:30 **Red Hat OpenShift Virtualization Hands-on Workshop** <br> Location: on-site (ETC, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_OCP-V_Hands-on_1-pager.pdf) |
 | 10.12. | 13:00-17:00 **Red Hat OpenShift Hosted Control Planes Hands-on Workshop** <br> Location: on-site (ETC, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261210_HCP_HandsOnWorkshop.pdf) |
 

@@ -47,6 +47,7 @@ title: "Archiv 2026 Community und Events"
 | 11.11. | **Keine Narrenfreiheit 2.0 – Angreifer rüsten auf. Wir auch?**<br>Location: IBM (Obere Donaustraße 95, 1020 Wien) | Mehr Info & Anmeldung: [hier](https://www.eventbrite.at/e/keine-narrenfreiheit-20-angreifer-rusten-auf-wir-auch-tickets-2001896015873) |
 | 16.-18.11. | **[Digital Days 2026](https://digitalcity.wien/event/digital-days-2026-2/)**<br>17.11. 11:00 – 12:30 AI Guardrails & Softwaresicherheit im KI-Zeitalter <br>18.11. Haupttag im Technischen Museum Wien - AI Guardrails und Whisper Voice Challenge |  |
 | 24.11. | **Red Hat OpenShift AI Hands-on Workshop**<br>Location: on-site (Arrow ECS, Wien) & remote | Details & Anmeldung: [hier](https://red-hat-austria-events-rh-events.apps.mnp.ocp.services/docs/20261124_RHOAI_Hands-on_1-pager.pdf) |
+| 26.11. | **Red Hat Developer Day "From Vibe to Value"**<br>Location: Arcotel Wimberger Vienna, Neubaugürtel 34-36, 1070 Wien | Details & Anmeldung [hier](https://reg.experiences.redhat.com/flow/redhat/4953475/rhexpressregistrationapp/page/expressregistration) |
 
 #
 
